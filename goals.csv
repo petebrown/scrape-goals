@@ -1,0 +1,3584 @@
+game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
+830464,114877,Josh McPake,75,0,0,for,75
+830464,58504,Kane Hemmings,88,1,0,for,pen 88
+830464,100515,Fraser Horsfall,29,0,0,against,"29, 37"
+830464,100515,Fraser Horsfall,37,0,0,against,"29, 37"
+830464,69850,Mitch Pinnock,66,0,0,against,66
+830059,51474,Callum McManaman,73,0,0,for,73
+830627,44029,Sam Foley,40,0,0,for,40
+830627,140587,Elliott Nevitt,51,0,0,for,51
+830627,79874,Dylan Bahamboula,59,0,0,against,59
+830627,76807,Tom Davies,68,0,1,against,og 68
+830095,47539,Alex Fisher,60,0,0,against,60
+830104,76588,Myles Hippolyte,4,1,0,against,pen 4
+830119,76807,Tom Davies,89,0,0,for,89
+830126,107787,Danny Cashman,84,0,0,against,84
+838131,41443,Nicky Maynard,7,0,0,for,"7, 41"
+838131,41443,Nicky Maynard,41,0,0,for,"7, 41"
+838131,44029,Sam Foley,34,0,0,for,"34, 87"
+838131,44029,Sam Foley,87,0,0,for,"34, 87"
+838131,133388,Amari Miller,63,0,0,against,63
+830143,68138,Kieron Morris,13,1,0,for,pen 13
+830143,140587,Elliott Nevitt,48,0,0,for,48
+830167,18605,Peter Clarke,28,0,0,for,"28, 79"
+830167,18605,Peter Clarke,79,0,0,for,"28, 79"
+830167,49560,Kwesi Appiah,64,0,0,against,64
+830178,101331,Josh Hawkes,54,0,0,for,54
+830178,18605,Peter Clarke,71,0,0,for,71
+830181,69100,Rod McDonald,48,0,1,for,og 48
+830196,49806,Jay Spearing,32,1,0,for,pen 32
+830196,68138,Kieron Morris,55,0,0,for,55
+830196,76505,Jack Muldoon,39,1,0,against,pen 39
+830196,86107,Luke Armstrong,51,0,0,against,51
+830214,116571,Kion Etete,52,0,0,against,52
+830214,61899,Sam Hoskins,68,1,0,against,pen 68
+830222,69039,Rhys Oates,18,0,0,against,18
+830222,78589,Danny Johnson,67,0,0,against,67
+840348,51474,Callum McManaman,38,0,0,for,38
+830238,114049,Isaac Olaofe,71,0,0,against,71
+830242,96015,Calum MacDonald,25,0,0,for,25
+830242,121903,Paul Glatzel,75,0,0,for,75
+830242,99407,Josh Grant,5,0,0,against,5
+830242,67496,Sam Nicholson,22,0,0,against,22
+830263,68138,Kieron Morris,50,0,0,for,50
+830263,121903,Paul Glatzel,56,0,0,for,56
+830263,77906,Jack Levi Sutton,26,0,0,against,26
+840683,94740,Harry Smith,22,0,0,against,"22, 83"
+840683,94740,Harry Smith,83,0,0,against,"22, 83"
+840683,52528,Omar Beckles,36,0,0,against,36
+840683,104249,Aaron Drinan,60,1,0,against,pen 60
+830285,120094,Charlie Jolley,90,0,0,for,90
+830291,140587,Elliott Nevitt,17,0,0,for,17
+830311,49806,Jay Spearing,58,0,0,for,58
+840979,41443,Nicky Maynard,11,0,0,for,11
+840979,76505,Jack Muldoon,53,0,0,against,53
+840979,85452,Alex Pattison,71,0,0,against,71
+830323,41443,Nicky Maynard,7,0,0,for,7
+830323,68138,Kieron Morris,87,0,0,for,87
+830359,120094,Charlie Jolley,23,0,0,for,23
+830359,140587,Elliott Nevitt,31,0,0,for,31
+830359,44029,Sam Foley,75,0,0,for,75
+830359,67179,Ryan Watson,89,0,0,for,89
+830343,121903,Paul Glatzel,70,0,0,for,70
+830343,109810,Aramide Oteh,29,0,0,against,29
+830371,120094,Charlie Jolley,3,0,0,for,"3, 16"
+830371,120094,Charlie Jolley,16,0,0,for,"3, 16"
+830373,49806,Jay Spearing,65,0,0,for,65
+830395,77819,Matt Stevens,6,0,0,against,6
+830395,57804,Jamille Matt,42,0,0,against,42
+830395,66505,Jordan Moore-Taylor,53,0,0,against,53
+830395,93064,Regan Hendry,70,0,0,against,70
+830275,68138,Kieron Morris,48,0,0,for,48
+830396,101331,Josh Hawkes,16,0,0,for,16
+830396,55846,Ollie Banks,58,1,0,against,pen 58
+830419,58504,Kane Hemmings,6,0,0,for,"6, pen 72"
+830419,58504,Kane Hemmings,72,1,0,for,"6, pen 72"
+830419,121903,Paul Glatzel,58,0,0,for,58
+830431,68816,Conor Wilkinson,85,1,0,against,pen 85
+830328,18605,Peter Clarke,45,0,1,against,og 45
+830443,101331,Josh Hawkes,50,0,0,for,50
+830443,52386,Jamie Proctor,90,0,0,against,90
+830450,103555,Josh Dacres-Cogley,65,0,0,for,65
+830450,58275,Mickey Demetriou,84,0,1,for,og 84
+830450,96407,Aaron Lewis,49,0,0,against,49
+830450,77032,Dom Telford,57,1,0,against,"pen 57, 90"
+830450,77032,Dom Telford,90,0,0,against,"pen 57, 90"
+830450,100081,Finn Azaz,88,0,0,against,88
+830478,18605,Peter Clarke,5,0,0,for,5
+830478,140587,Elliott Nevitt,76,0,0,for,"76, 90"
+830478,140587,Elliott Nevitt,90,0,0,for,"76, 90"
+830478,115848,Matthew Longstaff,45,0,0,against,45
+830478,78816,Oli Hawkins,90,0,0,against,90
+830490,144980,Lewis Warrington,49,0,0,for,49
+830490,58504,Kane Hemmings,65,1,0,for,pen 65
+830503,101331,Josh Hawkes,68,0,0,for,68
+830503,94463,Ben Goodliffe,15,0,0,against,15
+830506,136718,Junior Tchamadeu,90,0,0,against,90
+830526,58504,Kane Hemmings,15,0,0,for,15
+830526,140587,Elliott Nevitt,76,0,0,for,76
+830526,89447,Patrick Omari,55,0,0,against,55
+830526,74263,Tobi Sho-Silva,90,0,0,against,90
+830539,58504,Kane Hemmings,56,0,0,for,56
+830539,87583,Elliot Anderson,63,0,0,against,63
+830541,51474,Callum McManaman,89,0,0,for,89
+830541,63586,Jamie Walker,19,0,0,against,19
+830563,101331,Josh Hawkes,39,0,0,for,39
+830563,140587,Elliott Nevitt,81,0,0,for,81
+830574,59417,Luke Norris,23,1,0,against,"pen 23, 67"
+830574,59417,Luke Norris,67,0,0,against,"pen 23, 67"
+830587,101331,Josh Hawkes,27,0,0,for,27
+830587,58504,Kane Hemmings,62,0,0,for,62
+830594,58504,Kane Hemmings,37,0,0,for,37
+838157,67179,Ryan Watson,16,0,0,for,16
+838157,101526,Stephen Walker,86,0,0,for,86
+838186,121903,Paul Glatzel,45,0,0,for,"45, 75"
+838186,121903,Paul Glatzel,75,0,0,for,"45, 75"
+838186,41443,Nicky Maynard,55,0,0,for,55
+838186,102839,Zak Dearnley,15,0,0,against,"15, 43"
+838186,102839,Zak Dearnley,43,0,0,against,"15, 43"
+810521,40847,James Vaughan,64,0,0,for,64
+810521,46247,Lloyd Kerry,69,0,0,against,69
+812606,63205,Charlie Raglan,6,0,0,against,6
+812606,13433,Andy Williams,20,0,0,against,20
+812606,71462,Paul Lewis,39,0,1,against,og 39
+810921,40847,James Vaughan,74,0,0,for,"74, 75"
+810921,40847,James Vaughan,75,0,0,for,"74, 75"
+810921,54992,Stefan Payne,90,0,0,for,90
+810921,125530,Jake Cain,50,0,0,against,50
+810921,125525,Luis Longstaff,83,0,0,against,83
+812630,40847,James Vaughan,41,0,0,for,"41, 66"
+812630,40847,James Vaughan,66,0,0,for,"41, 66"
+812650,114852,Saikou Janneh,25,0,0,against,25
+812666,78589,Danny Johnson,71,0,0,against,71
+812678,18605,Peter Clarke,31,0,0,for,31
+812678,40847,James Vaughan,52,0,0,for,52
+812702,108097,Adam Phillips,57,1,0,against,pen 57
+819852,87739,Corey Taylor,13,0,0,for,13
+819852,18605,Peter Clarke,84,0,0,for,84
+819852,74316,Colby Bishop,24,0,0,against,24
+810952,70918,Kaiyne Woolery,45,0,0,for,45
+810952,68138,Kieron Morris,72,0,0,for,72
+810952,63576,Will Keane,19,0,0,against,19
+810952,135274,Harry McHugh,45,0,0,against,45
+820352,56548,Danny Lloyd,27,0,0,for,27
+820352,55846,Ollie Banks,88,1,0,for,pen 88
+820352,133497,Liam Delap,17,0,0,against,17
+812777,52537,Ryan Bowman,8,0,0,against,"8, 27, 77"
+812777,52537,Ryan Bowman,27,0,0,against,"8, 27, 77"
+812777,52537,Ryan Bowman,77,0,0,against,"8, 27, 77"
+812777,72250,Matt Jay,18,1,0,against,pen 18
+812777,54421,Jake Taylor,73,0,0,against,73
+812800,18605,Peter Clarke,28,0,0,for,28
+812800,68138,Kieron Morris,68,0,0,for,68
+812800,40847,James Vaughan,75,1,0,for,pen 75
+812823,40847,James Vaughan,23,0,0,for,23
+812823,81180,Scott Quigley,65,1,0,against,pen 65
+821266,88451,Morgan Ferrier,4,0,0,for,4
+821266,56548,Danny Lloyd,37,0,0,for,"37, 45"
+821266,56548,Danny Lloyd,45,0,0,for,"37, 45"
+821266,87739,Corey Taylor,53,0,0,for,53
+821266,136746,Jacob Wakeling,36,0,0,against,36
+821266,133556,Thanawat Suengchitthawon,56,0,0,against,56
+812639,68138,Kieron Morris,86,0,0,for,86
+812639,71462,Paul Lewis,90,0,0,for,90
+812639,56187,Richard Towell,2,0,0,against,2
+812639,75595,James Wilson,20,0,0,against,20
+820558,72505,Michal Helik,59,0,0,against,59
+820558,57719,Cauley Woodrow,90,1,0,against,pen 90
+821628,81463,Lynden Gooch,57,0,0,against,57
+812681,114055,Max Watters,13,0,0,against,13
+812681,59408,Tom Nichols,21,0,0,against,21
+812681,79237,Jordan Tunnicliffe,24,0,0,against,24
+812681,96393,Tyler Frost,77,0,0,against,77
+812710,75196,Otis Khan,79,0,0,for,79
+812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
+812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
+812725,68138,Kieron Morris,90,0,0,for,90
+812725,70918,Kaiyne Woolery,90,0,0,for,90
+812725,72740,Tom Conlon,16,1,0,against,pen 16
+812725,55423,David Amoo,24,0,0,against,24
+812725,100505,Devante Rodney,75,0,0,against,75
+812738,40847,James Vaughan,10,0,0,for,"10, pen 29"
+812738,40847,James Vaughan,29,1,0,for,"10, pen 29"
+812738,18605,Peter Clarke,27,0,0,for,27
+812738,75196,Otis Khan,33,0,0,for,33
+812738,71462,Paul Lewis,86,0,0,for,86
+812750,87739,Corey Taylor,51,0,0,for,51
+820118,70918,Kaiyne Woolery,67,0,0,for,67
+812760,40847,James Vaughan,27,0,0,for,27
+812774,46973,Liam Feeney,31,0,0,for,31
+812774,107086,Elijah Adebayo,19,0,0,against,19
+812774,90132,Wes McDonald,48,0,0,against,48
+812774,89051,Dan Scarr,66,0,0,against,66
+812822,51697,Lee Novak,62,0,0,against,62
+812858,71462,Paul Lewis,12,0,0,for,12
+812858,40847,James Vaughan,47,0,0,for,47
+812858,46973,Liam Feeney,76,0,0,for,76
+812858,66016,Elliott Whitehouse,65,0,0,against,65
+812858,48989,Scott Wagstaff,90,0,0,against,90
+812882,56548,Danny Lloyd,4,0,0,for,4
+812882,40847,James Vaughan,56,1,0,for,pen 56
+812882,56263,Antoni Sarcevic,66,0,0,against,66
+812894,40847,James Vaughan,36,1,0,for,"pen 36, 53"
+812894,40847,James Vaughan,53,0,0,for,"pen 36, 53"
+812894,70918,Kaiyne Woolery,51,0,0,for,51
+812894,114877,Josh McPake,25,0,0,against,25
+812894,123635,Josh March,72,0,0,against,72
+812903,70918,Kaiyne Woolery,74,0,0,for,74
+812918,70918,Kaiyne Woolery,17,0,0,for,17
+812918,40847,James Vaughan,30,0,0,for,"30, 59"
+812918,40847,James Vaughan,59,0,0,for,"30, 59"
+812918,124958,Jake Taylor,41,0,0,against,41
+812798,63056,Dan Newton,82,0,0,against,82
+821615,70918,Kaiyne Woolery,35,0,0,for,35
+821615,68138,Kieron Morris,66,0,0,for,66
+812942,96015,Calum MacDonald,42,0,0,for,42
+812942,70918,Kaiyne Woolery,51,0,0,for,51
+812942,94073,Davis Kellior-Dunn,2,0,0,against,2
+812942,79874,Dylan Bahamboula,78,0,0,against,78
+812946,70918,Kaiyne Woolery,21,0,0,for,21
+812946,40847,James Vaughan,43,0,0,for,"43, 88"
+812946,40847,James Vaughan,88,0,0,for,"43, 88"
+812946,107021,Joshua Kayode,3,0,0,against,3
+812946,76368,Nick Anderton,27,0,0,against,27
+812960,71462,Paul Lewis,24,0,0,for,24
+812960,70918,Kaiyne Woolery,56,0,0,for,56
+812960,68138,Kieron Morris,63,0,0,for,63
+812960,51753,Jamie Turley,67,0,0,against,67
+812978,46973,Liam Feeney,6,0,0,for,6
+812990,59408,Tom Nichols,58,0,0,against,58
+813001,71462,Paul Lewis,8,0,0,for,8
+813001,60385,George Ray,24,0,0,for,24
+813026,30552,Dave Nugent,18,1,0,for,pen 18
+813026,56548,Danny Lloyd,68,1,0,for,pen 68
+813026,109254,Joel Randall,20,0,0,against,20
+812838,56548,Danny Lloyd,62,1,0,for,pen 62
+812838,49806,Jay Spearing,67,0,0,for,67
+812838,55548,Harry Pell,30,0,0,against,30
+812838,118599,Brendan Sarpong-Wiredu,54,0,0,against,54
+813038,70918,Kaiyne Woolery,45,0,0,for,45
+813038,41911,Stephen Quinn,76,0,0,against,76
+813043,55832,Conor Thomas,4,0,0,against,4
+813043,76329,Will Boyle,14,0,0,against,14
+813043,85708,Alfie May,42,0,0,against,42
+813043,110770,Callum Wright,57,0,0,against,57
+813062,71462,Paul Lewis,11,0,0,for,11
+813062,70542,Paul Mullin,60,0,0,against,60
+813014,86838,Emmanuel Osadebe,70,0,0,against,70
+813089,107311,Paudie O'Connor,45,0,1,for,og 45
+813110,30552,Dave Nugent,66,0,0,for,66
+813115,68138,Kieron Morris,90,0,0,for,90
+813115,126162,Josh Davison,50,0,0,against,50
+813115,78063,Aaron Collins,81,1,0,against,pen 81
+824585,18605,Peter Clarke,19,0,0,for,19
+824585,42622,Nat Knight-Percival,15,0,0,against,15
+824585,69864,Liam McAlinden,45,0,0,against,45
+824587,40847,James Vaughan,53,0,0,for,53
+824587,51976,Aaron Wildig,9,0,0,against,9
+821554,56548,Danny Lloyd,38,0,0,for,38
+821554,71462,Paul Lewis,82,0,0,for,82
+821554,55834,Jonson Clarke-Harris,90,1,0,against,pen 90
+788698,76349,Stephen Dooley,89,0,1,for,og 89
+788698,63609,Connor Jennings,90,0,0,for,90
+788698,29475,Ian Henderson,12,1,0,against,"pen 12, 48"
+788698,29475,Ian Henderson,48,0,0,against,"pen 12, 48"
+788698,110103,Rhys Norrington-Davies,69,0,0,against,69
+788708,75865,Ben Close,27,0,0,against,27
+788708,51386,Tom Naylor,75,0,0,against,75
+791347,77356,Jon-Miquel Toral,1,0,0,against,1
+791347,105518,Manuel Milinkovic,6,0,0,against,6
+791347,52468,Ryan Tafazolli,45,0,0,against,45
+788722,55846,Ollie Banks,38,0,0,for,38
+788722,88451,Morgan Ferrier,40,0,0,for,"40, 46"
+788722,88451,Morgan Ferrier,46,0,0,for,"40, 46"
+788722,63609,Connor Jennings,63,0,0,for,63
+788722,54992,Stefan Payne,75,0,0,for,75
+788726,55834,Jonson Clarke-Harris,38,0,0,against,38
+788726,114253,Tyler Smith,88,1,0,against,pen 88
+788770,63609,Connor Jennings,67,0,0,for,67
+788770,70542,Paul Mullin,70,0,0,for,70
+788770,75014,Alex Jakubiak,16,0,0,against,16
+788770,93986,Alfie Jones,36,0,0,against,36
+788780,46388,James Henry,23,1,0,against,"pen 23, pen 90"
+788780,46388,James Henry,90,1,0,against,"pen 23, pen 90"
+788780,74212,Cameron Brannagan,70,0,0,against,70
+788794,55554,Liam Ridehalgh,65,0,0,for,65
+788794,55846,Ollie Banks,70,0,0,for,70
+788794,68830,Mo Eisa,54,0,0,against,54
+788794,68329,Ivan Toney,56,0,0,against,56
+788806,54992,Stefan Payne,90,0,0,for,90
+788806,55846,Ollie Banks,90,0,0,for,90
+788806,46484,Lucas Akins,66,1,0,against,pen 66
+788812,54992,Stefan Payne,39,0,0,for,39
+788812,53091,Luke Garbutt,35,0,0,against,35
+788812,71294,Kayden Jackson,48,0,0,against,48
+788812,61258,Jon Nolan,62,0,0,against,62
+788812,80172,Kane Vincent-Young,70,0,0,against,70
+788830,68246,Aaron Pierre,20,0,0,against,20
+789022,75406,Emmanuel Monthe,32,0,0,for,32
+789022,102691,Flynn Downes,55,0,0,against,55
+789022,71294,Kayden Jackson,79,0,0,against,79
+801289,99454,Harvey Gilmour,31,0,0,for,31
+801289,94672,George Hirst,52,0,0,against,52
+801289,95977,Admiral Muskwe,74,0,0,against,74
+799211,60385,George Ray,14,0,0,for,14
+799211,63609,Connor Jennings,78,0,0,for,78
+799211,124901,Cameron Archer,2,0,0,against,2
+798720,70880,Oscar Threlkeld,2,0,0,against,2
+798720,62951,Liam Hogan,56,0,0,against,56
+800755,88451,Morgan Ferrier,55,0,0,for,55
+800755,68138,Kieron Morris,115,0,0,for,115
+800755,59994,Anthony Stewart,45,0,0,against,45
+788906,70542,Paul Mullin,87,0,0,for,87
+788906,56129,Josh Morris,15,0,0,against,15
+788906,55027,Paddy Madden,82,0,0,against,82
+788835,87739,Corey Taylor,83,0,0,for,83
+788854,70542,Paul Mullin,85,1,0,for,pen 85
+788854,63957,Tom Hopper,9,0,0,against,9
+788866,68211,Duncan Watmore,24,0,0,against,24
+788866,41511,Chris Maguire,26,0,0,against,26
+788866,81463,Lynden Gooch,39,0,0,against,39
+788866,50818,Will Grigg,83,0,0,against,83
+788866,71186,Luke O'Nien,90,0,0,against,90
+788887,81732,Rushian Hepburn-Murphy,19,0,0,for,"19, 53, 69"
+788887,81732,Rushian Hepburn-Murphy,53,0,0,for,"19, 53, 69"
+788887,81732,Rushian Hepburn-Murphy,69,0,0,for,"19, 53, 69"
+788887,57974,Ben Reeves,42,0,0,against,42
+800548,68138,Kieron Morris,3,0,0,for,"3, 67"
+800548,68138,Kieron Morris,67,0,0,for,"3, 67"
+800548,43714,Joe Jacobson,26,0,0,against,26
+800548,87884,Alex Samuel,55,0,0,against,55
+788903,36629,Adebayo Akinfenwa,43,0,0,against,43
+788903,43714,Joe Jacobson,45,1,0,against,pen 45
+800777,87739,Corey Taylor,62,0,0,for,"62, 85"
+800777,87739,Corey Taylor,85,0,0,for,"62, 85"
+800777,88451,Morgan Ferrier,64,0,0,for,"64, 71, 75"
+800777,88451,Morgan Ferrier,71,0,0,for,"64, 71, 75"
+800777,88451,Morgan Ferrier,75,0,0,for,"64, 71, 75"
+800777,126953,Ryan Peake,90,0,0,against,90
+788927,68138,Kieron Morris,38,0,0,for,38
+788927,51096,Sean McConville,18,0,0,against,18
+788932,44399,John Akinde,77,0,0,against,77
+788951,81732,Rushian Hepburn-Murphy,26,0,0,for,26
+788954,88451,Morgan Ferrier,26,0,0,for,26
+788954,68138,Kieron Morris,64,0,0,for,64
+788954,75939,Scott Fraser,12,0,0,against,12
+788954,46484,Lucas Akins,50,0,0,against,50
+788954,56253,Liam Boyce,60,0,0,against,"60, 86"
+788954,56253,Liam Boyce,86,0,0,against,"60, 86"
+788974,88451,Morgan Ferrier,43,0,0,for,43
+788974,77222,Ben Heneghan,9,0,0,against,9
+788986,63609,Connor Jennings,34,0,0,for,34
+788986,51791,Matt Godden,3,0,0,against,"3, 67, pen 90"
+788986,51791,Matt Godden,67,0,0,against,"3, 67, pen 90"
+788986,51791,Matt Godden,90,1,0,against,"3, 67, pen 90"
+788986,94503,Jordan Shipley,17,0,0,against,17
+801153,63609,Connor Jennings,65,0,0,for,65
+801153,75406,Emmanuel Monthe,78,0,0,for,78
+801153,70542,Paul Mullin,87,1,0,for,pen 87
+801153,107011,Tom Dele-Bashiru,12,0,0,against,12
+801153,57093,Nathaniel Chalobah,14,0,0,against,14
+801153,54560,Roberto Pereyra,34,0,0,against,34
+801548,75406,Emmanuel Monthe,36,0,0,for,36
+801548,70542,Paul Mullin,104,0,0,for,104
+801548,100993,Kaylen Hinds,68,0,0,against,68
+801787,58712,Harry Maguire,10,0,0,against,10
+801787,106203,Diogo Dalot,13,0,0,against,13
+801787,63531,Jesse Lingard,16,0,0,against,16
+801787,52124,Phil Jones,41,0,0,against,41
+801787,68556,Anthony Martial,45,0,0,against,45
+801787,113509,Mason Greenwood,56,1,0,against,pen 56
+789046,64314,Charlie Wyke,60,0,0,against,60
+789049,116884,Dennis Politic,2,0,0,against,2
+789049,34857,Chris O'Grady,64,0,0,against,64
+788879,118641,Jacob Ramsey,54,0,0,against,"54, 75"
+788879,118641,Jacob Ramsey,75,0,0,against,"54, 75"
+788879,75782,Fejiri Okenabirhie,84,0,0,against,84
+789107,40847,James Vaughan,63,0,0,for,63
+789107,59994,Anthony Stewart,45,0,0,against,45
+789107,36629,Adebayo Akinfenwa,71,0,0,against,71
+789107,43714,Joe Jacobson,90,1,0,against,pen 90
+788997,46623,Mark Ellis,9,0,0,for,9
+788997,54534,Alex Woodyard,14,0,0,for,14
+788997,87739,Corey Taylor,90,0,0,for,90
+788997,68246,Aaron Pierre,56,0,0,against,56
+788997,92842,Callum Lang,61,0,0,against,61
+789121,40847,James Vaughan,8,0,0,for,8
+789121,46623,Mark Ellis,77,0,0,for,77
+789121,54534,Alex Woodyard,82,0,1,against,og 82
+789024,88451,Morgan Ferrier,37,0,0,for,37
+789024,40847,James Vaughan,45,0,0,for,45
+789024,100994,Kieran Dewsbury-Hall,58,0,0,against,58
+789070,57979,Sean Raggett,13,0,0,against,13
+789070,61160,Ryan Williams,51,0,0,against,51
+800843,81732,Rushian Hepburn-Murphy,2,0,0,for,2
+800843,63609,Connor Jennings,40,0,0,for,40
+800843,87739,Corey Taylor,54,0,0,for,54
+800843,113511,Tahith Chong,9,0,0,against,"9, 31"
+800843,113511,Tahith Chong,31,0,0,against,"9, 31"
+788758,54992,Stefan Payne,90,0,0,for,90
+788758,106086,Ben Wiles,73,0,0,against,73
+770383,55846,Ollie Banks,28,0,0,for,28
+770383,99454,Harvey Gilmour,41,0,0,for,"41, 89"
+770383,99454,Harvey Gilmour,89,0,0,for,"41, 89"
+770383,90268,Jonny Smith,54,0,0,for,54
+770383,69039,Rhys Oates,13,0,0,against,13
+770383,65814,Vadaine Oliver,73,0,0,against,73
+770383,51993,AJ Leitch-Smith,80,0,0,against,80
+779185,45353,Lenell John-Lewis,11,0,0,against,11
+779185,69286,Greg Docherty,18,0,0,against,18
+779185,52528,Omar Beckles,23,0,0,against,23
+779185,75782,Fejiri Okenabirhie,56,0,0,against,"56, 74, 90"
+779185,75782,Fejiri Okenabirhie,74,0,0,against,"56, 74, 90"
+779185,75782,Fejiri Okenabirhie,90,0,0,against,"56, 74, 90"
+779187,107017,Rabbi Matondo,49,0,0,against,49
+770254,51911,James Norwood,33,0,0,for,"33, 55"
+770254,51911,James Norwood,55,0,0,for,"33, 55"
+770254,94572,Jimmy Ball,20,0,0,against,20
+770254,44390,Joel Byrom,27,0,0,against,27
+770266,51911,James Norwood,13,0,0,for,13
+768613,62460,Larnell Cole,80,0,0,for,80
+768613,88451,Morgan Ferrier,29,0,0,against,29
+768613,75869,Josh Ginnelly,64,0,0,against,64
+768613,67639,Zeli Ismail,68,0,0,against,68
+770310,51911,James Norwood,51,0,0,for,51
+770310,65270,Junior Morias,61,0,0,against,61
+779182,43779,Jay Harris,45,0,0,for,45
+779182,63703,Cole Stockton,45,0,0,for,45
+779182,70542,Paul Mullin,46,0,0,for,46
+779182,34692,Chris Porter,20,0,0,against,"20, 85"
+779182,34692,Chris Porter,85,0,0,against,"20, 85"
+779182,42964,Alex Nicholls,73,0,0,against,73
+779182,76803,James Jones,86,0,0,against,86
+770326,51911,James Norwood,42,0,0,for,42
+770326,55548,Harry Pell,61,0,0,against,61
+770328,53241,Tom Parkes,80,0,1,for,og 80
+770328,70542,Paul Mullin,86,0,0,for,86
+770350,49636,Fraser Franks,5,0,0,against,5
+770359,90268,Jonny Smith,37,0,0,for,37
+770359,62456,Chuks Aneke,45,0,0,against,45
+770375,51911,James Norwood,61,0,0,for,61
+770449,51911,James Norwood,36,0,0,for,36
+770449,70542,Paul Mullin,83,0,0,for,83
+770449,79548,Callum Ainley,20,0,0,against,"20, 51"
+770449,79548,Callum Ainley,51,0,0,against,"20, 51"
+770449,90083,Charlie Kirk,67,0,0,against,67
+780996,51911,James Norwood,6,0,0,for,6
+780996,70542,Paul Mullin,30,0,0,for,30
+770471,63609,Connor Jennings,72,0,0,for,72
+770471,113177,Johan Branger,40,0,0,against,40
+770476,51911,James Norwood,11,0,0,for,11
+770476,70542,Paul Mullin,65,0,0,for,65
+770476,85722,Harry Clifton,33,0,0,against,33
+770476,49879,Wes Thomas,40,0,0,against,40
+770476,51973,Harry Davis,48,0,0,against,48
+770476,65017,Mitch Rose,82,1,0,against,pen 82
+770476,94294,Elliot Embleton,90,0,0,against,90
+770505,90268,Jonny Smith,38,0,0,for,38
+770505,63609,Connor Jennings,58,0,0,for,58
+770505,32552,Jon Stead,33,0,0,against,"33, pen 76"
+770505,32552,Jon Stead,76,1,0,against,"33, pen 76"
+770505,58504,Kane Hemmings,44,0,0,against,44
+770613,51911,James Norwood,10,0,0,for,"10, 56"
+770613,51911,James Norwood,56,0,0,for,"10, 56"
+770613,88392,Ben Whitfield,59,0,0,against,59
+770650,63609,Connor Jennings,69,0,0,for,69
+770654,51911,James Norwood,31,0,0,for,31
+770676,51911,James Norwood,72,0,0,for,72
+770759,95989,Junior Mondal,47,0,0,against,47
+770785,51911,James Norwood,50,1,0,for,pen 50
+770785,110263,Ashley Nathaniel-George,36,0,0,against,36
+770785,43413,Filipe Alexandre Morais,42,0,0,against,42
+770785,103466,Panutche Camara,90,0,0,against,90
+770279,90268,Jonny Smith,9,0,0,for,9
+770279,51911,James Norwood,13,0,0,for,13
+770279,107086,Elijah Adebayo,20,0,0,against,20
+770279,23150,Marc Richards,60,0,0,against,60
+770279,108804,Joe Romanski,73,0,0,against,73
+770302,51911,James Norwood,77,0,0,for,77
+770399,99454,Harvey Gilmour,74,0,0,for,74
+770435,63609,Connor Jennings,25,0,0,for,25
+770435,51911,James Norwood,43,0,0,for,"43, 54"
+770435,51911,James Norwood,54,0,0,for,"43, 54"
+770435,58164,Adam Buxton,58,1,0,for,pen 58
+770435,70542,Paul Mullin,60,0,0,for,60
+770435,57862,Ollie Palmer,65,0,0,against,65
+770447,51911,James Norwood,31,0,0,for,"31, 55"
+770447,51911,James Norwood,55,0,0,for,"31, 55"
+780784,63609,Connor Jennings,34,0,0,for,"34, 78"
+780784,63609,Connor Jennings,78,0,0,for,"34, 78"
+780784,51911,James Norwood,89,0,0,for,89
+780784,78913,Kabongo Tshimanga,39,0,0,against,"39, 66, 82"
+780784,78913,Kabongo Tshimanga,66,0,0,against,"39, 66, 82"
+780784,78913,Kabongo Tshimanga,82,0,0,against,"39, 66, 82"
+781566,53968,Serge Aurier,40,0,0,against,"40, 55"
+781566,53968,Serge Aurier,55,0,0,against,"40, 55"
+781566,40672,Fernando Llorente,48,0,0,against,"48, 71, 72"
+781566,40672,Fernando Llorente,71,0,0,against,"48, 71, 72"
+781566,40672,Fernando Llorente,72,0,0,against,"48, 71, 72"
+781566,57526,Heung-Min Son,57,0,0,against,57
+781566,52657,Harry Kane,82,0,0,against,82
+770569,51911,James Norwood,46,0,0,for,46
+770569,41710,Ishmael Miller,61,0,0,for,61
+770569,55846,Ollie Banks,72,0,0,for,72
+770569,35554,Luke Varney,42,0,0,against,42
+770590,51911,James Norwood,52,0,0,for,52
+770590,23150,Marc Richards,20,0,0,against,20
+770590,58150,Michael Doughty,36,0,0,against,36
+770597,77156,Jorge Grant,22,0,0,against,"22, 68"
+770597,77156,Jorge Grant,68,0,0,against,"22, 68"
+770597,78132,Tyler Walker,65,0,0,against,65
+770687,63609,Connor Jennings,18,0,0,for,"18, 44"
+770687,63609,Connor Jennings,44,0,0,for,"18, 44"
+770687,75406,Emmanuel Monthe,34,0,0,for,34
+770687,51911,James Norwood,39,0,0,for,39
+770687,44604,Martyn Woolford,33,0,0,against,33
+770702,51911,James Norwood,23,0,0,for,23
+770702,22779,David Perkins,46,0,0,for,46
+770722,55846,Ollie Banks,45,0,0,for,45
+770722,51911,James Norwood,64,0,0,for,64
+770722,75406,Emmanuel Monthe,82,0,0,for,82
+770697,92842,Callum Lang,7,0,0,against,"7, 61"
+770697,92842,Callum Lang,61,0,0,against,"7, 61"
+770746,22779,David Perkins,30,0,0,for,30
+770746,63609,Connor Jennings,62,0,0,for,62
+770746,49715,Kieran Agard,32,0,0,against,32
+770783,51911,James Norwood,11,0,0,for,11
+770783,51215,Danny Mayor,56,0,0,against,56
+784749,55846,Ollie Banks,26,0,0,for,26
+784751,51911,James Norwood,27,0,0,for,27
+784751,49657,Joseph Mills,12,0,0,against,12
+784864,63609,Connor Jennings,119,0,0,for,119
+781026,90268,Jonny Smith,18,0,0,for,18
+781026,103627,Bradley Bauress,70,0,0,against,70
+770494,51911,James Norwood,77,0,0,for,77
+781285,63609,Connor Jennings,14,0,0,for,"14, 43"
+781285,63609,Connor Jennings,43,0,0,for,"14, 43"
+770549,63609,Connor Jennings,32,0,0,for,32
+770549,69772,Koby Arthur,41,0,0,against,41
+770414,70542,Paul Mullin,85,0,0,for,85
+770414,72476,Reece Brown,11,0,0,against,11
+770414,78221,Liam Shephard,39,0,0,against,39
+770414,86862,Tahvon Campbell,90,0,0,against,90
+770508,44409,Richard Sutton,90,0,0,for,90
+770508,41443,Nicky Maynard,52,0,0,against,52
+770508,67066,Caolan Lavery,90,0,0,against,90
+770531,63703,Cole Stockton,3,0,0,for,3
+770531,51911,James Norwood,29,0,0,for,29
+770531,43779,Jay Harris,45,0,0,for,45
+770531,74470,Jordan Cranston,66,0,0,against,66
+770566,51911,James Norwood,25,0,0,for,25
+770566,61899,Sam Hoskins,2,0,0,against,"2, 45"
+770566,61899,Sam Hoskins,45,0,0,against,"2, 45"
+770626,68138,Kieron Morris,45,0,0,for,45
+770626,51911,James Norwood,79,0,0,for,79
+753843,52497,Andy Cook,18,0,0,for,18
+753843,62490,Oliver Norburn,31,0,0,for,31
+753843,33803,James McEveley,60,0,0,for,60
+753843,94418,Charlie Carter,43,0,0,against,43
+753855,50243,Craig Dundas,32,0,0,against,32
+753872,58325,Ben Williamson,64,0,0,against,64
+753872,38411,Craig McAllister,79,0,0,against,79
+753889,52497,Andy Cook,82,0,0,for,82
+753889,38248,Andy Mangan,90,0,0,for,90
+753889,57793,Bruno Andrade,53,1,0,against,pen 53
+753889,48289,Angelo Balanta,68,0,0,against,68
+753938,87342,Harry Pritchard,88,0,0,against,88
+753963,43982,Chris Holroyd,58,0,0,against,58
+753964,51911,James Norwood,90,0,0,for,90
+754051,58164,Adam Buxton,90,0,1,against,og 90
+754066,62460,Larnell Cole,19,0,0,for,19
+754066,52497,Andy Cook,42,0,0,for,42
+754066,73531,Scott Wilson,40,0,0,against,40
+754066,59347,Tyrone Marsh,90,0,0,against,90
+754078,51911,James Norwood,7,0,0,for,"7, 83"
+754078,51911,James Norwood,83,0,0,for,"7, 83"
+754078,52497,Andy Cook,16,0,0,for,16
+754078,62490,Oliver Norburn,77,0,0,for,77
+754107,63609,Connor Jennings,35,0,0,for,35
+754107,52497,Andy Cook,79,0,0,for,"79, 82"
+754107,52497,Andy Cook,82,0,0,for,"79, 82"
+754117,58164,Adam Buxton,10,0,0,for,10
+754117,63609,Connor Jennings,44,0,0,for,44
+754117,52497,Andy Cook,90,0,0,for,90
+754117,49995,Kenny Davis,25,0,0,against,25
+754126,44409,Richard Sutton,37,0,0,for,"37, 43"
+754126,44409,Richard Sutton,43,0,0,for,"37, 43"
+754126,63609,Connor Jennings,52,0,0,for,"52, 68"
+754126,63609,Connor Jennings,68,0,0,for,"52, 68"
+754126,90268,Jonny Smith,58,0,0,against,58
+754143,51911,James Norwood,65,0,0,for,65
+754143,63609,Connor Jennings,70,0,0,for,"70, 78"
+754143,63609,Connor Jennings,78,0,0,for,"70, 78"
+754143,52497,Andy Cook,86,0,0,for,86
+754148,55846,Ollie Banks,58,0,0,for,58
+754148,63609,Connor Jennings,90,1,0,for,pen 90
+754148,58100,Danny L Rowe,21,0,0,against,21
+754148,76505,Jack Muldoon,28,0,0,against,28
+754148,60435,Zaine Francis-Angol,36,0,0,against,36
+754148,79237,Jordan Tunnicliffe,55,0,0,against,55
+754148,97793,Serhat Tasdemir,90,0,0,against,90
+753903,62490,Oliver Norburn,19,0,0,for,19
+753903,52497,Andy Cook,82,0,0,for,82
+753915,70950,Ryan Bird,79,0,0,against,79
+753927,51911,James Norwood,90,0,0,for,90
+753982,52497,Andy Cook,25,0,0,for,25
+753982,51911,James Norwood,70,0,0,for,70
+753982,35641,Matt Harrold,22,0,0,against,22
+761214,56548,Danny Lloyd,16,0,0,against,"16, 22, 73"
+761214,56548,Danny Lloyd,22,0,0,against,"16, 22, 73"
+761214,56548,Danny Lloyd,73,0,0,against,"16, 22, 73"
+761214,61223,Jack Baldwin,67,0,0,against,67
+761214,69443,Marcus Maddison,75,1,0,against,pen 75
+754160,51911,James Norwood,90,0,0,for,90
+754160,58116,Byron Harrison,5,1,0,against,pen 5
+754093,52497,Andy Cook,28,0,0,for,28
+754179,51911,James Norwood,4,0,0,for,4
+754179,75869,Josh Ginnelly,49,0,0,for,49
+754179,41945,Jeff Hughes,78,0,0,for,78
+754179,87065,Sam Barratt,55,0,0,against,55
+754179,55934,Remy Clerima,84,0,0,against,84
+754186,44409,Richard Sutton,10,0,0,for,10
+754186,52497,Andy Cook,45,0,0,for,45
+754186,81180,Scott Quigley,12,0,0,against,12
+754186,43982,Chris Holroyd,16,1,0,against,pen 16
+754222,63609,Connor Jennings,35,0,0,for,35
+754234,52497,Andy Cook,49,0,0,for,49
+754234,26262,Dan Whitaker,45,0,0,against,"45, pen 62"
+754234,26262,Dan Whitaker,62,1,0,against,"45, pen 62"
+754234,51012,Elliott Durrell,55,0,0,against,"55, 66"
+754234,51012,Elliott Durrell,66,0,0,against,"55, 66"
+754247,73994,Alex Finney,85,0,1,for,og 85
+754247,52497,Andy Cook,39,0,0,for,39
+754247,58164,Adam Buxton,88,1,0,for,pen 88
+754247,73994,Alex Finney,27,0,0,against,27
+754247,52877,Ross Lafayette,41,1,0,against,pen 41
+754265,52497,Andy Cook,47,0,0,for,"47, 69"
+754265,52497,Andy Cook,69,0,0,for,"47, 69"
+754265,51911,James Norwood,68,0,0,for,"68, 90"
+754265,51911,James Norwood,90,0,0,for,"68, 90"
+754276,51911,James Norwood,66,0,0,for,66
+754276,48289,Angelo Balanta,45,0,0,against,45
+754276,57793,Bruno Andrade,79,0,0,against,79
+754299,44409,Richard Sutton,9,0,0,for,9
+754299,52497,Andy Cook,78,0,0,for,"78, 90"
+754299,52497,Andy Cook,90,0,0,for,"78, 90"
+754299,41909,Chris Zebroski,88,0,0,against,88
+754326,52497,Andy Cook,45,0,0,for,45
+754326,51911,James Norwood,64,0,0,for,64
+754258,52497,Andy Cook,45,0,0,for,"45, 53, 60, 69"
+754258,52497,Andy Cook,53,0,0,for,"45, 53, 60, 69"
+754258,52497,Andy Cook,60,0,0,for,"45, 53, 60, 69"
+754258,52497,Andy Cook,69,0,0,for,"45, 53, 60, 69"
+754258,65646,Wesley York,39,0,0,against,39
+754258,55921,Scott Barrow,43,0,0,against,43
+754346,51911,James Norwood,70,0,0,for,"70, 80"
+754346,51911,James Norwood,80,0,0,for,"70, 80"
+754303,52497,Andy Cook,39,0,0,for,39
+754355,52497,Andy Cook,4,0,0,for,4
+754355,51911,James Norwood,23,0,0,for,23
+765546,51911,James Norwood,33,0,0,for,"33, 101"
+765546,51911,James Norwood,101,0,0,for,"33, 101"
+765546,75869,Josh Ginnelly,56,0,0,for,56
+765546,62460,Larnell Cole,106,0,0,for,106
+765546,68837,Luke Coulson,16,0,0,against,16
+765546,44388,Myles Weston,51,0,0,against,51
+754000,52777,Steve McNulty,17,0,0,for,17
+754000,55723,Fabien Robert,80,0,0,against,80
+754000,36595,Scott Rendell,90,0,0,against,90
+754198,52497,Andy Cook,16,0,0,for,16
+754198,51911,James Norwood,35,0,0,for,"35, 63"
+754198,51911,James Norwood,63,0,0,for,"35, 63"
+754210,44409,Richard Sutton,43,0,0,for,43
+754210,67070,Dan Holman,52,0,0,against,52
+754321,80289,Devarn Green,67,0,0,for,67
+754321,52876,Jamie Osborne,31,0,0,against,31
+754321,100439,Alex Reid,64,0,0,against,64
+765578,52497,Andy Cook,6,0,0,for,6
+765578,51911,James Norwood,80,0,0,for,80
+765578,57793,Bruno Andrade,45,0,0,against,45
+754032,51911,James Norwood,5,0,0,for,"5, 14"
+754032,51911,James Norwood,14,0,0,for,"5, 14"
+754032,62460,Larnell Cole,52,0,0,for,52
+754032,78694,Dylan Mottley Henry,57,0,0,for,57
+754032,71326,Matt Brown,51,0,0,against,51
+754032,102837,Dan Batty,65,0,0,against,65
+760765,52497,Andy Cook,72,0,0,for,72
+760765,70010,Jack Marriott,52,0,0,against,52
+754042,51911,James Norwood,4,0,0,for,4
+754042,62490,Oliver Norburn,41,0,0,for,41
+754370,41945,Jeff Hughes,76,0,0,for,76
+754370,76217,Liam Donnelly,45,1,0,against,pen 45
+754370,69039,Rhys Oates,74,0,0,against,74
+754023,33803,James McEveley,57,0,0,for,57
+754023,46424,Nicky Deverdics,50,0,0,against,50
+733901,52497,Andy Cook,33,0,0,for,"33, 49"
+733901,52497,Andy Cook,49,0,0,for,"33, 49"
+733901,51911,James Norwood,69,0,0,for,69
+733901,94419,Fabio Saraiva,68,0,0,against,68
+733925,87475,Sam Jones,51,0,0,against,51
+733945,65015,Jake Kirby,17,0,0,for,"17, 81"
+733945,65015,Jake Kirby,81,0,0,for,"17, 81"
+733945,51911,James Norwood,90,0,0,for,90
+733960,52497,Andy Cook,90,0,0,for,90
+734141,52497,Andy Cook,8,0,0,for,"8, 15"
+734141,52497,Andy Cook,15,0,0,for,"8, 15"
+734141,94485,Brandon Hanlan,64,0,0,against,64
+734141,53563,Jack Holland,87,0,0,against,87
+734200,63703,Cole Stockton,68,0,0,for,68
+734249,97071,Oliver Marx,10,0,1,for,og 10
+734093,71423,Michael Ihiekwe,29,0,0,for,"29, 90"
+734093,71423,Michael Ihiekwe,90,0,0,for,"29, 90"
+734093,52372,Craig Eastmond,60,0,1,for,og 60
+734093,78513,Jack Jebb,77,0,0,against,77
+734093,100947,Pape Gueye,81,0,0,against,81
+734262,63703,Cole Stockton,20,0,0,for,"20, 25, 45"
+734262,63703,Cole Stockton,25,0,0,for,"20, 25, 45"
+734262,63703,Cole Stockton,45,0,0,for,"20, 25, 45"
+734262,63609,Connor Jennings,48,0,0,for,"48, 50, 90"
+734262,63609,Connor Jennings,50,0,0,for,"48, 50, 90"
+734262,63609,Connor Jennings,90,0,0,for,"48, 50, 90"
+734262,52497,Andy Cook,68,0,0,for,68
+734262,55554,Liam Ridehalgh,84,0,0,for,84
+734262,78063,Aaron Collins,90,0,0,for,90
+734176,70918,Kaiyne Woolery,85,0,0,against,85
+734272,63703,Cole Stockton,12,0,0,for,12
+734272,63609,Connor Jennings,23,0,0,for,23
+734272,55838,Matt McClure,3,0,0,against,3
+734272,71184,Bernard Mensah,40,0,0,against,40
+734281,51911,James Norwood,49,0,0,for,49
+734281,52497,Andy Cook,58,0,0,for,58
+734281,26433,Derek Asamoah,33,0,0,against,33
+734296,51911,James Norwood,25,0,0,for,"25, 46"
+734296,51911,James Norwood,46,0,0,for,"25, 46"
+734296,63609,Connor Jennings,50,0,0,for,"50, 71"
+734296,63609,Connor Jennings,71,0,0,for,"50, 71"
+734296,102160,Spencer Myers,61,0,0,against,61
+745457,63703,Cole Stockton,3,0,0,for,"3, 75"
+745457,63703,Cole Stockton,75,0,0,for,"3, 75"
+745457,51911,James Norwood,48,0,0,for,48
+745459,63703,Cole Stockton,31,0,0,for,31
+745459,51911,James Norwood,90,0,0,for,90
+745459,71184,Bernard Mensah,43,0,0,against,43
+745459,41945,Jeff Hughes,50,0,1,against,og 50
+745502,63609,Connor Jennings,22,0,0,for,22
+745502,70918,Kaiyne Woolery,12,0,0,against,"12, 44"
+745502,70918,Kaiyne Woolery,44,0,0,against,"12, 44"
+745502,77354,Christian Doidge,41,0,0,against,41
+734307,94139,Sam Ilesanmi,56,0,0,for,56
+733761,51911,James Norwood,9,0,0,for,"9, 44"
+733761,51911,James Norwood,44,0,0,for,"9, 44"
+733781,52497,Andy Cook,40,0,0,for,40
+733781,51911,James Norwood,86,1,0,for,pen 86
+733793,36541,Steven Jennings,24,0,0,for,24
+733793,51911,James Norwood,90,0,0,for,90
+733793,45280,Adam Dugdale,30,0,0,against,30
+733796,63609,Connor Jennings,33,0,0,for,33
+733816,52497,Andy Cook,40,0,0,for,40
+733816,52777,Steve McNulty,80,0,0,for,80
+733816,78881,Alex Flisher,61,0,0,against,61
+733828,52497,Andy Cook,47,0,0,for,47
+733828,51974,Louis Almond,62,0,0,against,62
+733840,51911,James Norwood,40,0,0,for,40
+733843,52497,Andy Cook,37,0,0,for,37
+733843,71184,Bernard Mensah,3,0,0,against,3
+733843,36595,Scott Rendell,79,1,0,against,pen 79
+733843,55848,Will Evans,82,0,0,against,82
+733865,73283,Macauley Bonne,67,0,0,against,67
+733888,51741,Dan Fitchett,47,0,0,against,47
+733938,33467,Shwan Jalal,64,0,1,for,og 64
+733938,52497,Andy Cook,90,0,0,for,90
+733968,52497,Andy Cook,31,0,0,for,"31, 60"
+733968,52497,Andy Cook,60,0,0,for,"31, 60"
+733968,52103,Mitch Walker,65,0,1,for,og 65
+733968,86076,Ben Tollitt,79,0,0,for,79
+733968,48661,Aswad Thomas,22,0,0,against,22
+733984,52497,Andy Cook,29,0,0,for,29
+733984,86076,Ben Tollitt,35,0,0,for,35
+733984,55908,Tom Shaw,50,0,0,against,50
+733984,80220,Ryan Astles,90,0,0,against,90
+733990,52497,Andy Cook,76,0,0,for,76
+734005,71520,Lois Maynard,5,0,0,for,5
+734005,51911,James Norwood,66,0,0,for,66
+734005,77354,Christian Doidge,3,0,0,against,3
+734005,58193,Liam Noble,29,0,0,against,29
+734020,38248,Andy Mangan,12,0,0,for,"12, 46"
+734020,38248,Andy Mangan,46,0,0,for,"12, 46"
+734020,50075,Daniel Sparkes,65,0,0,against,65
+734027,86076,Ben Tollitt,3,0,0,for,3
+734045,51911,James Norwood,90,0,0,for,90
+734117,95540,Corey Whitely,24,0,0,against,24
+734117,78816,Oli Hawkins,47,0,0,against,47
+734105,52497,Andy Cook,51,0,0,for,51
+734105,86076,Ben Tollitt,53,0,0,for,"53, 78"
+734105,86076,Ben Tollitt,78,0,0,for,"53, 78"
+734147,86076,Ben Tollitt,60,0,0,for,60
+734147,51911,James Norwood,86,0,0,for,86
+734165,52497,Andy Cook,1,0,0,for,"1, 13"
+734165,52497,Andy Cook,13,0,0,for,"1, 13"
+734165,57793,Bruno Andrade,89,0,0,against,89
+734183,43779,Jay Harris,54,0,0,for,54
+734183,51911,James Norwood,81,0,0,for,81
+734183,52497,Andy Cook,89,0,0,for,89
+734183,69292,James Alabi,5,1,0,against,pen 5
+734183,80220,Ryan Astles,68,0,0,against,68
+734119,52497,Andy Cook,33,0,0,for,33
+734119,68072,Inih Effiong,63,0,0,against,63
+734119,89041,Jordan Williams,71,0,0,against,71
+734224,43779,Jay Harris,22,0,0,for,"22, 45, 90"
+734224,43779,Jay Harris,45,0,0,for,"22, 45, 90"
+734224,43779,Jay Harris,90,0,0,for,"22, 45, 90"
+734224,52497,Andy Cook,60,0,0,for,60
+734224,52647,Mark Gray,12,0,0,against,12
+734236,52497,Andy Cook,54,0,0,for,54
+734052,41945,Jeff Hughes,29,1,0,for,pen 29
+734052,42094,Nathan Arnold,3,0,0,against,3
+734052,51644,Adam Marriott,81,0,0,against,81
+734069,41945,Jeff Hughes,83,0,0,for,83
+734077,52777,Steve McNulty,10,0,0,for,10
+734077,44409,Richard Sutton,36,0,0,for,36
+734077,71462,Paul Lewis,12,0,0,against,"12, 50, pen 82"
+734077,71462,Paul Lewis,50,0,0,against,"12, 50, pen 82"
+734077,71462,Paul Lewis,82,1,0,against,"12, 50, pen 82"
+734077,51333,Daniel M Rowe,71,0,0,against,71
+715191,50933,Graeme Montgomery,58,0,0,against,58
+715191,53261,Harry Crawford,90,0,0,against,90
+715210,71520,Lois Maynard,85,0,0,for,85
+715210,55483,George Bowerman,7,0,0,against,7
+715210,39597,Michael Rankine,29,0,0,against,29
+715218,62951,Liam Hogan,20,0,0,for,20
+715218,38248,Andy Mangan,26,0,0,for,26
+715218,85724,Gurjit Singh,84,0,0,against,84
+715218,53259,Reece Styche,90,0,0,against,90
+715269,66526,Nathan Blissett,54,0,0,for,54
+715269,42138,Jon-Paul Pittman,9,0,0,against,9
+715272,51911,James Norwood,45,0,0,for,45
+715272,52480,Adam Mekki,69,0,0,for,69
+715272,38248,Andy Mangan,90,0,0,for,90
+715272,45950,Sam Hatton,5,0,0,against,5
+715150,43779,Jay Harris,58,0,0,for,58
+715162,55554,Liam Ridehalgh,30,0,0,for,30
+715162,44409,Richard Sutton,39,0,0,for,39
+715162,71423,Michael Ihiekwe,44,0,0,for,44
+715162,15314,Matt Hill,66,0,0,for,66
+715162,34368,Jon Shaw,45,0,0,against,45
+715180,38248,Andy Mangan,74,0,0,for,74
+715233,71520,Lois Maynard,46,0,0,for,46
+715233,71566,Same Come,87,0,0,against,87
+715240,62951,Liam Hogan,6,0,0,for,6
+715240,51911,James Norwood,37,0,0,for,37
+715257,43779,Jay Harris,46,0,0,for,46
+715257,51911,James Norwood,57,0,0,for,57
+715257,10897,Gary Jones,15,0,0,against,15
+715257,76513,Mike Phenix,20,0,0,against,20
+715294,38248,Andy Mangan,90,0,0,for,90
+715300,38248,Andy Mangan,28,0,0,for,"28, pen 80"
+715300,38248,Andy Mangan,80,1,0,for,"28, pen 80"
+715300,80206,Jonathon Margetts,52,0,0,for,"52, 90"
+715300,80206,Jonathon Margetts,90,0,0,for,"52, 90"
+715317,71520,Lois Maynard,25,0,0,for,25
+715317,38248,Andy Mangan,52,0,0,for,52
+715317,64933,Rob Evans,17,0,0,against,17
+715317,86860,Joe Quigley,82,0,0,against,82
+715321,36541,Steven Jennings,79,0,0,for,79
+715321,47013,Joe Partington,47,0,0,against,47
+715321,42584,James Constable,54,0,0,against,54
+715331,50549,Andy Haworth,37,0,0,against,37
+715351,18014,Gary Taylor-Fletcher,5,0,0,for,5
+715351,51911,James Norwood,22,0,0,for,22
+715387,49461,Luke Waterfall,44,0,0,against,44
+715395,51911,James Norwood,45,0,0,for,"45, pen 90"
+715395,51911,James Norwood,90,1,0,for,"45, pen 90"
+715395,19170,Danny Boshell,24,0,0,against,24
+715404,51911,James Norwood,90,0,0,for,90
+715404,67070,Dan Holman,27,0,0,against,"27, 55"
+715404,67070,Dan Holman,55,0,0,against,"27, 55"
+715404,72534,John Goddard,40,0,0,against,40
+715404,86860,Joe Quigley,73,0,0,against,73
+715419,52480,Adam Mekki,3,0,0,for,3
+715419,50075,Daniel Sparkes,5,0,0,against,5
+715419,77649,Simeon Akinola,24,0,0,against,24
+715438,51911,James Norwood,40,0,0,for,40
+715438,34736,Nicky Wroe,44,0,0,against,44
+715451,52777,Steve McNulty,5,0,0,for,5
+715451,71423,Michael Ihiekwe,77,0,0,for,77
+715451,70469,Kristian Dennis,45,0,0,against,45
+715454,51911,James Norwood,28,0,0,for,28
+715473,63601,Jack Sampson,31,0,0,against,31
+715487,52480,Adam Mekki,18,1,0,for,pen 18
+715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
+715487,71520,Lois Maynard,90,0,0,for,90
+715487,38998,Jason Walker,67,1,0,against,pen 67
+715487,28648,Simon Grand,82,0,0,against,82
+715487,52497,Andy Cook,87,0,0,against,87
+715500,41399,Lee Vaughan,54,0,0,for,54
+715511,18014,Gary Taylor-Fletcher,37,0,0,for,37
+715511,51911,James Norwood,79,0,0,for,79
+715511,34181,Shaun Harrad,82,0,0,against,82
+715526,51911,James Norwood,63,1,0,for,pen 63
+715543,46928,Daniel Wright,3,0,0,against,3
+715566,51911,James Norwood,69,1,0,for,pen 69
+715579,51911,James Norwood,27,1,0,for,"pen 27, pen 44"
+715579,51911,James Norwood,44,1,0,for,"pen 27, pen 44"
+715579,35555,Michael Higdon,53,0,0,for,53
+715579,78589,Danny Johnson,68,0,0,against,68
+715524,38010,Rob Atkinson,35,0,1,for,og 35
+715524,65015,Jake Kirby,58,0,0,for,58
+715524,52125,James Hurst,38,0,0,against,"38, 60"
+715524,52125,James Hurst,60,0,0,against,"38, 60"
+715602,43779,Jay Harris,48,0,0,for,48
+715602,29971,Darren Carter,5,0,0,against,5
+715615,51911,James Norwood,38,1,0,for,pen 38
+715615,65015,Jake Kirby,45,0,0,for,45
+715615,52480,Adam Mekki,87,0,0,for,87
+715615,76831,George Maris,41,0,0,against,41
+715615,89698,Robbie McDaid,73,0,0,against,73
+715630,51911,James Norwood,15,0,0,for,"15, 90"
+715630,51911,James Norwood,90,0,0,for,"15, 90"
+715641,41399,Lee Vaughan,18,0,0,for,18
+715641,64049,Ian Gayle,20,0,0,against,20
+715641,63564,Kadell Daniel,72,0,0,against,72
+715655,35555,Michael Higdon,59,0,0,for,59
+715667,51911,James Norwood,78,1,0,for,pen 78
+715667,71294,Kayden Jackson,15,0,0,against,15
+715667,48357,Sean Newton,85,0,0,against,85
+715677,51911,James Norwood,87,0,0,for,87
+715686,36541,Steven Jennings,24,0,0,for,24
+715359,76998,Rick Miller,42,0,0,against,42
+691205,55480,Max Power,53,1,0,for,pen 53
+691205,71250,Jack Payne,16,0,0,against,16
+691205,74874,Will Aimson,23,0,1,against,og 23
+691003,70884,Shamir Fenelon,2,0,0,for,2
+691003,61259,James Rowe,68,0,0,for,68
+691003,55480,Max Power,78,0,0,for,78
+691003,64940,Jed Wallace,57,0,0,against,57
+691167,43701,Reuben Reid,29,0,0,against,29
+691281,55528,Tyrone Barnett,28,0,0,against,28
+691281,47000,Alfie Potter,73,0,0,against,73
+690986,69045,Armand Gnanduillet,20,0,0,for,"20, 65"
+690986,69045,Armand Gnanduillet,65,0,0,for,"20, 65"
+690986,33174,Jack Smith,16,0,0,against,16
+690986,36629,Adebayo Akinfenwa,44,0,0,against,44
+691168,61259,James Rowe,90,0,0,for,90
+691168,38379,Keith Lowe,67,0,0,against,67
+692772,51133,Michail Antonio,12,0,0,against,12
+691055,53459,Abdulai Bell-Baggie,42,0,0,for,42
+691055,38248,Andy Mangan,90,0,0,against,90
+691055,58275,Mickey Demetriou,90,0,0,against,90
+691103,63703,Cole Stockton,58,0,0,for,"58, 90"
+691103,63703,Cole Stockton,90,0,0,for,"58, 90"
+691103,41916,Mark Hughes,39,0,0,against,39
+691265,53459,Abdulai Bell-Baggie,46,0,0,for,"46, 70"
+691265,53459,Abdulai Bell-Baggie,70,0,0,for,"46, 70"
+691265,63945,James Gray,8,1,0,against,"pen 8, 78"
+691265,63945,James Gray,78,0,0,against,"pen 8, 78"
+691265,62081,Kal Naismith,82,0,0,against,82
+691176,46677,Danny Holmes,25,0,0,for,25
+691176,64092,Graham Cummins,6,0,0,against,6
+691176,66505,Jordan Moore-Taylor,69,0,0,against,69
+691152,55423,David Amoo,72,0,0,against,72
+691015,45972,Kelvin Etuhu,55,0,0,against,55
+691015,28934,Daniel Nardiello,87,0,0,against,87
+703943,55480,Max Power,40,0,0,for,40
+703943,66008,Brad Potts,76,0,0,against,76
+704262,55480,Max Power,43,0,0,for,43
+704262,78589,Danny Johnson,45,0,0,for,45
+704262,51998,Nathan Cameron,35,0,0,against,35
+705306,55480,Max Power,70,0,0,for,70
+705306,63703,Cole Stockton,83,0,0,for,83
+705306,41804,Nathan Dyer,34,0,0,against,34
+705306,58262,Tom Carroll,49,0,0,against,49
+705306,64809,Modou Barrow,58,0,0,against,58
+705306,48781,Bafetimbi Gomis,77,0,0,against,"77, 90"
+705306,48781,Bafetimbi Gomis,90,0,0,against,"77, 90"
+705306,28828,Wayne Routledge,85,0,0,against,85
+691384,76998,Rick Miller,70,0,0,against,70
+691461,81892,George Green,90,0,0,for,90
+691461,36629,Adebayo Akinfenwa,29,0,0,against,29
+691151,44584,Jennison Myrie-Williams,37,0,0,for,37
+691151,19157,Kayode Odejayi,45,0,0,for,45
+691151,53475,Bira Dembele,4,0,0,against,4
+691151,44752,Charlie Lee,78,0,0,against,78
+691400,74552,Cameron McGeehan,81,0,0,against,81
+691049,71423,Michael Ihiekwe,90,0,0,for,90
+691049,36541,Steven Jennings,66,0,0,for,66
+691049,71423,Michael Ihiekwe,14,0,1,against,og 14
+691049,33759,Lee Barnard,64,0,0,against,64
+704435,55480,Max Power,54,1,0,for,pen 54
+704899,63703,Cole Stockton,33,0,0,for,33
+704899,13834,Jason Koumas,76,0,0,for,76
+704899,55528,Tyrone Barnett,59,0,0,against,"59, 64"
+704899,55528,Tyrone Barnett,64,0,0,against,"59, 64"
+704912,55480,Max Power,37,0,0,for,37
+704912,19157,Kayode Odejayi,43,0,0,for,43
+704912,61604,Anthony Forde,63,0,0,against,63
+704912,74256,Michael Cain,80,0,0,against,80
+691433,55480,Max Power,74,0,0,for,74
+705256,19157,Kayode Odejayi,36,0,0,for,36
+705256,55480,Max Power,76,0,0,for,76
+705256,47000,Alfie Potter,29,0,0,against,29
+691229,63703,Cole Stockton,74,0,0,for,74
+691229,24581,Michael Nelson,89,0,0,against,89
+691223,50093,Damien McCrory,23,1,0,against,pen 23
+691223,27015,Shane Cansdell-Sherriff,38,0,0,against,38
+691139,19157,Kayode Odejayi,32,0,0,for,32
+691139,65015,Jake Kirby,63,0,0,for,63
+691139,23150,Marc Richards,44,0,0,against,44
+691196,53388,Dan Gardner,43,0,0,for,43
+691196,55480,Max Power,87,0,0,for,87
+691196,1843,Jamie Cureton,40,0,0,against,40
+691196,50069,Ashley Hemmings,50,0,0,against,50
+691196,51982,Billy Bingham,54,0,0,against,54
+690944,46102,Ryan Cresswell,62,0,0,against,62
+691491,55480,Max Power,45,0,0,for,45
+691491,53388,Dan Gardner,68,0,0,for,68
+691491,74807,Sullay Kaikai,63,0,0,against,63
+691081,19157,Kayode Odejayi,35,0,0,for,35
+691081,50093,Damien McCrory,18,0,0,against,18
+691081,46484,Lucas Akins,22,0,0,against,22
+691081,56165,Abdenasser El Khayati,72,0,0,against,72
+691081,45280,Adam Dugdale,89,0,1,against,og 89
+691328,41449,Barry Corr,38,0,0,against,38
+691486,51958,Reggie Lambe,44,0,0,against,44
+690978,61600,Kemar Roofe,51,0,0,against,"51, 68"
+690978,61600,Kemar Roofe,68,0,0,against,"51, 68"
+690978,45192,Daniel Rose,52,0,0,against,52
+690955,55480,Max Power,34,0,0,for,34
+690955,19157,Kayode Odejayi,89,0,0,for,89
+690955,43701,Reuben Reid,7,1,0,against,pen 7
+690955,74355,Tareiq Holmes-Dennis,37,0,0,against,37
+690955,46620,Lewis Alessandra,81,0,0,against,81
+690995,36249,Tom Soares,61,0,0,against,61
+691319,57274,Rory Donnelly,12,0,0,for,"12, 57"
+691319,57274,Rory Donnelly,57,0,0,for,"12, 57"
+691319,70884,Shamir Fenelon,23,0,0,for,23
+691082,19157,Kayode Odejayi,12,0,0,for,12
+691082,78996,Scott Fenwick,14,0,0,against,14
+691085,44584,Jennison Myrie-Williams,29,0,0,for,29
+691085,57274,Rory Donnelly,50,0,0,for,50
+691085,42964,Alex Nicholls,37,0,0,against,37
+691349,64314,Charlie Wyke,65,0,0,against,"65, 69"
+691349,64314,Charlie Wyke,69,0,0,against,"65, 69"
+691028,57274,Rory Donnelly,45,0,0,for,45
+691028,51252,Mark Byrne,83,0,0,against,83
+691275,53190,Wes Fletcher,20,0,0,against,"20, 58"
+691275,53190,Wes Fletcher,58,0,0,against,"20, 58"
+691192,57274,Rory Donnelly,29,0,0,for,29
+691192,46677,Danny Holmes,32,0,0,for,32
+691192,56999,Connor Goldson,82,0,0,against,82
+691443,44584,Jennison Myrie-Williams,28,0,0,for,28
+691443,33668,Paul Jones,50,0,1,for,og 50
+691443,28581,Craig Westcarr,76,0,0,against,76
+691443,42967,Ryan Taylor,82,0,0,against,"82, 85"
+691443,42967,Ryan Taylor,85,0,0,against,"82, 85"
+690965,46677,Danny Holmes,9,0,1,against,og 9
+690965,51629,Troy Brown,61,0,0,against,61
+691105,72606,Jordan Hugill,32,0,0,for,32
+691105,30796,Paul Hayes,26,1,0,against,pen 26
+691105,74166,Fred Onyedinma,40,0,0,against,40
+691114,63703,Cole Stockton,19,0,0,for,19
+691114,55480,Max Power,54,0,0,for,54
+691197,60000,Eliot Richards,12,0,0,for,12
+691197,45088,Marc Laird,45,0,0,for,45
+691197,32759,Matt Richards,67,0,0,against,67
+691197,69772,Koby Arthur,69,0,0,against,69
+691197,70175,Jordan Wynter,73,0,0,against,73
+672720,34287,Andy Robinson,40,0,0,for,40
+672720,28581,Craig Westcarr,4,0,0,against,"4, 71"
+672720,28581,Craig Westcarr,71,0,0,against,"4, 71"
+672720,61540,Milan Lalkovic,25,0,0,against,25
+670771,34287,Andy Robinson,2,0,0,for,2
+670771,55556,Chris Atkinson,45,0,0,for,45
+672786,43751,Joe Thompson,16,0,0,for,"16, 44"
+672786,43751,Joe Thompson,44,0,0,for,"16, 44"
+672786,21292,Ryan Lowe,90,0,0,for,90
+672786,55821,Joe Walsh,10,0,0,against,"10, 81"
+672786,55821,Joe Walsh,81,0,0,against,"10, 81"
+672786,41447,Billy Clarke,55,0,0,against,55
+673008,50757,John-Louis Akpa Akpro,87,0,0,for,87
+673008,67490,Ryan Colclough,42,0,0,against,"42, 85"
+673008,67490,Ryan Colclough,85,0,0,against,"42, 85"
+672791,45974,Tommy Rowe,14,0,0,against,14
+672791,55528,Tyrone Barnett,34,0,0,against,34
+672791,17455,Grant McCann,38,1,0,against,pen 38
+672791,59419,Britt Assombalonga,59,0,0,against,59
+672791,43659,Mark Little,68,0,0,against,68
+682941,63703,Cole Stockton,45,0,0,for,45
+682941,43629,Jermaine Beckford,66,0,0,against,66
+672693,21292,Ryan Lowe,90,1,0,for,pen 90
+683517,40982,Evan Horwood,37,0,0,for,37
+683517,57804,Jamille Matt,48,0,0,against,"48, 66"
+683517,57804,Jamille Matt,66,0,0,against,"48, 66"
+672546,55556,Chris Atkinson,44,0,0,for,44
+672546,45280,Adam Dugdale,55,0,0,for,55
+672546,63703,Cole Stockton,90,0,0,for,90
+672546,15244,Martin Taylor,3,0,0,against,3
+672546,33660,Clayton Donaldson,14,0,0,against,"14, 71"
+672546,33660,Clayton Donaldson,71,0,0,against,"14, 71"
+672546,53090,Adam Forshaw,90,1,0,against,pen 90
+672719,50844,Joss Labadie,7,0,0,against,7
+672719,53391,Marcus Haber,79,0,0,against,79
+683758,41708,Stephen Ireland,23,0,0,against,23
+683758,21235,Peter Crouch,90,0,0,against,90
+672638,40519,Chris Lines,56,0,0,against,56
+684967,21292,Ryan Lowe,90,0,0,for,90
+672730,55554,Liam Ridehalgh,41,0,0,for,41
+672730,43055,Sam Baldock,14,0,0,against,14
+672552,21292,Ryan Lowe,4,0,0,for,"4, 44, 54"
+672552,21292,Ryan Lowe,44,0,0,for,"4, 44, 54"
+672552,21292,Ryan Lowe,54,0,0,for,"4, 44, 54"
+672552,65015,Jake Kirby,37,0,0,for,37
+672552,49717,James Wallace,89,0,0,for,89
+672552,40174,Carl Baker,76,1,0,against,pen 76
+672742,45956,Leigh Griffiths,17,0,0,against,17
+672742,35008,David Edwards,42,0,0,against,42
+672879,21292,Ryan Lowe,32,0,0,for,"32, pen 56"
+672879,21292,Ryan Lowe,56,1,0,for,"32, pen 56"
+672879,10566,Clinton Morrison,90,0,0,against,90
+685372,59419,Britt Assombalonga,38,0,0,against,"38, 64, 73"
+685372,59419,Britt Assombalonga,64,0,0,against,"38, 64, 73"
+685372,59419,Britt Assombalonga,73,0,0,against,"38, 64, 73"
+685372,51947,Shaun Jeffers,45,0,0,against,"45, 90"
+685372,51947,Shaun Jeffers,90,0,0,against,"45, 90"
+672840,21292,Ryan Lowe,81,0,0,for,81
+672840,73898,Tom Lawrence,1,0,0,against,"1, 67"
+672840,73898,Tom Lawrence,67,0,0,against,"1, 67"
+672840,55423,David Amoo,52,0,0,against,52
+672840,46443,James Berrett,76,0,0,against,76
+672716,21292,Ryan Lowe,77,0,0,for,77
+672716,36629,Adebayo Akinfenwa,45,0,0,against,"45, 69"
+672716,36629,Adebayo Akinfenwa,69,0,0,against,"45, 69"
+672865,51399,Ash Taylor,85,0,0,for,85
+672865,46448,Jamie Murphy,9,0,0,against,9
+672865,49716,Jose Baxter,56,0,0,against,56
+672865,51680,Ryan Flynn,67,0,0,against,67
+672557,63703,Cole Stockton,78,0,0,for,78
+672557,61540,Milan Lalkovic,19,0,0,against,19
+672875,50757,John-Louis Akpa Akpro,36,0,0,for,36
+672875,21292,Ryan Lowe,63,0,0,for,63
+672875,48880,Freddie Sears,45,0,0,against,45
+672860,55480,Max Power,19,0,0,for,19
+672860,46696,Junior Brown,85,0,0,for,85
+672860,16396,Paul Parry,73,0,0,against,73
+686685,45368,Matt Tubbs,37,0,0,against,37
+686685,65079,Gwion Edwards,86,0,0,against,86
+672949,66118,Bradley Dack,78,0,0,against,78
+672949,51206,Cody McDonald,90,0,0,against,90
+672856,9744,Kevin Lisbie,44,0,0,against,44
+672856,36344,Chris Dagnall,77,0,0,against,77
+672596,70729,Matthew Pennington,7,0,0,for,7
+672596,32552,Jon Stead,81,0,0,against,81
+672596,18841,Aaron McLean,87,0,0,against,87
+672661,55480,Max Power,15,0,0,for,15
+672661,59992,Alex Smith,12,0,0,against,12
+672661,62083,Miles Storey,68,0,0,against,68
+672897,21292,Ryan Lowe,34,0,0,for,34
+672897,35008,David Edwards,55,0,0,against,55
+672553,59419,Britt Assombalonga,5,1,0,against,"pen 5, 87"
+672553,59419,Britt Assombalonga,87,0,0,against,"pen 5, 87"
+672553,57131,Nicky Ajose,75,0,0,against,75
+672883,70729,Matthew Pennington,28,0,0,for,28
+672512,34287,Andy Robinson,90,0,0,for,90
+672512,24578,Alex Revell,39,0,0,against,"39, 65"
+672512,24578,Alex Revell,65,0,0,against,"39, 65"
+672539,21292,Ryan Lowe,90,0,0,for,90
+672911,51399,Ash Taylor,45,0,0,for,45
+672911,46036,Joe Garner,18,0,0,against,"18, 52"
+672911,46036,Joe Garner,52,0,0,against,"18, 52"
+672694,64444,Jake Cassidy,19,0,0,for,19
+672694,13834,Jason Koumas,80,0,0,for,80
+672694,43055,Sam Baldock,13,0,0,against,13
+672694,63513,Derrick Williams,78,0,0,against,78
+672795,21292,Ryan Lowe,12,1,0,for,pen 12
+672795,49717,James Wallace,48,0,0,for,48
+672795,65015,Jake Kirby,64,0,0,for,64
+672795,73793,Michael Petrasso,79,0,0,against,79
+672637,13834,Jason Koumas,31,0,0,for,31
+672637,21292,Ryan Lowe,76,0,0,for,76
+672637,43105,James Wesolowski,12,0,0,against,12
+672637,55554,Liam Ridehalgh,59,0,1,against,og 59
+672575,51795,Curtis Obeng,88,0,1,for,og 88
+672575,43768,Jimmy Smith,21,0,0,against,21
+672575,39718,Darius Charles,71,0,0,against,71
+672575,42414,John Mousinho,74,0,0,against,74
+672745,58187,James Tarkowski,62,0,0,against,62
+672745,33660,Clayton Donaldson,74,0,0,against,74
+672926,13834,Jason Koumas,25,0,0,for,25
+672926,21292,Ryan Lowe,28,0,0,for,28
+672926,36541,Steven Jennings,84,0,0,for,84
+672926,51959,Ronan Michael Murray,14,0,0,against,14
+672926,41226,Alan Sheehan,61,0,0,against,61
+672763,51399,Ash Taylor,58,0,0,for,58
+672763,13834,Jason Koumas,60,0,0,for,60
+672763,46103,Tom Pope,3,0,0,against,3
+672763,58463,Billy Knott,47,0,0,against,47
+672763,58325,Ben Williamson,56,0,0,against,56
+673007,41498,Dany N'Guessan,29,1,0,against,pen 29
+672975,21292,Ryan Lowe,69,0,0,for,69
+672570,9744,Kevin Lisbie,22,0,0,against,"22, 61"
+672570,9744,Kevin Lisbie,61,0,0,against,"22, 61"
+672570,40842,Dean Cox,78,0,0,against,78
+672570,49885,Shaun Batt,85,0,0,against,85
+673027,21292,Ryan Lowe,84,1,0,for,pen 84
+673027,49715,Kieran Agard,60,0,0,against,60
+672973,21292,Ryan Lowe,7,0,0,for,"7, pen 66"
+672973,21292,Ryan Lowe,66,1,0,for,"7, pen 66"
+672973,61259,James Rowe,84,0,0,for,84
+672973,50401,Daniel Powell,39,0,0,against,39
+672973,62568,Jason Banton,49,0,0,against,49
+672670,55556,Chris Atkinson,55,0,0,for,55
+672670,46036,Joe Garner,90,0,0,against,90
+672666,34287,Andy Robinson,45,0,0,for,45
+656719,63703,Cole Stockton,93,0,0,for,93
+656719,53459,Abdulai Bell-Baggie,120,0,0,for,120
+656719,4493,Jack Lester,109,0,0,against,109
+653301,44204,Zoumana Bakayogo,34,0,0,for,34
+653301,50757,John-Louis Akpa Akpro,57,0,0,for,"57, 65"
+653301,50757,John-Louis Akpa Akpro,65,0,0,for,"57, 65"
+653301,38101,Michael Symes,88,1,0,against,pen 88
+653343,34287,Andy Robinson,12,0,0,for,"12, 19, 66"
+653343,34287,Andy Robinson,19,0,0,for,"12, 19, 66"
+653343,34287,Andy Robinson,66,0,0,for,"12, 19, 66"
+653436,50757,John-Louis Akpa Akpro,88,0,0,for,88
+653436,40600,Marvin Morgan,45,0,0,against,45
+663964,46509,Fabian Delph,38,0,0,against,38
+663964,48434,Chris Herd,66,0,0,against,66
+663964,28055,Darren Bent,81,0,0,against,81
+653422,64444,Jake Cassidy,40,0,0,for,"40, 49, 77"
+653422,64444,Jake Cassidy,49,0,0,for,"40, 49, 77"
+653422,64444,Jake Cassidy,77,0,0,for,"40, 49, 77"
+653422,44204,Zoumana Bakayogo,58,0,0,for,58
+653359,64444,Jake Cassidy,79,0,0,for,79
+653359,34287,Andy Robinson,83,0,0,for,83
+653396,34287,Andy Robinson,35,1,0,for,"pen 35, pen 68"
+653396,34287,Andy Robinson,68,1,0,for,"pen 35, pen 68"
+653396,64444,Jake Cassidy,71,0,0,for,71
+653251,46677,Danny Holmes,2,0,0,for,2
+653251,64444,Jake Cassidy,39,0,0,for,"39, 53"
+653251,64444,Jake Cassidy,53,0,0,for,"39, 53"
+653251,50757,John-Louis Akpa Akpro,46,0,0,for,46
+653251,34287,Andy Robinson,89,0,0,for,89
+653251,42812,Josh Simpson,12,0,0,against,12
+653251,42176,Kyle McFadzean,16,0,0,against,16
+653734,50757,John-Louis Akpa Akpro,60,0,0,for,60
+653734,23151,Jonathon Douglas,90,0,0,against,90
+653625,49717,James Wallace,64,0,0,for,64
+653625,50757,John-Louis Akpa Akpro,66,0,0,for,"66, 88"
+653625,50757,John-Louis Akpa Akpro,88,0,0,for,"66, 88"
+653625,24025,Karl Hawley,15,0,0,against,15
+653342,43751,Joe Thompson,22,0,0,for,22
+653322,55423,David Amoo,30,0,0,for,30
+653322,44204,Zoumana Bakayogo,39,0,0,for,39
+666737,36472,Leon Clarke,20,0,0,against,20
+653306,34287,Andy Robinson,42,1,0,for,pen 42
+653306,55851,Adam McGurk,66,0,0,for,66
+653306,52522,Harlee Dean,50,0,0,against,50
+653491,39007,Rory Loy,44,0,0,against,44
+653277,55480,Max Power,11,0,0,for,11
+653277,50757,John-Louis Akpa Akpro,41,0,0,for,41
+653277,51399,Ash Taylor,65,0,0,for,65
+653277,63703,Cole Stockton,85,0,0,for,85
+653277,58154,Michael O'Halloran,90,1,0,for,pen 90
+653277,44411,Magnus Okuonghae,29,0,0,against,29
+653470,53459,Abdulai Bell-Baggie,29,0,0,for,29
+653470,40962,Neal Bishop,74,0,0,against,74
+653389,46680,Ed Upson,58,0,0,against,58
+653399,55480,Max Power,61,0,0,for,61
+653748,50818,Will Grigg,50,1,0,against,pen 50
+653748,28581,Craig Westcarr,57,0,0,against,57
+653516,34865,Dean Lewington,9,0,0,against,9
+653516,45301,Stephen Gleeson,43,0,0,against,43
+653516,35630,Darren Potter,51,0,0,against,51
+653504,44204,Zoumana Bakayogo,10,0,0,for,"10, 38"
+653504,44204,Zoumana Bakayogo,38,0,0,for,"10, 38"
+653504,54425,Ben Gibson,16,0,0,for,16
+653504,47945,Luke Freeman,12,0,0,against,12
+653314,51399,Ash Taylor,42,0,1,against,og 42
+653289,1602,David Connolly,53,0,0,against,53
+653702,35689,Rob Jones,63,0,0,against,63
+653615,32206,Neil Austin,10,0,0,against,10
+653297,65210,Jeffrey Monakana,45,0,0,against,45
+653332,58154,Michael O'Halloran,75,0,0,for,75
+653332,16869,Charlie MacDonald,9,0,0,against,9
+653332,11186,Martin Rowlands,67,0,0,against,67
+653582,34692,Chris Porter,10,0,0,against,10
+653582,61249,Cameron Gayle,67,0,0,against,67
+667475,68398,Donervon Daniels,78,0,0,for,78
+667475,52650,James Collins,48,0,0,against,48
+667475,37367,Gary Roberts,71,0,0,against,"71, 90"
+667475,37367,Gary Roberts,90,0,0,against,"71, 90"
+664116,44584,Jennison Myrie-Williams,57,0,0,against,"57, pen 75"
+664116,44584,Jennison Myrie-Williams,75,1,0,against,"57, pen 75"
+653402,49717,James Wallace,45,0,0,for,45
+653402,64444,Jake Cassidy,51,0,0,for,51
+653402,46677,Danny Holmes,78,0,0,for,78
+653402,55027,Paddy Madden,9,0,0,against,9
+653402,44029,Sam Foley,29,0,0,against,29
+653646,53233,Jake Jervis,39,0,0,for,39
+653646,54425,Ben Gibson,53,0,1,against,og 53
+653646,47381,Harry Arter,58,0,0,against,58
+653646,33766,Simon Francis,72,0,0,against,72
+653693,64444,Jake Cassidy,87,0,0,for,87
+653693,24697,Billy Paynter,48,0,0,against,48
+653693,18869,Iain Hume,90,0,0,against,90
+653523,64444,Jake Cassidy,85,0,0,for,85
+653523,41436,Paul Huntington,50,0,0,against,50
+653608,34287,Andy Robinson,79,1,0,for,pen 79
+653608,63703,Cole Stockton,90,0,0,for,90
+653249,55851,Adam McGurk,54,0,0,for,54
+666031,43751,Joe Thompson,24,0,0,for,24
+666031,63703,Cole Stockton,53,0,0,for,53
+666031,55480,Max Power,90,0,0,for,90
+653250,45301,Stephen Gleeson,87,0,0,against,87
+653364,64444,Jake Cassidy,78,0,0,for,78
+653364,44742,Greg Tansey,90,0,0,against,90
+666192,63703,Cole Stockton,42,0,0,for,42
+666192,55851,Adam McGurk,57,0,0,for,57
+666192,49789,Liam Cooper,31,0,0,against,31
+653376,51399,Ash Taylor,31,0,0,for,31
+653376,58154,Michael O'Halloran,74,0,0,for,74
+653376,30129,Gabor Gyepes,50,0,0,against,50
+653376,53233,Jake Jervis,75,0,0,against,75
+653588,43588,Danny Hollands,4,0,0,against,4
+653588,51108,Raffaele De Vita,7,0,0,against,7
+653588,13433,Andy Williams,21,0,0,against,"21, 51"
+653588,13433,Andy Williams,51,0,0,against,"21, 51"
+653588,50014,Matt Ritchie,33,0,0,against,33
+653571,55851,Adam McGurk,58,0,0,for,58
+653571,55480,Max Power,63,0,0,for,63
+653571,50980,Brad Inman,12,0,0,against,12
+653265,63703,Cole Stockton,59,0,0,for,59
+653310,34287,Andy Robinson,56,0,0,for,56
+666570,19079,Ben Davies,42,0,0,against,42
+666570,49496,Conor Sammon,54,0,0,against,54
+666570,43427,John Brayford,63,0,0,against,63
+666570,54428,Jeff Hendrick,72,0,0,against,72
+666570,61233,Mason Bennett,87,0,0,against,87
+636518,57821,Robbie Weir,74,0,0,for,74
+637690,35636,Chris Brown,5,1,0,against,pen 5
+637690,50867,Ryan Mason,29,0,0,against,29
+637690,55465,Kyle Bennett,59,0,0,against,59
+636820,40756,David Buchanan,60,0,0,for,60
+636801,32332,John Welsh,10,0,0,for,10
+636801,50844,Joss Labadie,80,0,0,for,80
+636801,49554,Julian Kelly,52,0,0,against,52
+636801,47385,Krystian Pearce,60,0,0,against,60
+636801,41945,Jeff Hughes,90,1,0,against,pen 90
+636372,50844,Joss Labadie,80,0,0,for,80
+636372,21383,Nick Montgomery,44,0,0,against,44
+636746,57821,Robbie Weir,28,0,0,for,28
+636746,34287,Andy Robinson,46,0,0,for,46
+645446,51399,Ash Taylor,88,0,0,for,88
+645446,49472,Robert Taylor,50,0,0,against,50
+636549,37367,Gary Roberts,24,0,0,against,24
+636549,44433,Scott Arfield,82,0,0,against,82
+636655,46484,Lucas Akins,51,0,0,for,51
+636655,21340,Lee Miller,3,0,0,against,3
+636655,46443,James Berrett,35,1,0,against,pen 35
+636723,36304,Enoch Showunmi,9,0,0,for,9
+636723,51399,Ash Taylor,60,0,0,for,60
+636525,49716,Jose Baxter,60,0,0,for,60
+636525,87,Graham Alexander,37,1,0,against,pen 37
+636525,51215,Danny Mayor,71,0,0,against,71
+636559,55851,Adam McGurk,33,0,0,for,33
+636559,31170,Johnnie Jackson,80,1,0,against,pen 80
+646729,51399,Ash Taylor,39,0,0,for,39
+636699,49716,Jose Baxter,18,0,0,for,18
+636818,57821,Robbie Weir,59,0,0,for,59
+636818,57630,Mustafa Tiryaki,80,0,0,for,80
+636818,33642,Andy Butler,73,0,0,against,73
+636808,46484,Lucas Akins,46,0,0,for,"46, 66"
+636808,46484,Lucas Akins,66,0,0,for,"46, 66"
+636348,57630,Mustafa Tiryaki,4,0,0,for,"4, 32"
+636348,57630,Mustafa Tiryaki,32,0,0,for,"4, 32"
+636348,51537,Shane Duffy,20,0,0,against,20
+636348,46503,Robert Grant,44,0,0,against,"44, pen 67"
+636348,46503,Robert Grant,67,1,0,against,"44, pen 67"
+636348,36344,Chris Dagnall,52,0,0,against,52
+646769,55851,Adam McGurk,9,0,0,for,9
+646769,36304,Enoch Showunmi,70,0,0,for,70
+646769,57630,Mustafa Tiryaki,72,0,0,for,72
+646769,55698,Alexandre Mendy,44,0,0,against,44
+646769,49760,Jordan Bowery,54,0,0,against,"54, 80"
+646769,49760,Jordan Bowery,80,0,0,against,"54, 80"
+646769,28581,Craig Westcarr,90,0,0,against,90
+647041,36689,Darryl Duffy,21,1,0,against,pen 21
+636423,49716,Jose Baxter,38,0,0,for,38
+636423,40519,Chris Lines,45,0,0,against,45
+636423,21292,Ryan Lowe,80,0,0,against,80
+636828,50626,Scott Bennett,41,0,0,against,41
+636828,20583,Daniel Coles,66,0,0,against,66
+636828,15950,Richard Logan,78,0,0,against,78
+636807,19397,Jabo Ibehre,19,0,0,against,19
+636807,55139,Shaun Williams,60,0,0,against,60
+636770,50844,Joss Labadie,90,1,0,for,pen 90
+636770,34220,Chris Beardsley,38,0,0,against,38
+636770,38710,Mark Roberts,84,0,0,against,84
+636472,50844,Joss Labadie,24,0,0,for,24
+636472,51399,Ash Taylor,90,0,0,for,90
+636459,14177,Ian Goodison,82,0,0,for,82
+636459,51755,Reda Johnson,2,0,0,against,2
+636459,40519,Chris Lines,7,0,0,against,7
+636689,15091,Martin Devaney,4,0,0,for,4
+636689,52522,Harlee Dean,55,0,1,for,og 55
+636689,13028,Gary Alexander,22,0,0,against,22
+636689,33660,Clayton Donaldson,32,0,0,against,32
+636711,55851,Adam McGurk,9,0,0,for,9
+636711,51767,Joe Edwards,19,0,0,against,19
+636711,13433,Andy Williams,90,0,0,against,90
+636617,15091,Martin Devaney,4,0,0,for,4
+636617,49879,Wes Thomas,18,0,0,against,18
+636617,38008,Marc Pugh,30,0,0,against,30
+636841,55851,Adam McGurk,51,0,0,for,51
+636841,46684,Jordan Rhodes,49,0,0,against,49
+636445,55851,Adam McGurk,5,0,0,for,5
+636445,55411,Matty Whichelow,23,0,0,against,23
+636445,48,Gareth Ainsworth,30,0,0,against,30
+636379,62991,Ryan Brunt,33,0,0,for,33
+636379,41763,Michael Morrison,60,0,0,against,60
+636516,32332,John Welsh,90,0,0,for,90
+636516,35459,Damion Stewart,5,0,0,against,5
+636650,34287,Andy Robinson,35,0,0,for,35
+636650,36304,Enoch Showunmi,45,0,0,for,45
+649236,36304,Enoch Showunmi,15,0,0,for,15
+649236,34287,Andy Robinson,67,0,0,for,67
+649236,64092,Graham Cummins,12,0,0,against,12
+636551,46484,Lucas Akins,54,0,0,for,54
+636551,47379,Ched Evans,31,0,0,against,31
+636786,49717,James Wallace,28,0,0,for,28
+636786,64444,Jake Cassidy,82,0,0,for,82
+636600,50844,Joss Labadie,49,0,0,for,49
+636600,64444,Jake Cassidy,90,0,0,for,90
+636633,10835,Efe Sodje,67,0,0,against,67
+636633,41016,Giles Coke,72,0,0,against,72
+636707,64444,Jake Cassidy,2,0,0,for,"2, 11"
+636707,64444,Jake Cassidy,11,0,0,for,"2, 11"
+636707,46484,Lucas Akins,77,0,0,for,77
+636563,55139,Shaun Williams,10,1,0,against,"pen 10, pen 74"
+636563,55139,Shaun Williams,74,1,0,against,"pen 10, pen 74"
+636563,45301,Stephen Gleeson,42,0,0,against,42
+636720,34287,Andy Robinson,62,0,0,for,62
+636533,32332,John Welsh,40,0,0,for,40
+636533,28577,Antony Sweeney,69,0,0,against,69
+636370,49717,James Wallace,52,0,0,for,52
+636370,64444,Jake Cassidy,72,0,0,for,72
+636370,29475,Ian Henderson,4,0,0,against,4
+636370,53829,Tom Eastman,46,0,0,against,46
+636370,14177,Ian Goodison,66,0,1,against,og 66
+636370,48880,Freddie Sears,84,0,0,against,84
+636834,44173,Mark McChrystal,27,0,0,for,27
+636834,18011,Garry Thompson,61,0,0,against,61
+636343,49760,Jordan Bowery,75,0,0,against,75
+636754,19965,Shefki Kuqi,48,1,0,against,pen 48
+627185,36304,Enoch Showunmi,22,0,0,for,22
+627185,32472,Cedric van der Gun,73,0,0,against,73
+627185,45990,Scott Sinclair,74,0,0,against,74
+627185,19965,Shefki Kuqi,90,0,0,against,90
+617065,36304,Enoch Showunmi,78,0,0,for,78
+617065,49870,Aaron Cresswell,88,0,0,for,88
+617065,53256,Romain Vincelot,52,0,0,against,52
+617065,10555,Mark Arber,71,0,0,against,71
+627455,36304,Enoch Showunmi,79,0,0,for,79
+627455,47377,Ray Putterill,55,0,0,against,55
+616896,5556,Ian Thomas-Moore,89,1,0,for,pen 89
+616896,34678,Dean Bowditch,7,0,0,against,7
+616896,26820,Andy Welsh,11,0,0,against,11
+616896,41436,Paul Huntington,27,0,0,against,27
+617211,36304,Enoch Showunmi,53,0,0,for,53
+617211,48989,Scott Wagstaff,6,0,0,against,6
+616936,36304,Enoch Showunmi,81,0,0,for,81
+616936,49791,David Mooney,6,0,0,against,6
+616936,46510,Anthony Wordsworth,16,0,0,against,16
+616936,44411,Magnus Okuonghae,31,0,0,against,31
+617173,55479,Dale Jennings,45,0,0,for,45
+616939,49870,Aaron Cresswell,87,0,0,for,87
+616939,40545,Glenn Murray,35,0,0,against,35
+616952,16995,Rickie Lambert,42,0,0,against,42
+616952,44463,Adam Lallana,56,0,0,against,56
+617023,19213,Kevin O'Connor,7,1,0,against,"pen 7, 67"
+617023,19213,Kevin O'Connor,67,0,0,against,"pen 7, 67"
+617023,32361,Marcus Bean,81,0,0,against,81
+617334,55479,Dale Jennings,3,0,0,for,"3, 25"
+617334,55479,Dale Jennings,25,0,0,for,"3, 25"
+617334,5556,Ian Thomas-Moore,22,1,0,for,"pen 22, 76"
+617334,5556,Ian Thomas-Moore,76,0,0,for,"pen 22, 76"
+617334,24378,Peter Leven,14,1,0,against,pen 14
+617334,43055,Sam Baldock,85,0,0,against,85
+617003,46443,James Berrett,42,0,0,against,42
+617003,23120,Peter Murphy,49,0,0,against,49
+629452,49870,Aaron Cresswell,27,0,0,for,27
+629452,14177,Ian Goodison,42,0,0,for,42
+629452,5556,Ian Thomas-Moore,53,0,0,for,53
+629452,46306,Josh McQuoid,1,0,0,against,"1, 4, 57"
+629452,46306,Josh McQuoid,4,0,0,against,"1, 4, 57"
+629452,46306,Josh McQuoid,57,0,0,against,"1, 4, 57"
+629452,38008,Marc Pugh,7,0,0,against,7
+629452,46973,Liam Feeney,61,0,0,against,61
+629654,5556,Ian Thomas-Moore,8,0,0,for,8
+617313,55479,Dale Jennings,60,0,0,for,60
+616942,36304,Enoch Showunmi,50,0,0,for,50
+617225,49869,Peter Gulacsi,77,0,1,against,og 77
+630437,46684,Jordan Rhodes,18,0,0,against,"18, 67"
+630437,46684,Jordan Rhodes,67,0,0,against,"18, 67"
+617063,32759,Matt Richards,41,0,1,for,og 41
+617063,49870,Aaron Cresswell,45,0,0,for,45
+617063,53268,Lateef Elford Alliyu,56,0,0,for,56
+617063,32759,Matt Richards,32,0,0,against,32
+617063,10775,Jon Macken,85,0,0,against,85
+617063,33642,Andy Butler,90,0,0,against,90
+617331,32332,John Welsh,13,0,0,for,13
+617331,55479,Dale Jennings,60,0,0,for,60
+616969,53268,Lateef Elford Alliyu,22,0,0,for,"22, 64"
+616969,53268,Lateef Elford Alliyu,64,0,0,for,"22, 64"
+616969,36304,Enoch Showunmi,80,0,0,for,80
+616969,51971,Joe Mason,90,0,0,against,90
+631076,53268,Lateef Elford Alliyu,60,0,0,for,60
+631076,14177,Ian Goodison,65,0,0,for,65
+631076,36304,Enoch Showunmi,81,0,0,for,81
+617267,32332,John Welsh,24,0,0,for,24
+617267,17455,Grant McCann,53,0,0,against,53
+617267,36304,Enoch Showunmi,70,0,1,against,og 70
+631087,50844,Joss Labadie,65,0,0,for,65
+631087,16869,Charlie MacDonald,2,0,0,against,2
+631087,45317,Leon Legge,90,0,0,against,90
+617024,50105,Oli Johnson,77,0,0,against,77
+616950,40519,Chris Lines,19,0,0,against,19
+617131,51339,Chris Wood,63,1,0,against,pen 63
+617131,40545,Glenn Murray,71,0,0,against,71
+616860,36304,Enoch Showunmi,53,0,0,for,53
+616915,57575,Benik Afobe,39,0,0,against,39
+616915,51697,Lee Novak,87,0,0,against,87
+632897,9891,Tommy Miller,10,0,0,against,"10, pen 22"
+632897,9891,Tommy Miller,22,1,0,against,"10, pen 22"
+632897,46584,Gary Madine,14,0,0,against,14
+632897,32333,Neil Mellor,90,0,0,against,90
+616988,14177,Ian Goodison,41,0,0,for,41
+616988,55851,Adam McGurk,90,0,0,for,90
+616988,52481,Danny Ings,90,0,0,against,90
+616980,36304,Enoch Showunmi,12,0,0,for,12
+616980,14177,Ian Goodison,34,0,0,for,34
+633640,28581,Craig Westcarr,42,1,0,against,pen 42
+617395,55479,Dale Jennings,81,0,0,for,81
+617395,28577,Antony Sweeney,14,0,0,against,14
+617006,47242,Michael Kay,44,0,0,for,44
+617006,46484,Lucas Akins,67,0,0,for,"67, 90"
+617006,46484,Lucas Akins,90,0,0,for,"67, 90"
+617006,36304,Enoch Showunmi,71,0,0,for,71
+617093,49870,Aaron Cresswell,8,0,0,for,8
+617093,55851,Adam McGurk,45,0,0,for,"45, 49"
+617093,55851,Adam McGurk,49,0,0,for,"45, 49"
+617034,50976,Lescinal Jean-Francois,10,0,0,against,10
+617034,39651,Michael Timlin,38,0,0,against,38
+616945,32332,John Welsh,34,0,0,for,"34, 88"
+616945,32332,John Welsh,88,0,0,for,"34, 88"
+616945,36304,Enoch Showunmi,59,0,0,for,59
+616945,5556,Ian Thomas-Moore,78,1,0,for,pen 78
+616945,10775,Jon Macken,65,0,0,against,65
+617078,50401,Daniel Powell,46,0,0,against,46
+617078,19397,Jabo Ibehre,70,0,0,against,70
+631096,44204,Zoumana Bakayogo,16,0,0,for,16
+631096,46643,Liam Sercombe,65,0,0,against,65
+617203,36304,Enoch Showunmi,26,0,0,for,26
+617203,31933,Miguel Llera,54,0,0,against,54
+617118,51865,Arnaud Mendy,44,0,0,for,44
+617329,57255,Scott Wootton,61,0,0,for,61
+617329,40420,Stephen Dawson,10,0,0,against,10
+617329,5108,Scott McGleish,45,0,0,against,45
+616996,14177,Ian Goodison,39,0,0,for,39
+616996,5556,Ian Thomas-Moore,80,0,0,for,80
+616996,46443,James Berrett,78,0,0,against,78
+617244,50844,Joss Labadie,42,0,0,for,42
+617244,5556,Ian Thomas-Moore,81,1,0,for,pen 81
+617244,10897,Gary Jones,26,1,0,against,"pen 26, 44"
+617244,10897,Gary Jones,44,0,0,against,"pen 26, 44"
+617244,46503,Robert Grant,84,0,0,against,84
+617036,46306,Josh McQuoid,8,0,0,against,8
+617036,38101,Michael Symes,18,1,0,against,pen 18
+617036,38008,Marc Pugh,61,0,0,against,61
+623604,14177,Ian Goodison,40,0,0,for,40
+617346,5556,Ian Thomas-Moore,89,0,0,for,89
+617346,46277,Dale Stephens,27,0,0,against,"27, 81"
+617346,46277,Dale Stephens,81,0,0,against,"27, 81"
+617307,53268,Lateef Elford Alliyu,4,0,0,for,4
+617307,10897,Gary Jones,90,0,0,against,90
+607006,21776,Chris Shuker,11,0,0,for,11
+607006,4733,Alan Mahon,61,0,0,for,61
+607006,1203,Darren Byfield,45,0,0,against,45
+607006,46441,Troy Deeney,47,0,0,against,"47, 83"
+607006,46441,Troy Deeney,83,0,0,against,"47, 83"
+597891,9303,Michael Ricketts,63,0,0,for,63
+597891,29089,Adam Stansfield,25,0,0,against,"25, 54"
+597891,29089,Adam Stansfield,54,0,0,against,"25, 54"
+598843,32332,John Welsh,35,0,0,for,35
+598843,47180,John-Joe O'Toole,37,0,0,against,37
+599397,45355,Craig Carl Curran,4,0,0,for,4
+599397,45573,David Worrall,54,0,0,against,54
+599397,43715,Mike Jones,81,0,0,against,81
+600823,44061,Peter Hartley,43,0,0,against,43
+602596,43134,Wes Hoolahan,60,1,0,against,pen 60
+602596,12910,Gary Doherty,80,0,0,against,80
+605097,49459,Charlie Barnett,29,0,0,for,29
+605097,5108,Scott McGleish,24,0,0,against,"24, 70"
+605097,5108,Scott McGleish,70,0,0,against,"24, 70"
+615189,51873,Emanuel Smith,27,0,1,for,og 27
+615189,51873,Emanuel Smith,35,0,0,against,35
+615189,1203,Darren Byfield,70,0,0,against,70
+615327,24578,Alex Revell,15,0,0,against,"15, 69"
+615327,24578,Alex Revell,69,0,0,against,"15, 69"
+615327,28058,Matt Bloomfield,86,0,0,against,86
+615930,45355,Craig Carl Curran,43,0,0,for,43
+615930,50844,Joss Labadie,59,0,0,for,59
+615930,20578,Gareth Edds,88,0,0,for,88
+615930,35972,Stuart Fleetwood,85,0,0,against,85
+611978,50844,Joss Labadie,62,0,0,for,62
+611978,19213,Kevin O'Connor,49,0,0,against,49
+611978,16173,Ben Strevens,86,0,0,against,86
+599412,40174,Carl Baker,67,1,0,against,pen 67
+600394,20578,Gareth Edds,36,0,0,for,36
+600394,32332,John Welsh,66,0,0,for,66
+600394,40545,Glenn Murray,78,1,0,against,pen 78
+601741,21776,Chris Shuker,78,0,0,for,78
+601741,24697,Billy Paynter,34,0,0,against,"34, 39"
+601741,24697,Billy Paynter,39,0,0,against,"34, 39"
+601741,30060,Anthony McNamee,65,0,0,against,65
+601741,43530,Simon Ferry,90,0,0,against,90
+602395,21776,Chris Shuker,51,0,0,for,51
+602395,49765,Luke Ashworth,7,0,0,against,7
+602633,51399,Ash Taylor,83,0,0,for,83
+605055,14177,Ian Goodison,10,0,0,for,10
+605055,47248,Terry Gornell,72,0,0,for,72
+606075,5556,Ian Thomas-Moore,8,0,0,for,8
+606075,45355,Craig Carl Curran,60,0,0,for,60
+606075,9303,Michael Ricketts,85,0,0,for,85
+606075,51697,Lee Novak,6,0,0,against,6
+606075,40835,Michael Collins,58,0,0,against,58
+606075,21689,Anthony Kay,81,0,0,against,81
+606564,45355,Craig Carl Curran,60,0,0,for,60
+607055,5556,Ian Thomas-Moore,43,0,0,for,43
+607055,47248,Terry Gornell,49,0,0,for,49
+607055,46090,Oliver Bozanic,90,0,0,against,90
+607081,32808,Dan Harding,51,0,0,against,51
+607081,16995,Rickie Lambert,64,1,0,against,"pen 64, 70"
+607081,16995,Rickie Lambert,70,0,0,against,"pen 64, 70"
+607474,45355,Craig Carl Curran,29,0,0,for,29
+607474,20578,Gareth Edds,56,0,0,for,56
+608088,36722,Matt Jarvis,77,0,0,against,77
+609563,38041,Jason Puncheon,7,0,0,against,7
+609795,5556,Ian Thomas-Moore,48,0,0,for,48
+609795,51399,Ash Taylor,52,0,0,for,52
+609795,50867,Ryan Mason,90,1,0,against,pen 90
+609939,24010,Sam Sodje,50,0,1,for,og 50
+609939,38752,Nick Bailey,57,0,0,against,57
+610410,5556,Ian Thomas-Moore,68,0,0,for,68
+610695,14177,Ian Goodison,48,0,0,for,48
+610695,33620,Scott Vernon,15,1,0,against,pen 15
+611127,5556,Ian Thomas-Moore,27,0,0,for,27
+611127,51720,Marvin Sordell,35,0,0,for,35
+611127,53179,Jonathan Tehoue,86,0,0,against,86
+611731,51697,Lee Novak,8,0,0,against,"8, 48"
+611731,51697,Lee Novak,48,0,0,against,"8, 48"
+611947,1010,Marlon Broomes,3,0,0,for,3
+611947,5556,Ian Thomas-Moore,85,1,0,for,pen 85
+611947,33759,Lee Barnard,12,0,0,against,12
+612088,32332,John Welsh,19,0,0,for,19
+612088,36993,Robert Snodgrass,9,0,0,against,9
+612088,43629,Jermaine Beckford,16,1,0,against,"pen 16, 65"
+612088,43629,Jermaine Beckford,65,0,0,against,"pen 16, 65"
+612088,49401,Luciano Becchio,34,0,0,against,34
+594026,5556,Ian Thomas-Moore,6,0,0,for,6
+594026,46510,Anthony Wordsworth,4,0,0,against,4
+594157,5556,Ian Thomas-Moore,45,1,0,for,pen 45
+594157,34287,Andy Robinson,66,0,0,for,66
+593833,14177,Ian Goodison,38,0,0,for,38
+593833,5556,Ian Thomas-Moore,53,0,0,for,53
+593833,50844,Joss Labadie,76,0,0,for,76
+590059,41883,Mark Davies,41,0,0,against,41
+610276,24126,Pawel Abbott,41,0,0,against,41
+588626,5204,Paul McLaren,32,0,0,for,32
+588626,5556,Ian Thomas-Moore,37,1,0,for,pen 37
+588626,45355,Craig Carl Curran,40,0,0,for,40
+588626,20578,Gareth Edds,71,0,0,for,71
+598898,5556,Ian Thomas-Moore,16,0,0,for,16
+599318,46388,James Henry,6,0,0,against,"6, 27, 85"
+599318,46388,James Henry,27,0,0,against,"6, 27, 85"
+599318,46388,James Henry,85,0,0,against,"6, 27, 85"
+599318,14783,Andy Frampton,9,0,0,against,9
+599318,30051,Steve Morison,23,0,0,against,23
+614033,40545,Glenn Murray,7,0,0,against,7
+614033,24691,Andrew Crofts,30,0,0,against,30
+614033,46576,Ashley Barnes,81,0,0,against,81
+614248,5556,Ian Thomas-Moore,6,1,0,for,"pen 6, pen 12"
+614248,5556,Ian Thomas-Moore,12,1,0,for,"pen 6, pen 12"
+614248,45355,Craig Carl Curran,31,0,0,for,31
+614248,17954,Grant Holt,58,0,0,against,58
+614472,53588,Ben Gordon,10,0,1,against,og 10
+614472,24697,Billy Paynter,37,1,0,against,pen 37
+614472,52474,Charlie Austin,56,0,0,against,56
+588559,34678,Dean Bowditch,23,0,0,against,23
+588559,37914,Gavin Tomlin,76,1,0,against,pen 76
+588939,5556,Ian Thomas-Moore,5,0,0,for,"5, 90"
+588939,5556,Ian Thomas-Moore,90,0,0,for,"5, 90"
+588939,32332,John Welsh,48,0,0,for,48
+588939,47248,Terry Gornell,73,0,0,for,73
+588939,38376,Curtis Weston,34,0,0,against,34
+588939,45304,Andy Barcham,54,0,0,against,54
+589032,19397,Jabo Ibehre,81,0,0,against,81
+589755,40497,Bradley Johnson,14,0,0,against,14
+589755,43629,Jermaine Beckford,35,0,0,against,35
+589755,49401,Luciano Becchio,86,0,0,against,86
+590515,35572,Lloyd Sam,24,0,0,against,"24, 49"
+590515,35572,Lloyd Sam,49,0,0,against,"24, 49"
+590515,46224,Jose Semedo,26,0,0,against,26
+590515,38752,Nick Bailey,68,0,0,against,68
+592190,38724,Joe Anyinsah,59,0,0,against,59
+592190,33173,Danny Livesey,67,0,0,against,67
+592190,3308,Ian Harte,77,0,0,against,77
+573106,30699,Bas Savage,85,0,0,for,85
+573106,24697,Billy Paynter,5,0,0,against,5
+573106,42170,Simon Cox,37,0,0,against,37
+573106,31184,Jon-Paul McGovern,51,0,0,against,51
+573105,3723,James Hunt,20,0,0,against,20
+573105,28928,Ben Chorley,54,0,1,against,og 54
+577160,5556,Ian Thomas-Moore,63,1,0,for,pen 63
+577160,43703,Theo Robinson,3,0,0,against,3
+577160,11483,Kevin Betsy,90,0,0,against,90
+577479,49459,Charlie Barnett,16,0,0,for,16
+577479,39157,Craig Mackail-Smith,37,0,0,against,37
+578033,47248,Terry Gornell,83,0,0,for,83
+578033,24378,Peter Leven,74,1,0,against,pen 74
+578717,21689,Anthony Kay,48,0,0,for,48
+578664,28928,Ben Chorley,70,0,0,for,70
+578664,24581,Michael Nelson,69,0,0,against,69
+578664,22630,Ben Clark,83,1,0,against,pen 83
+579041,30699,Bas Savage,32,0,0,for,32
+579041,9767,Andy Holt,52,0,0,against,52
+559697,45355,Craig Carl Curran,23,0,0,for,23
+568595,30699,Bas Savage,90,0,0,for,90
+568595,16107,Tresor Kandol,8,0,0,against,"8, 13"
+568595,16107,Tresor Kandol,13,0,0,against,"8, 13"
+568595,47145,Nadjim Abdou,60,0,0,against,60
+570230,7337,Terry Skiverton,23,0,0,against,23
+570712,21689,Anthony Kay,47,0,0,for,47
+570712,18841,Aaron McLean,90,0,0,against,90
+570712,39157,Craig Mackail-Smith,114,0,0,against,114
+559975,22272,Edrissa Sonko,49,0,0,for,49
+568565,36541,Steven Jennings,51,0,0,for,51
+568565,21776,Chris Shuker,74,0,0,for,74
+568541,2735,Kevin Gallen,81,0,0,against,81
+567572,47302,Ryan Shotton,45,0,0,for,45
+568587,21776,Chris Shuker,69,0,0,for,69
+570218,22272,Edrissa Sonko,41,0,0,for,41
+570218,47302,Ryan Shotton,75,0,0,for,75
+572585,22272,Edrissa Sonko,37,0,0,for,"37, 61"
+572585,22272,Edrissa Sonko,61,0,0,for,"37, 61"
+572585,41450,Toumani Diagouraga,45,0,0,against,45
+572585,3137,Steve Guinan,65,0,0,against,65
+575124,5556,Ian Thomas-Moore,49,0,0,for,"49, 77"
+575124,5556,Ian Thomas-Moore,77,0,0,for,"49, 77"
+575124,20578,Gareth Edds,53,0,0,for,53
+575124,36541,Steven Jennings,66,0,0,for,66
+575124,38086,Danny Graham,60,0,0,against,60
+577513,20578,Gareth Edds,57,0,0,for,57
+577513,5556,Ian Thomas-Moore,90,1,0,for,pen 90
+577513,40523,Michael Raynes,90,0,0,against,90
+575778,21689,Anthony Kay,26,0,0,for,26
+575778,46291,Mark Carrington,83,0,0,against,83
+575778,47310,Joel Grant,88,0,0,against,88
+576694,47302,Ryan Shotton,50,0,0,for,50
+579377,21689,Anthony Kay,47,0,0,for,47
+579377,36541,Steven Jennings,83,1,0,for,pen 83
+579640,21689,Anthony Kay,6,0,0,for,"6, 53"
+579640,21689,Anthony Kay,53,0,0,for,"6, 53"
+579640,30699,Bas Savage,50,0,0,for,50
+579640,824,Andy Booth,23,0,0,against,23
+579687,32205,Dave Bird,3,0,0,against,3
+580105,49459,Charlie Barnett,57,0,0,for,57
+580105,5556,Ian Thomas-Moore,75,1,0,for,pen 75
+581368,49870,Aaron Cresswell,37,0,0,for,37
+581368,5556,Ian Thomas-Moore,64,0,0,for,64
+581915,30699,Bas Savage,80,0,0,for,80
+581874,30699,Bas Savage,8,0,0,for,8
+581874,49459,Charlie Barnett,27,0,0,for,27
+581874,3137,Steve Guinan,90,1,0,against,pen 90
+582335,24010,Sam Sodje,27,0,1,for,og 27
+582335,43629,Jermaine Beckford,15,0,0,against,15
+582335,38862,Neil Kilkenny,26,0,0,against,26
+582335,49401,Luciano Becchio,56,0,0,against,56
+582866,21689,Anthony Kay,78,0,0,for,78
+582866,50789,Jonathan Obika,67,0,0,against,67
+583718,45355,Craig Carl Curran,39,0,0,for,39
+583718,33801,Cliff Byrne,88,0,0,against,88
+560698,21776,Chris Shuker,80,0,0,for,80
+560698,3653,Steve Howard,33,0,0,against,33
+560698,35650,Matty Fryatt,52,0,0,against,"52, 90"
+560698,35650,Matty Fryatt,90,0,0,against,"52, 90"
+560693,30699,Bas Savage,35,0,0,for,35
+560693,21689,Anthony Kay,38,0,0,for,38
+560693,45355,Craig Carl Curran,45,0,0,for,45
+560693,5556,Ian Thomas-Moore,90,0,0,for,90
+560693,41794,Ryan Gilligan,10,0,0,against,10
+560682,15022,Reuben Hazell,35,0,0,against,35
+576154,22272,Edrissa Sonko,39,0,0,for,39
+576154,47302,Ryan Shotton,49,0,0,for,49
+576154,43084,Liam Dickinson,16,0,0,against,16
+561928,9758,Chris Greenacre,7,0,0,for,"7, 30"
+561928,9758,Chris Greenacre,30,0,0,for,"7, 30"
+561928,39157,Craig Mackail-Smith,41,0,0,against,41
+561928,34724,Gabriel Zakuani,77,0,0,against,77
+568596,21689,Anthony Kay,12,0,0,for,12
+568596,41203,Andy Taylor,76,0,0,for,76
+568596,47302,Ryan Shotton,78,0,0,for,78
+568596,22779,David Perkins,4,0,0,against,4
+568596,35004,Mark Yeates,15,0,0,against,15
+568596,9302,Clive Platt,40,0,0,against,40
+568596,31170,Johnnie Jackson,47,0,0,against,47
+564034,5556,Ian Thomas-Moore,1,0,0,for,1
+564034,47302,Ryan Shotton,80,0,0,for,80
+564034,38086,Danny Graham,90,0,0,against,90
+562178,21776,Chris Shuker,86,0,0,for,86
+568581,21776,Chris Shuker,39,0,0,for,39
+568574,30699,Bas Savage,69,0,0,for,69
+568574,22272,Edrissa Sonko,89,0,0,for,89
+570238,5556,Ian Thomas-Moore,8,0,0,for,8
+570238,30699,Bas Savage,14,0,0,for,14
+570238,24578,Alex Revell,10,0,0,against,10
+570238,11483,Kevin Betsy,35,0,0,against,35
+572280,21689,Anthony Kay,17,0,0,for,17
+572280,5556,Ian Thomas-Moore,49,0,0,for,49
+572280,36304,Enoch Showunmi,11,0,0,against,11
+572259,23159,Jo Kuffour,41,0,0,against,41
+572259,40519,Chris Lines,50,0,0,against,50
+571301,5556,Ian Thomas-Moore,53,0,0,for,53
+571301,26804,Ben May,26,0,0,against,26
+571301,30796,Paul Hayes,90,0,0,against,90
+572257,21689,Anthony Kay,90,0,0,for,90
+572580,14177,Ian Goodison,42,0,0,for,42
+572580,21689,Anthony Kay,90,0,0,for,90
+572580,15860,Marco Reich,54,1,0,against,pen 54
+574630,45088,Marc Laird,73,0,0,against,73
+527263,28739,Jamie Burns,55,0,0,against,55
+530940,9758,Chris Greenacre,34,0,0,for,34
+530940,35651,Gavin Caines,50,0,0,against,50
+530936,21776,Chris Shuker,69,0,0,for,69
+530936,7820,Gareth Taylor,88,0,0,for,88
+530936,16412,Andy Kirk,12,0,0,against,12
+530936,44085,Poul Hubertz,39,0,0,against,39
+530924,21776,Chris Shuker,65,0,0,for,65
+530924,41174,Gary Roberts,56,1,0,against,pen 56
+530911,28928,Ben Chorley,30,0,0,for,30
+530911,7820,Gareth Taylor,55,0,0,for,55
+530911,9634,Adam Barrett,43,0,0,against,43
+526745,41795,Steve Davies,90,0,0,for,90
+526745,7631,Marcus Stewart,57,0,0,against,57
+533869,30684,Junior Agogo,50,1,0,against,pen 50
+533869,20399,Nathan Tyson,78,0,0,against,78
+538385,35008,David Edwards,70,0,0,against,70
+546480,43715,Mike Jones,70,0,0,for,70
+546480,43760,Neal Eardley,41,1,0,against,pen 41
+546480,43472,Chris Taylor,45,0,0,against,45
+546480,46620,Lewis Alessandra,76,0,0,against,76
+546449,9758,Chris Greenacre,90,0,0,for,90
+546449,28936,Alan Tate,43,0,0,against,43
+524872,9758,Chris Greenacre,22,0,0,for,22
+524872,27974,Matt Heath,55,0,0,against,55
+524872,16107,Tresor Kandol,89,0,0,against,89
+526859,25033,Matty McNeil,84,0,0,against,84
+526760,9758,Chris Greenacre,19,0,0,for,19
+526760,41795,Steve Davies,50,0,0,for,50
+526755,9758,Chris Greenacre,78,0,0,for,78
+526755,21776,Chris Shuker,90,0,0,for,90
+528148,45355,Craig Carl Curran,42,0,0,for,42
+530962,45355,Craig Carl Curran,83,0,0,for,83
+530962,21689,Anthony Kay,86,0,0,for,86
+530962,2694,Paul Furlong,5,0,0,against,5
+532861,41449,Barry Corr,88,0,0,against,88
+532851,5204,Paul McLaren,29,0,0,for,29
+532851,27015,Shane Cansdell-Sherriff,53,0,0,for,53
+532851,7820,Gareth Taylor,83,0,0,for,83
+534083,39282,Craig Davies,90,0,0,against,90
+534419,9758,Chris Greenacre,37,1,0,for,pen 37
+534419,21689,Anthony Kay,84,0,0,for,84
+534419,4493,Jack Lester,29,0,0,against,29
+536041,36541,Steven Jennings,81,0,1,against,og 81
+536199,36541,Steven Jennings,7,0,0,for,7
+536199,9758,Chris Greenacre,37,0,0,for,"37, 68"
+536199,9758,Chris Greenacre,68,0,0,for,"37, 68"
+520165,27015,Shane Cansdell-Sherriff,54,0,0,for,54
+520165,44489,Gary Liddle,3,0,0,against,3
+520165,41204,James Brown,11,0,0,against,11
+520165,37201,Joel Porter,58,0,0,against,58
+536829,35556,Calvin Zola,23,0,0,for,23
+536829,9758,Chris Greenacre,28,1,0,for,pen 28
+536829,36541,Steven Jennings,63,0,0,for,63
+536829,45720,Sam Vokes,76,0,0,against,76
+538726,5204,Paul McLaren,16,0,0,for,16
+538726,21689,Anthony Kay,45,0,0,for,45
+540046,35556,Calvin Zola,59,0,0,for,59
+540029,41203,Andy Taylor,8,0,0,for,8
+540029,9758,Chris Greenacre,31,0,0,for,31
+540029,5204,Paul McLaren,74,0,0,for,74
+540029,41174,Gary Roberts,30,1,0,against,"pen 30, 48"
+540029,41174,Gary Roberts,48,0,0,against,"pen 30, 48"
+540029,41443,Nicky Maynard,67,0,0,against,67
+540029,43104,Danny O'Donnell,89,0,0,against,89
+540017,36541,Steven Jennings,75,0,0,for,75
+540017,7820,Gareth Taylor,78,0,0,for,78
+540017,44374,Ben Smith,65,0,0,against,65
+540017,9124,Trevor Benjamin,76,0,0,against,76
+540022,18901,Wayne Gray,11,0,0,against,11
+540022,26299,Sean Thornton,84,0,0,against,84
+541010,32708,Simon Johnson,72,0,0,against,72
+540996,21689,Anthony Kay,87,0,0,for,87
+542241,35556,Calvin Zola,4,0,0,for,4
+542241,44584,Jennison Myrie-Williams,62,1,0,for,pen 62
+542241,16412,Andy Kirk,51,0,0,against,51
+542236,5204,Paul McLaren,7,0,0,for,7
+542236,35556,Calvin Zola,14,0,0,for,14
+542926,44584,Jennison Myrie-Williams,61,0,0,for,61
+542926,5556,Ian Thomas-Moore,69,0,0,for,69
+543268,35556,Calvin Zola,2,0,0,for,2
+543268,18586,Adam Chambers,87,0,0,against,87
+544032,41203,Andy Taylor,10,0,0,for,10
+544032,5556,Ian Thomas-Moore,45,0,0,for,45
+544547,21689,Anthony Kay,74,0,0,for,74
+544547,17294,Craig Disley,81,0,0,against,81
+545436,14023,James Coppinger,2,0,0,against,2
+547331,9758,Chris Greenacre,36,0,0,for,36
+547331,24581,Michael Nelson,64,0,1,for,og 64
+547331,27015,Shane Cansdell-Sherriff,90,0,0,for,90
+547331,3718,Ritchie Humphreys,71,0,0,against,71
+548320,9758,Chris Greenacre,68,1,0,for,pen 68
+548320,5556,Ian Thomas-Moore,88,0,0,for,88
+548234,21689,Anthony Kay,87,0,0,for,87
+548234,14177,Ian Goodison,1,0,1,against,og 1
+548234,23159,Jo Kuffour,34,0,0,against,34
+548946,36541,Steven Jennings,12,0,0,for,12
+548946,9758,Chris Greenacre,40,0,0,for,40
+548946,24697,Billy Paynter,68,0,0,against,68
+549304,44584,Jennison Myrie-Williams,3,0,0,for,3
+549304,29686,Alassane N'Dour,45,0,0,against,45
+549304,42333,Ishmel Demontagnac,59,0,0,against,59
+549797,20399,Nathan Tyson,34,0,0,against,34
+549797,34659,Wes Morgan,51,0,0,against,51
+550934,824,Andy Booth,61,0,0,against,61
+550941,21689,Anthony Kay,53,0,0,for,53
+551258,9758,Chris Greenacre,43,0,0,for,43
+551258,36629,Adebayo Akinfenwa,3,0,0,against,3
+551258,44085,Poul Hubertz,68,0,0,against,68
+540317,13433,Andy Williams,12,0,0,against,12
+540317,16995,Rickie Lambert,58,0,0,against,58
+498225,21776,Chris Shuker,22,0,0,for,22
+498225,36541,Steven Jennings,87,0,0,for,87
+499915,14016,Gaetano Giallanza,67,1,0,against,pen 67
+505310,9758,Chris Greenacre,39,0,0,for,"39, 51"
+505310,9758,Chris Greenacre,51,0,0,for,"39, 51"
+505310,824,Andy Booth,9,0,0,against,9
+505310,16402,Danny Schofield,60,1,0,against,pen 60
+505977,7820,Gareth Taylor,49,0,0,for,49
+505977,36468,James Perch,72,0,0,against,72
+509493,9758,Chris Greenacre,6,0,0,for,6
+511858,21776,Chris Shuker,53,0,0,for,"53, 83"
+511858,21776,Chris Shuker,83,0,0,for,"53, 83"
+494216,9758,Chris Greenacre,24,0,0,for,24
+492476,19157,Kayode Odejayi,8,0,0,against,8
+492978,17470,Kevin Ellison,35,0,0,for,35
+492978,5675,John Mullin,54,0,0,for,54
+492978,37000,Chris Cohen,44,0,0,against,44
+489953,27015,Shane Cansdell-Sherriff,31,0,0,for,31
+489953,20396,Ben Burgess,56,0,0,against,56
+489953,36689,Darryl Duffy,110,0,0,against,110
+494101,39244,Aaron Downes,45,0,1,for,og 45
+494101,7820,Gareth Taylor,68,0,0,for,68
+494092,8286,Gavin Ward,9,0,0,for,9
+494092,9758,Chris Greenacre,12,0,0,for,"12, 80"
+494092,9758,Chris Greenacre,80,0,0,for,"12, 80"
+494208,5675,John Mullin,85,0,0,for,85
+495198,17470,Kevin Ellison,28,0,0,for,28
+495198,17857,Lee Williamson,18,0,0,against,18
+495198,33422,Will Hoskins,38,0,0,against,38
+497104,35556,Calvin Zola,11,0,0,for,11
+497104,9758,Chris Greenacre,37,0,0,for,37
+497104,824,Andy Booth,55,0,0,against,55
+497104,18014,Gary Taylor-Fletcher,78,0,0,against,78
+497083,14134,Mark Bower,54,0,0,against,54
+497083,36702,Steven Schumacher,71,0,0,against,71
+497824,9758,Chris Greenacre,57,0,0,for,57
+497824,24725,Jeff Smith,31,0,0,against,31
+497824,22031,Leon Constantine,45,0,0,against,45
+498802,24436,Kevin Gall,35,0,0,against,35
+500155,17470,Kevin Ellison,41,0,0,for,41
+500415,7820,Gareth Taylor,19,0,0,for,19
+500415,21233,Chris McCready,22,0,0,for,22
+500415,21776,Chris Shuker,89,0,0,for,89
+500415,20168,Chris Hackett,41,0,0,against,41
+501026,7820,Gareth Taylor,19,0,0,for,"19, 48"
+501026,7820,Gareth Taylor,48,0,0,for,"19, 48"
+501026,9758,Chris Greenacre,37,0,0,for,"37, 83"
+501026,9758,Chris Greenacre,83,0,0,for,"37, 83"
+501026,39467,Simon Jackson,63,0,0,against,63
+501026,38411,Craig McAllister,69,0,0,against,69
+502094,9758,Chris Greenacre,20,0,0,for,20
+502794,9758,Chris Greenacre,2,0,0,for,2
+502794,41795,Steve Davies,67,0,0,for,67
+503383,27015,Shane Cansdell-Sherriff,30,0,0,for,30
+503383,40586,Danny Crow,45,0,0,against,"45, 70"
+503383,40586,Danny Crow,70,0,0,against,"45, 70"
+503909,27015,Shane Cansdell-Sherriff,53,0,0,for,53
+503909,39039,Andy Keogh,42,0,0,against,42
+504302,21776,Chris Shuker,45,0,0,for,45
+504302,41201,Charlie Ide,38,0,0,against,38
+505324,9758,Chris Greenacre,2,0,0,for,2
+505324,21776,Chris Shuker,5,0,0,for,5
+505324,39155,Gary Mulligan,11,0,0,against,"11, 19"
+505324,39155,Gary Mulligan,19,0,0,against,"11, 19"
+505324,28928,Ben Chorley,42,0,0,against,42
+505967,27015,Shane Cansdell-Sherriff,28,0,0,for,28
+505967,7820,Gareth Taylor,43,0,0,for,43
+505967,10608,Delroy Facey,82,0,0,against,82
+506827,5675,John Mullin,87,0,0,for,87
+506827,5108,Scott McGleish,11,0,0,against,11
+507157,28841,Jamie McCombe,25,0,1,for,og 25
+507157,5204,Paul McLaren,44,0,0,for,44
+507157,36304,Enoch Showunmi,48,0,0,against,48
+507157,10585,Phil Jevons,59,0,0,against,59
+507157,44584,Jennison Myrie-Williams,68,0,0,against,68
+507700,7820,Gareth Taylor,19,0,0,for,19
+507698,7820,Gareth Taylor,9,0,0,for,9
+507698,36702,Steven Schumacher,34,0,0,against,34
+509233,21233,Chris McCready,22,0,1,against,og 22
+509233,24691,Andrew Crofts,29,0,0,against,29
+511847,21776,Chris Shuker,49,0,0,for,49
+511847,9758,Chris Greenacre,90,0,0,for,90
+511847,38379,Keith Lowe,18,0,0,against,18
+511847,19157,Kayode Odejayi,26,0,0,against,26
+511833,9758,Chris Greenacre,34,0,0,for,34
+511833,21282,Justin Miller,18,0,0,against,18
+511833,34916,Ryan Jarvis,29,0,0,against,"29, 39"
+511833,34916,Ryan Jarvis,39,0,0,against,"29, 39"
+511821,5675,John Mullin,21,0,0,for,21
+511821,9758,Chris Greenacre,73,0,0,for,73
+511805,34287,Andy Robinson,6,0,0,against,6
+511805,12919,Lee Trundle,52,0,0,against,52
+512917,9758,Chris Greenacre,3,0,0,for,"3, pen 35"
+512917,9758,Chris Greenacre,35,1,0,for,"3, pen 35"
+512917,17470,Kevin Ellison,83,0,0,for,83
+512917,7481,Danny Sonner,36,0,0,against,36
+512917,22031,Leon Constantine,73,0,0,against,73
+512896,37797,David McGoldrick,13,0,0,against,13
+512896,10613,James Hayter,57,1,0,against,pen 57
+513428,38086,Danny Graham,10,0,0,against,10
+513428,24436,Kevin Gall,67,0,0,against,67
+514815,35556,Calvin Zola,29,0,0,for,"29, 46"
+514815,35556,Calvin Zola,46,0,0,for,"29, 46"
+514815,16752,Keigan Parker,9,0,0,against,9
+514815,43134,Wes Hoolahan,36,0,0,against,36
+514815,16011,Andy Morrell,73,0,0,against,73
+514813,45355,Craig Carl Curran,76,0,0,for,76
+514813,9758,Chris Greenacre,90,1,0,for,pen 90
+514813,14177,Ian Goodison,11,0,1,against,og 11
+514798,27015,Shane Cansdell-Sherriff,9,0,0,for,9
+514798,35556,Calvin Zola,69,0,0,for,69
+514798,21674,Alan Dunne,49,0,0,against,"49, 67"
+514798,21674,Alan Dunne,67,0,0,against,"49, 67"
+514789,8286,Gavin Ward,55,0,1,against,og 55
+514789,38747,Billy Sharp,70,0,0,against,70
+515076,26297,Danny Harrison,49,0,0,for,49
+515076,45362,Shaun Miller,90,0,0,against,90
+515527,45355,Craig Carl Curran,5,0,0,for,"5, 7, 36"
+515527,45355,Craig Carl Curran,7,0,0,for,"5, 7, 36"
+515527,45355,Craig Carl Curran,36,0,0,for,"5, 7, 36"
+515527,22470,Callum Willock,35,0,0,against,35
+495184,35556,Calvin Zola,14,0,0,for,14
+495184,7820,Gareth Taylor,35,0,0,for,35
+495184,5675,John Mullin,58,1,0,for,pen 58
+495184,5108,Scott McGleish,74,0,0,against,74
+509223,42467,Chris Hall,90,0,0,against,90
+463895,36629,Adebayo Akinfenwa,30,0,0,against,30
+460973,18869,Iain Hume,38,0,0,for,38
+460973,9758,Chris Greenacre,45,0,0,for,45
+460973,33620,Scott Vernon,45,0,0,against,45
+460973,5706,John Murphy,69,0,0,against,69
+461776,9758,Chris Greenacre,45,0,0,for,"45, pen 90"
+461776,9758,Chris Greenacre,90,1,0,for,"45, pen 90"
+461776,15076,Ian Sharps,54,0,0,for,54
+461776,9708,Gareth Roberts,77,0,0,for,77
+462317,24695,Jay Tabb,23,0,0,against,23
+462317,21532,Eddie Hutchinson,50,0,0,against,50
+462110,15076,Ian Sharps,61,0,0,for,61
+462110,34927,Richie Ryan,56,0,0,against,56
+462110,14771,Richard Hinds,82,0,0,against,82
+463220,3855,Mike Jackson,76,0,0,for,76
+463220,9708,Gareth Roberts,90,0,0,for,90
+463215,9758,Chris Greenacre,58,0,0,for,58
+464381,10608,Delroy Facey,24,0,0,for,24
+464381,9758,Chris Greenacre,72,0,0,for,72
+464381,2268,Richard Edghill,21,0,0,against,21
+464381,8423,David Wetherall,38,0,0,against,38
+464686,10608,Delroy Facey,46,0,0,for,46
+464686,40418,James Lawson,16,0,0,against,16
+464686,2918,Shaun Goater,33,1,0,against,"pen 33, 82"
+464686,2918,Shaun Goater,82,0,0,against,"pen 33, 82"
+465889,3855,Mike Jackson,10,0,0,for,10
+465889,9758,Chris Greenacre,46,0,0,for,46
+465889,1203,Darren Byfield,16,0,0,against,"16, pen 63"
+465889,1203,Darren Byfield,63,1,0,against,"16, pen 63"
+465874,16402,Danny Schofield,87,0,0,against,87
+466323,7820,Gareth Taylor,70,0,0,against,70
+466858,39039,Andy Keogh,1,0,0,against,1
+466858,38747,Billy Sharp,39,0,0,against,39
+468353,30223,Luke Wilkshire,65,0,0,against,65
+471234,6578,Mark Rankine,33,0,0,for,33
+471234,36541,Steven Jennings,75,0,0,for,75
+471234,17148,Nat Brown,45,0,0,against,45
+469490,41795,Steve Davies,62,0,0,for,62
+469490,36541,Steven Jennings,90,0,0,for,90
+469790,9758,Chris Greenacre,6,0,0,for,6
+469790,1774,Lee Crooks,56,0,0,against,56
+469790,8627,Dean Windass,59,1,0,against,pen 59
+474547,3855,Mike Jackson,38,0,0,for,38
+474547,33408,Izale McLeod,57,1,0,against,"pen 57, 58"
+474547,33408,Izale McLeod,58,0,0,against,"pen 57, 58"
+471010,9758,Chris Greenacre,58,1,0,for,pen 58
+471010,10608,Delroy Facey,76,0,0,for,76
+471010,38747,Billy Sharp,68,1,0,against,pen 68
+471235,10608,Delroy Facey,6,0,0,for,6
+471235,26297,Danny Harrison,67,0,0,for,67
+471235,9758,Chris Greenacre,74,1,0,for,pen 74
+471235,7785,Paul Tait,9,0,0,against,"9, 40"
+471235,7785,Paul Tait,40,0,0,against,"9, 40"
+471555,33766,Simon Francis,18,0,0,for,18
+471555,10608,Delroy Facey,45,0,0,for,45
+471555,41733,Owain Tudur Jones,45,0,0,against,45
+471555,34287,Andy Robinson,88,0,0,against,88
+472555,10608,Delroy Facey,90,0,0,for,90
+472555,15091,Martin Devaney,58,0,0,against,58
+472555,23150,Marc Richards,77,1,0,against,pen 77
+473598,35556,Calvin Zola,23,0,0,for,23
+473598,5836,Ricky Newman,12,0,0,against,12
+473598,24695,Jay Tabb,14,0,0,against,14
+473598,19213,Kevin O'Connor,32,1,0,against,pen 32
+473598,11391,Lloyd Owusu,53,0,0,against,53
+474066,9758,Chris Greenacre,50,0,0,for,"50, 74, 86"
+474066,9758,Chris Greenacre,74,0,0,for,"50, 74, 86"
+474066,9758,Chris Greenacre,86,0,0,for,"50, 74, 86"
+474066,35556,Calvin Zola,72,0,0,for,72
+474066,10585,Phil Jevons,32,1,0,against,pen 32
+474374,26297,Danny Harrison,8,0,0,for,8
+474374,9758,Chris Greenacre,90,0,0,for,90
+474368,9758,Chris Greenacre,45,0,0,for,45
+474368,35556,Calvin Zola,54,0,0,for,54
+474368,26297,Danny Harrison,62,0,0,for,62
+474368,22773,Shaun Barker,14,0,0,against,14
+474368,33422,Will Hoskins,77,0,0,against,77
+477136,37206,Carl Tremarco,4,0,0,for,4
+477136,10608,Delroy Facey,84,0,0,for,84
+477136,11077,David Graham,48,0,0,against,48
+477737,28848,Steven O'Leary,48,0,0,for,48
+477737,1203,Darren Byfield,73,0,0,against,73
+478358,10750,Paul Heckingbottom,16,0,0,against,16
+479791,9758,Chris Greenacre,21,0,0,for,21
+479791,8943,Sam Aiston,33,0,0,for,33
+479791,1843,Jamie Cureton,69,0,0,against,69
+480259,8943,Sam Aiston,36,0,0,for,"36, 39"
+480259,8943,Sam Aiston,39,0,0,for,"36, 39"
+480259,9758,Chris Greenacre,45,0,0,for,45
+480259,28848,Steven O'Leary,65,0,0,for,65
+480259,43198,Jamie O'Hara,30,0,0,against,30
+480946,9758,Chris Greenacre,64,0,0,for,64
+480946,21860,Grant Smith,41,0,0,against,"41, 72"
+480946,21860,Grant Smith,72,0,0,against,"41, 72"
+482377,35556,Calvin Zola,28,0,0,for,28
+482377,28848,Steven O'Leary,58,0,0,for,58
+482377,41795,Steve Davies,78,0,0,for,78
+482745,1191,Martin Butler,73,0,0,against,73
+482745,7214,Paul Shaw,78,0,0,against,78
+484288,17954,Grant Holt,17,0,0,against,17
+484272,9531,Wayne Brown,63,0,0,against,63
+472862,10608,Delroy Facey,81,0,0,for,81
+472862,18605,Peter Clarke,90,0,0,against,90
+484265,17203,Steve Brooker,17,0,0,against,17
+484265,13540,Mark McCammon,34,0,0,against,34
+484265,21237,Craig Woodman,90,1,0,against,pen 90
+484763,40526,Lewis Guy,12,0,0,against,12
+484763,9568,Neil Roberts,43,0,0,against,43
+478862,18124,Ritchie Wellens,35,0,0,against,35
+481820,14177,Ian Goodison,39,0,0,for,39
+481820,9758,Chris Greenacre,77,0,0,for,77
+481820,35641,Matt Harrold,5,0,0,against,"5, 69"
+481820,35641,Matt Harrold,69,0,0,against,"5, 69"
+484251,10608,Delroy Facey,90,0,0,for,90
+484251,15105,David Partridge,90,0,1,for,og 90
+484251,33408,Izale McLeod,90,0,0,against,90
+427511,9537,Sagi Burton,80,0,0,against,80
+427809,32156,Ryan Taylor,27,1,0,for,pen 27
+427809,36344,Chris Dagnall,68,0,0,for,68
+427809,6804,Hugh Robertson,23,0,0,against,23
+428584,27359,Eugene Dadi,42,0,0,for,42
+429097,35556,Calvin Zola,49,0,0,for,49
+429097,4961,Jason McAteer,80,0,0,for,80
+429097,17230,Luke Rodgers,67,0,0,against,67
+430153,35556,Calvin Zola,12,0,0,for,12
+430153,3855,Mike Jackson,18,0,0,for,18
+430153,32156,Ryan Taylor,30,1,0,for,pen 30
+430153,18869,Iain Hume,64,0,0,for,64
+430153,34329,Steven MacLean,27,0,0,against,27
+430153,36341,Guylain Ndumbu-Nsungu,45,0,0,against,45
+430139,3855,Mike Jackson,54,0,0,for,54
+430139,17127,Warren Feeney,81,0,0,against,81
+431410,27359,Eugene Dadi,65,0,0,for,65
+431410,18869,Iain Hume,73,0,0,for,73
+431698,9708,Gareth Roberts,59,0,0,for,59
+431698,235,Chris Armstrong,38,0,0,against,38
+431902,32030,Diomansy Kamara,65,0,0,against,65
+433636,18869,Iain Hume,2,0,0,for,"2, 87"
+433636,18869,Iain Hume,87,0,0,for,"2, 87"
+433636,6945,Alex Russell,55,0,0,against,55
+433625,32156,Ryan Taylor,32,0,0,for,32
+433625,12397,Chris Coyne,76,0,0,against,76
+434848,32156,Ryan Taylor,45,1,0,for,pen 45
+434848,18869,Iain Hume,66,0,0,for,"66, 87"
+434848,18869,Iain Hume,87,0,0,for,"66, 87"
+434848,626,David Beresford,82,0,0,for,82
+434848,36702,Steven Schumacher,33,0,0,against,33
+434848,7718,Nicky Summerbee,53,0,0,against,53
+434848,8627,Dean Windass,70,0,0,against,70
+434848,33561,Ben Muirhead,81,0,0,against,81
+434848,8423,David Wetherall,90,0,0,against,90
+434832,14207,Theodore Whitmore,15,0,0,for,"15, 61"
+434832,14207,Theodore Whitmore,61,0,0,for,"15, 61"
+434832,36344,Chris Dagnall,65,0,0,for,65
+434832,24126,Pawel Abbott,33,0,0,against,33
+435686,36344,Chris Dagnall,29,0,0,for,29
+435686,35556,Calvin Zola,81,0,0,for,81
+435686,33472,Greg Halford,83,0,0,against,83
+436233,15076,Ian Sharps,53,0,0,for,53
+436547,35556,Calvin Zola,6,0,0,for,6
+436547,18869,Iain Hume,40,0,0,for,40
+436547,28004,Chris Birchall,68,0,0,against,68
+436880,3185,Paul Hall,34,0,0,for,"34, 74"
+436880,3185,Paul Hall,74,0,0,for,"34, 74"
+436880,21672,David Duke,69,0,0,against,69
+437327,17203,Steve Brooker,19,0,0,against,"19, 57"
+437327,17203,Steve Brooker,57,0,0,against,"19, 57"
+437327,30223,Luke Wilkshire,41,0,0,against,"41, pen 90"
+437327,30223,Luke Wilkshire,90,1,0,against,"41, pen 90"
+437580,32156,Ryan Taylor,42,0,0,for,42
+437580,9586,Peter Kennedy,10,0,0,against,10
+437580,13524,Curtis Woodhouse,89,0,0,against,89
+438523,14177,Ian Goodison,38,0,0,for,38
+439225,3185,Paul Hall,53,0,0,for,53
+439225,14207,Theodore Whitmore,84,0,0,for,84
+439488,9708,Gareth Roberts,18,0,0,for,18
+440155,3855,Mike Jackson,73,0,0,for,73
+440155,28004,Chris Birchall,9,0,0,against,"9, 52"
+440155,28004,Chris Birchall,52,0,0,against,"9, 52"
+440155,24697,Billy Paynter,17,0,0,against,17
+440653,18869,Iain Hume,45,0,0,for,45
+440653,3185,Paul Hall,89,0,0,for,89
+441029,27359,Eugene Dadi,55,0,0,for,55
+441029,254,Ian Ashbee,34,0,0,against,34
+441029,21146,Stuart Elliott,54,0,0,against,"54, 68, pen 75"
+441029,21146,Stuart Elliott,68,0,0,against,"54, 68, pen 75"
+441029,21146,Stuart Elliott,75,1,0,against,"54, 68, pen 75"
+441029,410,Nick Barmby,56,0,0,against,56
+441029,15053,Danny Allsopp,88,0,0,against,88
+443606,27359,Eugene Dadi,5,0,0,for,5
+443606,9745,Kevin Nicholls,54,1,0,against,pen 54
+444124,18869,Iain Hume,1,0,0,for,1
+444124,8627,Dean Windass,77,0,0,against,77
+444862,27359,Eugene Dadi,8,0,0,for,8
+444862,14637,Joe Keith,65,0,0,against,65
+445630,27359,Eugene Dadi,16,0,0,for,16
+445630,18869,Iain Hume,24,0,0,for,24
+445630,9708,Gareth Roberts,90,0,0,for,90
+446017,3185,Paul Hall,22,0,0,for,22
+446017,38732,Matt Mills,43,0,0,against,43
+446584,32156,Ryan Taylor,7,0,0,for,7
+446584,17470,Kevin Ellison,43,0,0,against,43
+446584,9299,Jason Price,63,0,0,against,63
+446584,33429,Craig Fagan,69,0,0,against,69
+447083,36344,Chris Dagnall,53,0,0,for,53
+448738,3185,Paul Hall,16,0,0,for,"16, 80"
+448738,3185,Paul Hall,80,0,0,for,"16, 80"
+448738,18869,Iain Hume,29,0,0,for,29
+448738,4961,Jason McAteer,45,0,0,for,45
+448738,14207,Theodore Whitmore,60,0,0,for,60
+448717,3855,Mike Jackson,72,0,0,for,72
+448717,27359,Eugene Dadi,86,0,0,for,86
+448717,742,Steve Blatherwick,45,0,0,against,45
+448717,40954,Carlos Logan,90,0,0,against,90
+448716,27359,Eugene Dadi,11,0,0,for,11
+448716,3185,Paul Hall,44,0,0,for,44
+448716,14950,Michael McIndoe,3,0,0,against,3
+448716,9803,Gregg Blundell,5,0,0,against,5
+448716,29960,Ricky Ravenhill,52,0,0,against,52
+448716,9568,Neil Roberts,81,0,0,against,81
+449167,3855,Mike Jackson,42,0,0,for,42
+449167,18869,Iain Hume,60,0,0,for,60
+449167,38011,Chris Brunt,31,1,0,against,pen 31
+449671,4961,Jason McAteer,66,0,0,for,66
+450033,34640,Michael Turner,69,0,0,against,69
+450994,32156,Ryan Taylor,20,0,0,for,20
+450994,21860,Grant Smith,57,0,0,against,"57, 59"
+450994,21860,Grant Smith,59,0,0,against,"57, 59"
+451295,3185,Paul Hall,40,0,0,for,40
+451736,626,David Beresford,65,0,0,for,65
+451736,20578,Gareth Edds,6,0,0,against,"6, 84"
+451736,20578,Gareth Edds,84,0,0,against,"6, 84"
+451972,17477,Adam Boyd,32,0,0,against,"32, 68"
+451972,17477,Adam Boyd,68,0,0,against,"32, 68"
+452683,32156,Ryan Taylor,70,0,0,for,70
+452683,626,David Beresford,87,0,0,for,87
+441336,18869,Iain Hume,73,0,0,for,73
+441336,21689,Anthony Kay,90,0,0,against,90
+441895,32156,Ryan Taylor,37,1,0,for,pen 37
+441895,18869,Iain Hume,52,0,0,for,52
+441895,30913,Adam Griffin,39,0,0,against,39
+441895,33620,Scott Vernon,71,0,0,against,71
+441474,4961,Jason McAteer,57,0,0,for,57
+441474,32156,Ryan Taylor,81,0,0,for,81
+441851,27359,Eugene Dadi,8,0,0,for,8
+441851,4961,Jason McAteer,66,0,0,for,66
+441851,3982,Gary Jones,77,0,0,for,77
+441851,3185,Paul Hall,90,0,0,for,90
+441851,36629,Adebayo Akinfenwa,21,0,0,against,21
+441704,32646,Leroy Lita,10,0,0,against,10
+443187,18869,Iain Hume,8,0,0,for,8
+443187,36344,Chris Dagnall,50,0,0,for,50
+443187,21318,Jorge Leitao,62,0,0,against,62
+443327,3185,Paul Hall,3,0,0,for,3
+443327,2396,David Eyres,35,0,0,against,35
+442832,36344,Chris Dagnall,21,0,0,for,21
+442832,18869,Iain Hume,42,0,0,for,42
+442832,9708,Gareth Roberts,49,0,0,for,49
+442832,14207,Theodore Whitmore,79,0,0,for,79
+442832,3185,Paul Hall,81,0,0,for,81
+442832,235,Chris Armstrong,67,0,0,against,67
+396937,3982,Gary Jones,23,0,0,for,23
+396937,5857,Shane Nicholson,39,1,0,for,"pen 39, pen 81"
+396937,5857,Shane Nicholson,81,1,0,for,"pen 39, pen 81"
+396937,3343,Simon Haworth,76,0,0,for,76
+396937,17143,Stephen Hunt,64,1,0,against,pen 64
+396624,27359,Eugene Dadi,89,0,0,for,89
+398198,3982,Gary Jones,69,0,0,for,69
+398198,3838,Rodney Jack,6,0,0,against,6
+398198,23804,David Bell,33,0,0,against,33
+406876,27359,Eugene Dadi,45,0,0,for,45
+406876,9511,Luke Beckett,90,0,0,against,90
+399208,3982,Gary Jones,14,0,0,for,14
+399208,8950,Wayne Andrews,30,0,0,against,30
+399828,7432,Paul Smith,57,0,0,against,57
+399828,1627,Terry Cooke,61,0,0,against,61
+400766,15336,Aaron Brown,23,0,0,against,23
+400766,6199,Lee Peacock,76,0,0,against,76
+401317,3343,Simon Haworth,7,0,0,for,"7, 56"
+401317,3343,Simon Haworth,56,0,0,for,"7, 56"
+401317,7545,Mark Stallard,4,0,0,against,4
+401317,9302,Clive Platt,71,0,0,against,71
+402289,3343,Simon Haworth,19,0,0,for,19
+402289,3990,Lee Jones,64,0,0,against,64
+402289,14890,Shaun Holmes,65,0,0,against,65
+402277,27359,Eugene Dadi,41,0,0,for,41
+402277,16539,Danny Senda,82,0,1,for,og 82
+402277,36430,Andy Bell,78,0,0,against,78
+403271,36344,Chris Dagnall,54,0,0,for,54
+403271,8942,Russell Perrett,45,0,0,against,45
+403271,16420,Gary McSheffrey,64,0,0,against,64
+403271,9766,Adrian Forbes,72,0,0,against,72
+403446,23662,David Friio,7,0,0,against,7
+403446,8701,Paul Wotton,38,0,0,against,38
+403446,35625,Peter Gilbert,45,0,0,against,45
+403446,9392,Marino Keith,49,0,0,against,49
+403446,2371,Micky Evans,56,0,0,against,56
+403446,19144,David Norris,79,0,0,against,79
+405395,5857,Shane Nicholson,78,0,0,for,78
+405395,18869,Iain Hume,80,0,0,for,80
+405395,5706,John Murphy,19,0,0,against,"19, 35, 43"
+405395,5706,John Murphy,35,0,0,against,"19, 35, 43"
+405395,5706,John Murphy,43,0,0,against,"19, 35, 43"
+404299,18869,Iain Hume,70,0,0,for,70
+404299,9708,Gareth Roberts,79,0,0,for,79
+404299,2395,John Eyre,30,0,0,against,30
+404687,3982,Gary Jones,90,0,0,for,90
+404891,3343,Simon Haworth,5,0,0,for,5
+404891,2735,Kevin Gallen,47,0,0,against,47
+405713,107,Graham Allen,32,0,0,for,32
+405713,17127,Warren Feeney,72,0,0,against,72
+405322,27359,Eugene Dadi,4,0,0,for,4
+405322,18869,Iain Hume,80,0,0,for,80
+405322,5361,Micky Mellon,87,1,0,for,pen 87
+405322,32203,Gareth Davies,51,0,0,against,51
+405322,21108,Ian Evatt,83,0,0,against,83
+407029,10491,Isaiah Rankin,23,0,0,against,23
+407029,15844,Dean Gorre,64,1,0,against,pen 64
+407778,18869,Iain Hume,68,0,0,for,68
+408230,3982,Gary Jones,71,0,0,for,71
+408720,3982,Gary Jones,26,0,0,for,26
+409730,27359,Eugene Dadi,1,0,0,for,"1, 54"
+409730,27359,Eugene Dadi,54,0,0,for,"1, 54"
+409730,13156,Glynn Hurst,2,0,0,against,2
+409730,9772,Mark Allott,45,0,0,against,45
+409908,32156,Ryan Taylor,81,1,0,for,pen 81
+410358,3343,Simon Haworth,82,0,0,for,82
+410358,5706,John Murphy,9,0,0,against,9
+410358,32708,Simon Johnson,79,0,0,against,79
+410355,3982,Gary Jones,76,0,0,for,76
+410355,32156,Ryan Taylor,85,1,0,for,pen 85
+410355,9160,Graeme Lee,4,0,0,against,4
+410355,36341,Guylain Ndumbu-Nsungu,21,0,0,against,21
+410563,3343,Simon Haworth,51,0,0,for,51
+410563,19389,Kevin Nolan,78,0,0,against,78
+411365,27359,Eugene Dadi,9,0,0,for,"9, 60"
+411365,27359,Eugene Dadi,60,0,0,for,"9, 60"
+411365,17143,Stephen Hunt,18,0,0,against,18
+411365,26804,Ben May,62,0,0,against,62
+411545,27359,Eugene Dadi,82,0,0,for,82
+411545,18869,Iain Hume,91,0,0,for,91
+411545,37683,Ricky Shakes,90,0,0,against,90
+412214,5361,Micky Mellon,81,0,0,for,81
+412655,32156,Ryan Taylor,5,1,0,for,"pen 5, pen 87"
+412655,32156,Ryan Taylor,87,1,0,for,"pen 5, pen 87"
+412655,20715,Jim Goodwin,65,0,1,for,og 65
+412655,11195,Danny Griffin,34,0,0,against,34
+412655,26822,Fraser McLachlan,73,0,0,against,73
+413031,27359,Eugene Dadi,27,0,0,for,27
+413031,16867,Kem Izzet,89,0,0,against,89
+413819,18869,Iain Hume,74,0,0,for,74
+413819,7832,Scott Taylor,36,0,0,against,36
+413845,32156,Ryan Taylor,24,1,0,for,pen 24
+413845,18869,Iain Hume,59,0,0,for,59
+413845,34287,Andy Robinson,16,0,0,against,16
+414303,27359,Eugene Dadi,19,0,0,for,"19, 52"
+414303,27359,Eugene Dadi,52,0,0,for,"19, 52"
+414303,18869,Iain Hume,23,0,0,for,23
+414905,27359,Eugene Dadi,87,0,0,for,87
+414905,33620,Scott Vernon,60,0,0,against,60
+414898,26297,Danny Harrison,55,0,0,for,55
+414898,24036,Onandi Lowe,50,0,0,against,50
+414898,17291,Gary Mills,71,0,0,against,71
+416291,15067,Gary Hart,7,0,0,against,7
+416291,9124,Trevor Benjamin,18,0,0,against,18
+416291,18787,Leon Knight,31,0,0,against,31
+416287,18869,Iain Hume,63,0,0,for,"63, 73"
+416287,18869,Iain Hume,73,0,0,for,"63, 73"
+416287,13156,Glynn Hurst,21,0,0,against,"21, 86"
+416287,13156,Glynn Hurst,86,0,0,against,"21, 86"
+416287,3982,Gary Jones,83,0,1,against,og 83
+416379,3982,Gary Jones,41,0,0,for,41
+416379,10738,Tim Cahill,11,0,0,against,11
+416379,14022,Neil Harris,16,0,0,against,16
+417274,27359,Eugene Dadi,82,0,0,for,82
+417899,27359,Eugene Dadi,7,0,0,for,"7, pen 15"
+417899,27359,Eugene Dadi,15,1,0,for,"7, pen 15"
+417899,18869,Iain Hume,69,0,0,for,"69, 74"
+417899,18869,Iain Hume,74,0,0,for,"69, 74"
+418490,15076,Ian Sharps,78,0,0,for,78
+419011,3982,Gary Jones,30,0,0,for,30
+418997,27359,Eugene Dadi,11,0,0,for,"11, 45"
+418997,27359,Eugene Dadi,45,0,0,for,"11, 45"
+418997,21466,Roger Johnson,88,0,0,against,88
+419403,3982,Gary Jones,42,0,0,for,"42, 58"
+419403,3982,Gary Jones,58,0,0,for,"42, 58"
+419403,26297,Danny Harrison,51,0,0,for,51
+419403,3185,Paul Hall,56,0,0,for,56
+419403,626,David Beresford,81,0,0,for,81
+419403,107,Graham Allen,71,0,1,against,og 71
+422909,18869,Iain Hume,62,0,0,for,62
+422909,32156,Ryan Taylor,88,0,0,for,88
+421268,3185,Paul Hall,24,0,0,for,24
+421268,22114,Steve McPhee,10,0,0,against,"10, 90"
+421268,22114,Steve McPhee,90,0,0,against,"10, 90"
+421600,18869,Iain Hume,57,0,0,for,57
+421600,27359,Eugene Dadi,61,0,0,for,61
+421600,32331,Darren Mansaram,24,0,0,against,24
+415530,22215,Sam Parkin,31,0,0,against,"31, 82"
+415530,22215,Sam Parkin,82,0,0,against,"31, 82"
+368130,10720,Clint Hill,69,0,0,against,69
+368130,14650,Clyde Wijnhard,77,0,0,against,77
+368190,9299,Jason Price,71,0,0,for,71
+368190,3044,Kevin Gray,77,0,0,for,77
+368190,27983,Scott McDonald,44,0,0,against,44
+368939,7970,Brian Tinnion,70,1,0,against,pen 70
+368939,5737,Scott Murray,74,0,0,against,74
+369843,32562,Keith Southern,54,0,0,against,54
+369843,9699,John Hills,59,1,0,against,pen 59
+369843,7832,Scott Taylor,83,0,0,against,83
+370342,3343,Simon Haworth,37,0,0,for,37
+370342,32156,Ryan Taylor,83,0,0,for,83
+370342,15667,Eifion Williams,79,0,0,against,79
+370440,3343,Simon Haworth,45,0,0,for,"45, 66"
+370440,3343,Simon Haworth,66,0,0,for,"45, 66"
+370440,9299,Jason Price,86,0,0,for,86
+370440,19213,Kevin O'Connor,90,0,0,against,90
+362893,16401,Nathan Ellington,54,1,0,against,"pen 54, 67"
+362893,16401,Nathan Ellington,67,0,0,against,"pen 54, 67"
+373099,30153,Stuart Howson,85,0,0,against,85
+373602,107,Graham Allen,3,0,0,for,3
+374962,26297,Danny Harrison,32,0,0,for,32
+374962,3982,Gary Jones,45,0,0,for,"45, 75"
+374962,3982,Gary Jones,75,0,0,for,"45, 75"
+374962,9708,Gareth Roberts,68,0,0,for,68
+374962,32156,Ryan Taylor,79,0,0,for,79
+374449,7942,Peter Thorne,29,0,0,against,"29, 82"
+374449,7942,Peter Thorne,82,0,0,against,"29, 82"
+374449,13570,Robert Earnshaw,40,1,0,against,pen 40
+374449,18784,Rhys Weston,90,0,0,against,90
+375266,18869,Iain Hume,53,0,0,for,53
+375266,2428,David Farrell,88,0,0,against,88
+375144,9708,Gareth Roberts,87,0,0,for,87
+375144,8701,Paul Wotton,90,0,1,for,og 90
+375144,15645,Steve Adams,6,0,0,against,6
+375757,3982,Gary Jones,80,0,0,for,80
+375757,22215,Sam Parkin,2,0,0,against,2
+377064,409,Stuart Barlow,67,0,0,for,"67, 116"
+377064,409,Stuart Barlow,116,0,0,for,"67, 116"
+377064,13569,Matthew Tipton,4,0,0,against,4
+376589,409,Stuart Barlow,7,0,0,for,7
+376589,3343,Simon Haworth,62,0,0,for,62
+376589,23583,James Collins,34,0,0,against,34
+376589,4066,Graham Kavanagh,44,0,0,against,44
+376938,409,Stuart Barlow,63,0,0,for,"63, 90"
+376938,409,Stuart Barlow,90,0,0,for,"63, 90"
+376938,3343,Simon Haworth,67,0,0,for,67
+376938,7301,Michael Simpson,71,0,0,against,71
+377497,5361,Micky Mellon,45,0,0,for,45
+377497,9175,Andy Campbell,60,0,0,against,60
+377497,23583,James Collins,68,0,0,against,68
+378241,9708,Gareth Roberts,24,0,0,for,24
+378241,12593,Matthew Spring,70,0,0,against,70
+378241,18155,Ahmet Brkovic,79,0,0,against,79
+378241,3653,Steve Howard,89,0,0,against,89
+379540,17829,Jon Newby,15,0,0,against,15
+379540,30552,Dave Nugent,54,0,0,against,54
+379687,3343,Simon Haworth,10,0,0,for,"10, 66"
+379687,3343,Simon Haworth,66,0,0,for,"10, 66"
+379687,32156,Ryan Taylor,71,0,0,for,71
+379687,20585,Alex Hay,76,0,0,for,76
+380290,107,Graham Allen,1,0,0,for,1
+380290,3343,Simon Haworth,11,0,0,for,11
+380290,7545,Mark Stallard,27,1,0,against,"pen 27, 90"
+380290,7545,Mark Stallard,90,0,0,against,"pen 27, 90"
+380445,5857,Shane Nicholson,58,1,0,for,pen 58
+380445,9708,Gareth Roberts,77,0,0,for,77
+380445,7422,Martin Smith,78,0,0,against,78
+380566,3343,Simon Haworth,54,0,0,for,54
+380566,3982,Gary Jones,60,0,0,for,"60, 71"
+380566,3982,Gary Jones,71,0,0,for,"60, 71"
+363843,3343,Simon Haworth,59,0,0,for,59
+363843,2396,David Eyres,37,1,0,against,pen 37
+363843,28759,Julian Baudet,76,0,0,against,76
+381035,3343,Simon Haworth,38,0,0,for,38
+381035,5361,Micky Mellon,60,0,0,for,60
+381035,5108,Scott McGleish,12,0,0,against,12
+381035,14637,Joe Keith,69,1,0,against,pen 69
+382155,3343,Simon Haworth,61,0,0,for,61
+382155,578,Mickey Bell,10,0,0,against,10
+382613,16511,Marvin Robinson,80,0,0,for,80
+382613,3343,Simon Haworth,90,0,0,for,90
+382613,6087,Steve Palmer,60,0,0,against,60
+382990,9978,Sean McClare,31,0,1,for,og 31
+381979,15076,Ian Sharps,50,0,0,for,50
+381979,17651,Marvin Brown,8,0,0,against,8
+381979,5783,Tony Naylor,64,0,0,against,64
+381979,15091,Martin Devaney,72,0,0,against,72
+383589,3147,Andy Gurney,50,0,0,against,50
+384229,3343,Simon Haworth,57,0,0,for,57
+384701,18869,Iain Hume,14,0,0,for,"14, 70"
+384701,18869,Iain Hume,70,0,0,for,"14, 70"
+384701,2374,Paul Evans,59,0,0,against,59
+385147,18869,Iain Hume,20,0,0,for,20
+385147,15076,Ian Sharps,48,0,0,for,48
+385147,32618,Ibrahima Sonko,90,0,0,against,90
+385603,9299,Jason Price,43,0,0,for,43
+385603,15076,Ian Sharps,88,0,0,for,88
+385603,17994,Rob Hulse,47,0,0,against,47
+385413,3343,Simon Haworth,47,0,0,for,47
+385413,18869,Iain Hume,78,0,0,for,78
+385413,3982,Gary Jones,89,0,0,for,89
+385413,13570,Robert Earnshaw,35,0,0,against,"35, 68, 90"
+385413,13570,Robert Earnshaw,68,0,0,against,"35, 68, 90"
+385413,13570,Robert Earnshaw,90,0,0,against,"35, 68, 90"
+364466,5857,Shane Nicholson,49,1,0,for,pen 49
+364466,2244,Bruce Dyer,8,0,0,against,8
+387088,163,Iain Anderson,30,0,0,for,30
+387088,18869,Iain Hume,51,0,0,for,51
+387088,6628,David Reeves,78,0,0,against,78
+388316,3343,Simon Haworth,65,0,0,for,65
+364799,5857,Shane Nicholson,59,1,0,for,pen 59
+364799,3343,Simon Haworth,60,0,0,for,60
+364799,163,Iain Anderson,90,0,0,for,90
+364799,20585,Alex Hay,90,0,0,for,90
+388924,3982,Gary Jones,15,0,0,for,15
+388924,3343,Simon Haworth,81,0,0,for,81
+388924,9299,Jason Price,90,0,0,for,90
+388924,19046,Liam Lawrence,54,1,0,against,pen 54
+389219,5857,Shane Nicholson,48,1,0,for,pen 48
+389219,3343,Simon Haworth,70,0,0,for,70
+389219,3982,Gary Jones,81,0,0,for,81
+389219,14050,Aaron Wilbraham,7,0,0,against,7
+389219,26820,Andy Welsh,21,0,0,against,21
+367035,13834,Jason Koumas,40,0,0,for,40
+367035,3343,Simon Haworth,45,0,0,for,"45, 81"
+367035,3343,Simon Haworth,81,0,0,for,"45, 81"
+367035,107,Graham Allen,47,0,0,for,47
+367035,17203,Steve Brooker,26,0,0,against,26
+362493,13834,Jason Koumas,15,0,0,for,15
+362493,14637,Joe Keith,53,0,0,against,53
+367423,409,Stuart Barlow,60,0,0,for,60
+371236,1860,Tom Curtis,57,0,1,against,og 57
+371236,17994,Rob Hulse,73,0,0,against,73
+371712,3343,Simon Haworth,17,0,0,for,17
+372391,107,Graham Allen,22,0,0,for,22
+372391,4825,Chris Marsden,1,0,0,against,1
+372391,12263,Brett Ormerod,25,0,0,against,"25, 43, 68"
+372391,12263,Brett Ormerod,43,0,0,against,"25, 43, 68"
+372391,12263,Brett Ormerod,68,0,0,against,"25, 43, 68"
+372391,21323,Fabrice Fernandes,52,0,0,against,52
+372391,20402,Michael Svensson,66,0,0,against,66
+372621,20585,Alex Hay,13,0,0,for,13
+372621,9798,Neil MacKenzie,46,0,0,against,46
+372621,7162,Scott Sellars,52,0,0,against,52
+372621,19046,Liam Lawrence,61,0,0,against,61
+372621,1460,Iyseden Christie,69,0,0,against,"69, 78"
+372621,1460,Iyseden Christie,78,0,0,against,"69, 78"
+372621,17403,Colin Larkin,75,0,0,against,75
+387938,3982,Gary Jones,90,0,0,for,90
+338630,10720,Clint Hill,13,0,0,for,13
+338630,9299,Jason Price,39,0,0,for,"39, 88"
+338630,9299,Jason Price,88,0,0,for,"39, 88"
+338630,13834,Jason Koumas,61,0,0,for,61
+338630,122,Wayne Allison,90,0,0,for,90
+338630,24138,Alan Navarro,90,0,0,for,90
+338630,12615,Tom Youngs,83,1,0,against,pen 83
+340544,9299,Jason Price,42,0,0,for,42
+340544,9708,Gareth Roberts,66,0,0,for,66
+348495,9299,Jason Price,9,0,0,for,9
+348495,13834,Jason Koumas,17,0,0,for,"17, 18, 45"
+348495,13834,Jason Koumas,18,0,0,for,"17, 18, 45"
+348495,13834,Jason Koumas,45,0,0,for,"17, 18, 45"
+348495,409,Stuart Barlow,70,1,0,for,pen 70
+348495,8750,Steve Yates,77,0,0,for,77
+348495,21187,Ritchie Foran,71,0,0,against,71
+349172,122,Wayne Allison,34,0,0,for,"34, 83"
+349172,122,Wayne Allison,83,0,0,for,"34, 83"
+349172,8750,Steve Yates,38,0,0,for,38
+349172,10680,Micky Cummins,30,0,0,against,30
+349884,9299,Jason Price,42,0,0,for,"42, 72"
+349884,9299,Jason Price,72,0,0,for,"42, 72"
+349884,1625,Andy Cooke,19,0,0,against,19
+349884,19518,Rikhardur Dadason,90,1,0,against,pen 90
+350447,13834,Jason Koumas,61,0,0,for,61
+351166,122,Wayne Allison,64,0,0,for,64
+351166,9299,Jason Price,74,0,0,for,74
+351166,2564,Sean Flynn,80,0,0,for,80
+351166,14739,Barrington Belgrave,76,0,0,against,76
+352161,13834,Jason Koumas,28,0,0,for,28
+352050,6723,Paul Rideout,14,0,0,for,14
+352759,6723,Paul Rideout,23,0,0,for,23
+352759,2564,Sean Flynn,53,0,0,for,53
+352759,13834,Jason Koumas,79,0,0,for,79
+352759,4066,Graham Kavanagh,21,1,0,against,pen 21
+350187,15067,Gary Hart,61,0,0,against,61
+354199,6723,Paul Rideout,23,0,0,for,23
+354199,234,Craig Armstrong,78,0,0,against,78
+354199,14650,Clyde Wijnhard,81,0,0,against,81
+353954,9299,Jason Price,65,0,0,for,65
+353954,122,Wayne Allison,87,0,0,for,87
+354862,9015,Christian Ziege,9,0,0,against,9
+354862,10535,Gustavo Poyet,36,0,0,against,"36, 90"
+354862,10535,Gustavo Poyet,90,0,0,against,"36, 90"
+354862,7239,Teddy Sheringham,64,0,0,against,64
+352582,6723,Paul Rideout,12,0,0,for,12
+352582,30034,Cristian Colusso,60,0,0,against,60
+313639,409,Stuart Barlow,82,0,0,for,82
+313639,12919,Lee Trundle,75,0,0,against,75
+355839,15053,Danny Allsopp,14,0,0,against,"14, 32, 39"
+355839,15053,Danny Allsopp,32,0,0,against,"14, 32, 39"
+355839,15053,Danny Allsopp,39,0,0,against,"14, 32, 39"
+313957,3343,Simon Haworth,14,0,0,for,14
+356360,3343,Simon Haworth,10,0,0,for,10
+356360,13733,Marc Bridge-Wilkinson,23,0,0,against,23
+357672,3343,Simon Haworth,57,0,0,for,57
+357672,5706,John Murphy,12,0,0,against,12
+352589,5178,Leon McKenzie,18,0,0,against,"18, 52, 74"
+352589,5178,Leon McKenzie,52,0,0,against,"18, 52, 74"
+352589,5178,Leon McKenzie,74,0,0,against,"18, 52, 74"
+352589,16896,Helgi Danielsson,22,0,0,against,"22, 28"
+352589,16896,Helgi Danielsson,28,0,0,against,"22, 28"
+357581,26299,Sean Thornton,24,0,0,for,24
+357581,409,Stuart Barlow,85,0,0,for,85
+357581,4509,Andy Liddell,20,1,0,against,pen 20
+358348,13834,Jason Koumas,60,0,0,for,60
+358348,409,Stuart Barlow,70,0,0,for,70
+358348,7932,Andy Thomson,14,0,0,against,"14, 90"
+358348,7932,Andy Thomson,90,0,0,against,"14, 90"
+358348,10619,Richard Langley,77,0,0,against,77
+312737,3343,Simon Haworth,61,0,0,for,61
+312737,6568,Andy Rammell,29,0,0,against,29
+312737,1066,Steve Brown,51,1,0,against,pen 51
+358798,409,Stuart Barlow,41,0,0,for,41
+358798,3343,Simon Haworth,48,0,0,for,48
+358798,9268,Tony Rougier,50,0,0,against,50
+358798,6979,John Salako,72,0,0,against,72
+319374,11391,Lloyd Owusu,30,0,0,against,30
+319374,20396,Ben Burgess,58,0,0,against,58
+319374,2374,Paul Evans,76,0,0,against,76
+319374,21531,Mark Williams,89,0,0,against,89
+318301,2564,Sean Flynn,8,0,0,for,8
+318301,13834,Jason Koumas,15,0,0,for,15
+318301,409,Stuart Barlow,83,0,0,for,83
+318301,5361,Micky Mellon,89,0,0,for,89
+318301,8959,Richard Cresswell,31,0,0,against,31
+348421,107,Graham Allen,45,0,0,for,45
+348421,13834,Jason Koumas,74,0,0,for,74
+348421,9087,Giuliano Grazioli,7,0,0,against,7
+348421,3147,Andy Gurney,88,0,0,against,88
+314767,409,Stuart Barlow,21,0,0,for,"21, pen 55, 59"
+314767,409,Stuart Barlow,55,1,0,for,"21, pen 55, 59"
+314767,409,Stuart Barlow,59,0,0,for,"21, pen 55, 59"
+314767,13834,Jason Koumas,56,0,0,for,56
+314767,1349,Darren Caskey,26,0,0,against,26
+314767,24873,Marcel Cas,30,0,0,against,30
+314795,13834,Jason Koumas,45,0,0,for,45
+314795,409,Stuart Barlow,54,0,0,for,"54, 55, 78"
+314795,409,Stuart Barlow,55,0,0,for,"54, 55, 78"
+314795,409,Stuart Barlow,78,0,0,for,"54, 55, 78"
+314795,8750,Steve Yates,64,0,0,for,64
+314850,3997,Steve Jones,21,0,0,against,21
+314850,7949,Tony Thorpe,45,0,0,against,45
+324134,8750,Steve Yates,2,0,0,for,2
+324134,2564,Sean Flynn,21,0,0,for,"21, 69"
+324134,2564,Sean Flynn,69,0,0,for,"21, 69"
+324134,10722,Andy Parkinson,35,0,0,for,35
+320841,7239,Teddy Sheringham,21,1,0,against,pen 21
+320841,180,Darren Anderton,39,0,0,against,39
+320841,10535,Gustavo Poyet,49,0,0,against,49
+320841,12306,Sergei Rebrov,81,0,0,against,81
+325453,2564,Sean Flynn,45,0,0,for,45
+325453,2606,Jamie Forrester,9,0,0,against,"9, 72"
+325453,2606,Jamie Forrester,72,0,0,against,"9, 72"
+325453,9966,Richard Hope,45,0,0,against,45
+325453,5129,Paul McGregor,48,0,0,against,48
+326777,3433,Nick Henry,50,0,0,for,50
+314522,24422,Seyni N'Diaye,81,0,0,for,81
+314522,3343,Simon Haworth,67,0,0,against,"67, 74"
+314522,3343,Simon Haworth,74,0,0,against,"67, 74"
+327690,6723,Paul Rideout,90,0,0,for,90
+327690,857,Jason Bowen,39,0,0,against,39
+328871,2564,Sean Flynn,12,0,0,for,12
+328871,1856,Darren Currie,16,0,0,against,16
+330643,13834,Jason Koumas,72,0,0,for,72
+330643,409,Stuart Barlow,90,0,0,for,90
+330643,7932,Andy Thomson,89,0,0,against,89
+334541,24138,Alan Navarro,20,0,0,for,20
+334541,9299,Jason Price,64,0,0,for,"64, 77"
+334541,9299,Jason Price,77,0,0,for,"64, 77"
+334541,2564,Sean Flynn,87,0,0,for,87
+334541,29195,Leech,78,0,0,against,78
+314276,9299,Jason Price,77,0,0,for,77
+314276,7427,Neil Smith,25,0,0,against,25
+314276,2610,Nicky Forster,38,0,0,against,"38, 61"
+314276,2610,Nicky Forster,61,0,0,against,"38, 61"
+314276,19479,Darius Henderson,90,0,0,against,90
+317190,10722,Andy Parkinson,74,0,0,for,74
+317190,17829,Jon Newby,4,0,0,against,4
+317190,6649,Paul Reid,84,0,0,against,84
+317178,409,Stuart Barlow,90,1,0,for,pen 90
+317178,9588,Kevin Rapley,84,0,0,against,84
+317178,5108,Scott McGleish,90,0,0,against,90
+310296,3433,Nick Henry,16,0,0,for,16
+310296,2564,Sean Flynn,66,0,0,for,66
+310296,409,Stuart Barlow,74,0,0,for,74
+310296,3895,Nigel Jemson,90,0,0,against,90
+318170,10720,Clint Hill,13,0,0,for,13
+318170,2564,Sean Flynn,90,0,0,for,90
+318170,7942,Peter Thorne,90,1,0,against,pen 90
+318542,409,Stuart Barlow,36,0,0,for,36
+318542,5361,Micky Mellon,88,0,0,for,88
+318542,7236,Darren Sheridan,12,0,0,against,12
+318542,2395,John Eyre,33,0,0,against,33
+322924,409,Stuart Barlow,39,0,0,for,39
+322924,24422,Seyni N'Diaye,61,0,0,for,61
+326792,2395,John Eyre,18,0,0,against,18
+326792,23150,Marc Richards,90,0,0,against,90
+359521,9708,Gareth Roberts,30,0,0,for,30
+359521,30243,David Bridges,50,0,0,against,50
+359521,12615,Tom Youngs,71,0,0,against,71
+360037,1767,Gary Croft,72,0,0,against,72
+290559,2866,Wayne Gill,4,0,0,for,4
+290559,2564,Sean Flynn,9,0,0,for,9
+290559,10720,Clint Hill,45,0,0,for,45
+290559,252,Carl Asaba,10,0,0,against,10
+290559,7496,Nicky Southall,66,1,0,against,pen 66
+289613,122,Wayne Allison,16,0,0,for,16
+289613,6723,Paul Rideout,38,0,0,for,38
+289613,2866,Wayne Gill,62,0,0,for,62
+290547,619,Marcus Bent,19,0,0,against,"19, 57"
+290547,619,Marcus Bent,57,0,0,against,"19, 57"
+290536,8473,Mike Whitlow,53,0,0,against,53
+291000,122,Wayne Allison,27,0,0,for,27
+291000,2866,Wayne Gill,32,1,0,for,pen 32
+291000,5556,Ian Thomas-Moore,12,0,0,against,12
+290474,6723,Paul Rideout,44,0,0,for,44
+290474,409,Stuart Barlow,87,0,0,for,87
+290474,17954,Grant Holt,23,0,0,against,23
+291434,122,Wayne Allison,43,0,0,for,43
+291434,409,Stuart Barlow,83,1,0,for,pen 83
+291434,9094,Carl Robinson,12,0,0,against,12
+291690,5472,Lee Mills,81,0,0,against,81
+291690,893,Lee Bradbury,86,0,0,against,86
+291854,7832,Scott Taylor,15,0,0,for,"15, 90"
+291854,7832,Scott Taylor,90,0,0,for,"15, 90"
+293590,10720,Clint Hill,49,0,0,for,49
+293590,15022,Reuben Hazell,54,0,1,against,og 54
+292648,3015,Martin Grainger,73,0,0,against,73
+292648,11233,Geoff Horsfield,90,0,0,against,90
+292068,7832,Scott Taylor,13,0,0,for,13
+292744,10722,Andy Parkinson,82,0,0,for,82
+292744,17994,Rob Hulse,28,0,0,against,"28, 46"
+292744,17994,Rob Hulse,46,0,0,against,"28, 46"
+292744,8964,Colin Little,40,0,0,against,40
+293172,13834,Jason Koumas,57,0,0,for,57
+293172,10720,Clint Hill,64,0,0,for,64
+293172,1961,Steve Davis,45,0,0,against,"45, 55"
+293172,1961,Steve Davis,55,0,0,against,"45, 55"
+293172,6192,Andy Payton,90,0,0,against,90
+297944,10722,Andy Parkinson,11,0,0,for,11
+298159,8750,Steve Yates,44,0,0,for,44
+298159,10722,Andy Parkinson,69,0,0,for,69
+298159,893,Lee Bradbury,8,0,0,against,8
+298706,15628,Bo Hansen,16,0,0,against,16
+298706,10720,Clint Hill,20,0,1,against,og 20
+299550,8750,Steve Yates,22,0,0,for,"22, 62"
+299550,8750,Steve Yates,62,0,0,for,"22, 62"
+299550,13834,Jason Koumas,35,0,0,for,35
+300269,6723,Paul Rideout,90,0,0,for,90
+300269,14050,Aaron Wilbraham,39,0,0,against,39
+300967,2564,Sean Flynn,21,0,1,against,og 21
+300967,16024,Adam Proudlock,47,0,0,against,47
+301161,2304,Efan Ekoku,78,0,0,against,78
+301603,6723,Paul Rideout,59,0,0,for,"59, 71, 80"
+301603,6723,Paul Rideout,71,0,0,for,"59, 71, 80"
+301603,6723,Paul Rideout,80,0,0,for,"59, 71, 80"
+301603,409,Stuart Barlow,83,0,0,for,83
+301603,15242,Hassan Kachloul,12,0,0,against,12
+301603,18658,Jo Tessem,26,0,0,against,26
+301603,6698,Dean Richards,45,0,0,against,45
+302607,122,Wayne Allison,1,0,0,for,1
+302607,8750,Steve Yates,38,0,0,for,38
+302597,10722,Andy Parkinson,45,0,0,for,45
+302597,4680,Steve Macauley,61,0,0,against,61
+302597,17994,Rob Hulse,63,0,0,against,63
+302597,8964,Colin Little,81,0,0,against,81
+302594,122,Wayne Allison,59,0,0,for,59
+302594,10775,Jon Macken,8,0,0,against,8
+302528,8750,Steve Yates,47,0,0,for,47
+302528,122,Wayne Allison,58,0,0,for,58
+302528,5705,Danny Murphy,12,0,0,against,12
+302528,10509,Michael Owen,27,0,0,against,27
+302528,15643,Steven Gerrard,52,0,0,against,52
+302528,2634,Robbie Fowler,82,1,0,against,pen 82
+302964,122,Wayne Allison,28,0,0,for,28
+302964,9192,Kevin Harper,57,0,0,against,57
+303270,7832,Scott Taylor,1,0,0,for,1
+303270,13834,Jason Koumas,20,0,0,for,20
+303270,2244,Bruce Dyer,65,0,0,against,65
+303270,7252,Neil Shipperley,82,0,0,against,82
+303270,10491,Isaiah Rankin,90,0,0,against,90
+303272,13834,Jason Koumas,10,0,0,for,10
+303272,15062,Marlon King,42,1,0,against,pen 42
+303272,5998,Iffy Onuora,47,0,0,against,47
+303451,13834,Jason Koumas,85,0,0,for,85
+303451,7830,Bob Taylor,40,0,0,against,"40, 63"
+303451,7830,Bob Taylor,63,0,0,against,"40, 63"
+304468,13834,Jason Koumas,27,0,0,for,27
+304468,14811,Luke Cornwall,65,0,0,against,"65, 70"
+304468,14811,Luke Cornwall,70,0,0,against,"65, 70"
+304468,4562,Steve Livingstone,72,0,0,against,72
+306722,8750,Steve Yates,20,0,0,for,20
+306722,9708,Gareth Roberts,23,0,1,against,og 23
+306722,5675,John Mullin,59,0,0,against,59
+299016,13834,Jason Koumas,7,0,0,for,7
+299016,1481,Lee Clark,21,0,0,against,21
+299016,10497,Luis Boa Morte,28,0,0,against,"28, 50"
+299016,10497,Luis Boa Morte,50,0,0,against,"28, 50"
+293193,9728,Steve Basham,57,0,0,against,57
+296058,10720,Clint Hill,3,0,0,for,3
+296058,460,Chris Bart-Williams,37,1,0,against,pen 37
+296058,18871,Keith Foy,42,0,0,against,42
+296058,7105,Riccy Scimeca,63,0,0,against,63
+299038,10722,Andy Parkinson,52,0,0,for,52
+299038,13834,Jason Koumas,68,0,0,for,68
+299006,17247,Trond Andersen,40,0,0,against,40
+299006,8545,Mark Williams,54,0,0,against,54
+299006,2353,Jason Euell,77,0,0,against,"77, 85"
+299006,2353,Jason Euell,85,0,0,against,"77, 85"
+298993,10608,Delroy Facey,44,0,0,against,44
+298993,2247,Jon Dyson,65,0,0,against,65
+298993,2735,Kevin Gallen,71,0,0,against,71
+303964,6025,Simon Osborn,90,0,0,for,90
+303964,16124,Louis Saha,3,0,0,against,"3, 84"
+303964,16124,Louis Saha,84,0,0,against,"3, 84"
+303964,10659,Barry Hayles,28,0,0,against,28
+303964,1481,Lee Clark,65,0,0,against,65
+304602,24422,Seyni N'Diaye,70,0,0,for,70
+305012,18785,Brian McGovern,87,0,0,against,87
+305016,7932,Andy Thomson,14,0,0,against,14
+305016,21235,Peter Crouch,63,0,0,against,63
+293597,122,Wayne Allison,42,0,0,for,42
+293597,411,Darren Barnard,83,1,0,against,pen 83
+294034,1185,Tony Butler,28,0,1,for,og 28
+294034,409,Stuart Barlow,90,0,0,for,90
+294034,3687,Lee Hughes,30,0,0,against,30
+294034,11254,Jason Roberts,35,0,0,against,35
+294046,13834,Jason Koumas,30,0,0,for,30
+294046,7832,Scott Taylor,90,0,0,for,90
+294046,3702,Mark Hughes,26,0,0,against,"26, 31"
+294046,3702,Mark Hughes,31,0,0,against,"26, 31"
+294046,9725,Egil Ostenstad,36,0,0,against,36
+293797,10722,Andy Parkinson,52,0,0,for,"52, 120"
+293797,10722,Andy Parkinson,120,0,0,for,"52, 120"
+293797,8750,Steve Yates,76,0,0,for,76
+293797,3683,Darren Huckerby,25,0,0,against,"25, 34"
+293797,3683,Darren Huckerby,34,0,0,against,"25, 34"
+294582,6784,Iwan Roberts,52,0,0,against,52
+299051,10720,Clint Hill,19,0,0,for,19
+299051,7832,Scott Taylor,60,0,0,for,60
+295682,13834,Jason Koumas,12,0,0,for,12
+295682,10720,Clint Hill,26,0,0,for,26
+295682,7569,Steve Staunton,15,0,0,against,15
+295682,6401,Jamie Pollock,83,0,0,against,83
+295682,10566,Clinton Morrison,86,0,0,against,86
+296594,10722,Andy Parkinson,59,0,0,for,59
+296594,15115,David Dunn,47,0,0,against,47
+294056,13834,Jason Koumas,58,0,0,for,58
+294056,1603,Karl Connolly,83,0,0,against,83
+305840,10722,Andy Parkinson,47,0,0,for,47
+305840,3611,David Hopkin,25,0,0,against,25
+306720,24422,Seyni N'Diaye,61,0,0,for,61
+306720,9734,Allan Nielsen,90,0,0,against,90
+307087,6723,Paul Rideout,14,0,0,for,14
+307087,5361,Micky Mellon,90,0,0,for,90
+307087,10728,Marlon Harewood,66,0,0,against,"66, 78"
+307087,10728,Marlon Harewood,78,0,0,against,"66, 78"
+261488,12903,Philip Thompson,21,0,1,for,og 21
+261488,3697,Ian Hughes,26,0,0,against,26
+261488,1501,Phil Clarkson,65,0,0,against,65
+272875,3433,Nick Henry,30,0,0,for,30
+272875,1600,Sean Connelly,79,0,0,against,79
+272875,2061,Tony Dinning,85,1,0,against,pen 85
+267153,13834,Jason Koumas,8,0,0,for,8
+265426,7832,Scott Taylor,26,0,0,for,26
+265426,4100,David Kelly,45,0,0,for,"45, 55"
+265426,4100,David Kelly,55,0,0,for,"45, 55"
+265426,1501,Phil Clarkson,64,0,0,against,64
+267138,5783,Tony Naylor,64,0,0,against,64
+267129,8750,Steve Yates,35,0,0,for,35
+267129,2023,Paul Devlin,5,0,0,against,"5, 45"
+267129,2023,Paul Devlin,45,0,0,against,"5, 45"
+267129,7422,Martin Smith,21,0,0,against,21
+267122,7241,Mike Sheron,35,0,0,against,35
+267122,2244,Bruce Dyer,77,0,0,against,77
+267122,9978,Sean McClare,86,0,0,against,86
+272876,8284,Ashley Ward,82,0,0,against,82
+272876,734,Nathan Blake,87,0,0,against,87
+272877,7832,Scott Taylor,50,0,0,for,"50, 90"
+272877,7832,Scott Taylor,90,0,0,for,"50, 90"
+272877,4100,David Kelly,58,0,0,for,"58, 63, 80"
+272877,4100,David Kelly,63,0,0,for,"58, 63, 80"
+272877,4100,David Kelly,80,0,0,for,"58, 63, 80"
+272877,4946,Gary McAllister,7,0,0,against,7
+272878,4100,David Kelly,82,0,0,for,82
+272878,9801,Dave Challinor,90,0,0,for,90
+272878,12157,Jeff Peron,2,0,0,against,"2, 17"
+272878,12157,Jeff Peron,17,0,0,against,"2, 17"
+272878,8481,Guy Whittingham,39,0,0,against,39
+272878,13793,Mihalis Vlachos,48,0,0,against,48
+272879,7832,Scott Taylor,22,0,0,for,22
+272879,4946,Gary McAllister,21,0,0,against,21
+272879,14399,Youssef Chippo,44,0,0,against,"44, 45"
+272879,14399,Youssef Chippo,45,0,0,against,"44, 45"
+272880,15027,Georges Santos,30,0,0,for,30
+272880,122,Wayne Allison,86,0,0,for,86
+272880,5374,Clive Mendonca,25,1,0,against,pen 25
+272880,4218,Mark Kinsella,70,0,0,against,70
+272881,122,Wayne Allison,74,0,0,for,"74, 85"
+272881,122,Wayne Allison,85,0,0,for,"74, 85"
+272882,10720,Clint Hill,54,0,0,for,54
+272882,9882,Robert Steiner,3,0,0,against,3
+272882,6198,Gavin Peacock,62,0,0,against,62
+272888,3982,Gary Jones,82,0,0,for,82
+272888,10722,Andy Parkinson,90,0,0,for,90
+272888,9935,Mathias Svensson,34,0,0,against,34
+272888,295,Dean Austin,45,0,0,against,45
+270674,3015,Martin Grainger,78,0,1,for,og 78
+270674,3015,Martin Grainger,2,1,0,against,pen 2
+270674,12702,Marcelo,27,0,0,against,27
+270674,3772,Graham Hyde,45,0,0,against,45
+270889,122,Wayne Allison,50,0,0,for,50
+271842,4100,David Kelly,39,0,0,for,39
+271842,10722,Andy Parkinson,71,0,0,for,71
+271842,9015,Christian Ziege,79,0,0,against,79
+272047,122,Wayne Allison,14,0,0,for,14
+272047,6784,Iwan Roberts,63,0,0,against,"63, 89"
+272047,6784,Iwan Roberts,89,0,0,against,"63, 89"
+272359,10722,Andy Parkinson,67,0,0,for,67
+272359,122,Wayne Allison,74,0,0,for,74
+272359,17194,Gabor Bukran,47,0,0,against,47
+272371,10720,Clint Hill,11,0,0,for,11
+272371,122,Wayne Allison,13,0,0,for,"13, 26"
+272371,122,Wayne Allison,26,0,0,for,"13, 26"
+272371,9210,Chris Hay,12,0,0,against,12
+272377,9708,Gareth Roberts,38,0,1,against,og 38
+272592,122,Wayne Allison,25,0,0,for,25
+272522,10720,Clint Hill,22,0,0,for,22
+273097,3433,Nick Henry,5,0,0,for,5
+273097,4733,Alan Mahon,20,1,0,for,pen 20
+273097,4100,David Kelly,70,0,0,for,70
+273612,122,Wayne Allison,9,0,0,for,9
+273612,4100,David Kelly,70,0,0,for,70
+273612,1545,Chris Coleman,18,0,0,against,18
+274201,7832,Scott Taylor,57,0,0,for,57
+274201,2023,Paul Devlin,48,0,0,against,48
+274201,619,Marcus Bent,61,0,0,against,61
+274201,2594,Bobby Ford,87,0,0,against,87
+274738,10722,Andy Parkinson,16,0,0,for,16
+274738,4100,David Kelly,57,0,0,for,57
+274738,7252,Neil Shipperley,43,0,0,against,43
+274738,7880,Geoff Thomas,65,0,0,against,65
+275830,62,Ade Akinbiyi,35,0,0,against,"35, 88"
+275830,62,Ade Akinbiyi,88,0,0,against,"35, 88"
+275830,12941,Lee Naylor,45,0,0,against,45
+275830,515,Darren Bazeley,69,0,0,against,69
+279835,7728,Daryl Sutch,38,0,1,for,og 38
+279835,10695,Lee Marshall,15,0,0,against,15
+277370,4100,David Kelly,60,0,0,for,"60, 89"
+277370,4100,David Kelly,89,0,0,for,"60, 89"
+277370,18122,David Healy,41,0,0,against,41
+281586,4733,Alan Mahon,52,0,0,for,52
+281586,6198,Gavin Peacock,26,1,0,against,pen 26
+282427,9801,Dave Challinor,12,0,0,for,12
+282427,122,Wayne Allison,82,0,0,for,82
+282427,8946,Daryl Clare,37,0,0,against,37
+281320,10720,Clint Hill,37,0,0,for,37
+281320,16382,Charlie Griffin,15,0,0,against,15
+281320,9087,Giuliano Grazioli,30,0,0,against,30
+281320,18901,Wayne Gray,62,0,0,against,62
+281592,2918,Shaun Goater,10,0,0,against,10
+281592,9762,Jeff Whitley,72,0,0,against,72
+282420,7832,Scott Taylor,46,0,0,for,46
+282420,10560,Hayden Mullins,34,0,0,against,34
+282420,10566,Clinton Morrison,39,0,0,against,39
+272889,9708,Gareth Roberts,37,0,0,for,37
+272889,10722,Andy Parkinson,38,0,0,for,38
+272889,1065,Steve Brown,47,0,0,against,47
+272889,6819,John Robinson,67,0,0,against,67
+272889,6926,Richard Rufus,80,0,0,against,80
+270420,10720,Clint Hill,53,0,0,for,53
+270420,122,Wayne Allison,66,0,0,for,66
+270420,4100,David Kelly,90,0,0,for,90
+271538,10722,Andy Parkinson,18,0,0,for,18
+271538,9801,Dave Challinor,63,0,0,for,63
+271538,7832,Scott Taylor,79,0,0,for,79
+271538,15046,Eidur Gudjohnsen,64,0,0,against,64
+271538,7830,Bob Taylor,77,0,0,against,77
+273388,7631,Marcus Stewart,12,0,0,against,12
+280252,4100,David Kelly,72,0,0,for,72
+280252,5368,Andy Melville,88,0,0,against,88
+272884,4733,Alan Mahon,82,1,0,for,pen 82
+272884,3617,Kevin Horlock,50,1,0,against,pen 50
+272885,122,Wayne Allison,12,0,0,for,"12, 31"
+272885,122,Wayne Allison,31,0,0,for,"12, 31"
+272885,3982,Gary Jones,59,0,0,for,59
+272885,104,Bradley Allen,30,0,0,against,"30, 80"
+272885,104,Bradley Allen,80,0,0,against,"30, 80"
+272887,10720,Clint Hill,63,0,0,for,63
+272887,122,Wayne Allison,80,0,0,for,80
+272886,10722,Andy Parkinson,34,0,0,for,"34, 38"
+272886,10722,Andy Parkinson,38,0,0,for,"34, 38"
+272886,4733,Alan Mahon,82,1,0,for,pen 82
+271525,3433,Nick Henry,21,0,0,for,21
+276108,122,Wayne Allison,45,0,0,for,45
+276108,3982,Gary Jones,76,0,0,for,76
+276108,7512,Gary Speed,27,0,0,against,27
+276108,16111,Didier Domi,36,0,0,against,36
+276108,2466,Duncan Ferguson,58,0,0,against,58
+277208,15022,Reuben Hazell,33,0,0,for,33
+277208,8750,Steve Yates,90,0,0,for,90
+277208,1469,Steve Claridge,83,1,0,against,pen 83
+278037,4733,Alan Mahon,47,1,0,for,pen 47
+278037,122,Wayne Allison,90,0,0,for,90
+278037,1876,Christian Dailly,90,0,0,against,90
+278027,2564,Sean Flynn,40,0,0,against,40
+278027,3687,Lee Hughes,50,0,0,against,50
+278206,13834,Jason Koumas,4,0,0,for,4
+278206,3982,Gary Jones,83,0,0,for,83
+278206,6911,Gary Rowett,45,0,0,against,45
+278904,122,Wayne Allison,34,0,0,for,34
+278904,10728,Marlon Harewood,66,0,0,against,66
+279226,3567,Matt Holland,18,0,0,against,18
+279226,3937,David Johnson,57,0,0,against,57
+279428,122,Wayne Allison,4,0,0,for,4
+279428,9303,Michael Ricketts,67,1,0,against,pen 67
+272883,8750,Steve Yates,57,0,0,for,57
+272883,3021,Tony Grant,63,0,0,for,63
+270199,10722,Andy Parkinson,3,0,0,for,3
+270199,5578,Alan Morgan,45,0,0,for,45
+270199,10720,Clint Hill,56,0,0,for,56
+270199,11685,Michael Black,86,0,0,for,86
+276696,4100,David Kelly,77,0,0,for,77
+276696,2314,Matt Elliott,29,0,0,against,"29, 81"
+276696,2314,Matt Elliott,81,0,0,against,"29, 81"
+252813,7646,Mick Stockwell,43,0,0,against,43
+252813,7461,James Scowcroft,78,0,0,against,78
+252832,3810,Kenny Irons,31,0,0,for,31
+252832,3982,Gary Jones,89,0,0,for,89
+252832,3943,Michael Johnson,40,0,0,against,40
+252832,5786,Peter Ndlovu,72,0,0,against,72
+252825,107,Graham Allen,42,0,0,for,42
+252825,3982,Gary Jones,69,0,0,for,69
+252825,8627,Dean Windass,8,0,0,against,8
+252834,3810,Kenny Irons,5,0,0,for,"5, 37"
+252834,3810,Kenny Irons,37,0,0,for,"5, 37"
+252834,4733,Alan Mahon,73,0,0,for,73
+252834,7360,Allan Smart,15,0,0,against,15
+252834,9856,Gifton Noel-Williams,80,0,0,against,80
+252719,4733,Alan Mahon,5,0,0,for,5
+252719,3982,Gary Jones,39,0,0,for,39
+252719,7832,Scott Taylor,79,0,0,for,79
+253001,3810,Kenny Irons,5,0,0,for,5
+253001,3982,Gary Jones,6,0,0,for,6
+253001,7832,Scott Taylor,12,0,0,for,12
+253001,4733,Alan Mahon,14,0,0,for,14
+253001,8964,Colin Little,82,0,0,against,82
+252940,13452,Paul Dalglish,31,0,0,against,31
+253161,7832,Scott Taylor,88,0,0,for,88
+253161,193,Brett Angell,87,0,0,against,87
+253290,3982,Gary Jones,26,0,0,for,26
+253290,10720,Clint Hill,72,0,0,for,72
+253290,7044,Dean Saunders,45,0,0,against,45
+253290,10641,Vassilis Borbokis,61,0,0,against,61
+253296,518,Peter Beagrie,44,1,0,against,pen 44
+253353,3810,Kenny Irons,32,1,0,for,"pen 32, pen 67"
+253353,3810,Kenny Irons,67,1,0,for,"pen 32, pen 67"
+253353,9523,Michael Johansen,53,0,0,against,53
+253353,3564,Dean Holdsworth,56,1,0,against,pen 56
+253567,3810,Kenny Irons,50,0,0,for,50
+253567,5936,Keith O'Neill,10,0,0,against,10
+253567,10692,Craig Bellamy,39,0,0,against,39
+253567,6784,Iwan Roberts,83,0,0,against,83
+253678,107,Graham Allen,57,0,0,for,57
+253678,3810,Kenny Irons,79,0,0,for,79
+253678,2640,Martin Foyle,30,0,0,against,"30, 63"
+253678,2640,Martin Foyle,63,0,0,against,"30, 63"
+254015,10720,Clint Hill,18,0,0,for,18
+254015,3121,Paul Groves,23,1,0,against,pen 23
+254015,256,Lee Ashcroft,46,0,0,against,46
+256827,10720,Clint Hill,10,0,0,for,10
+256827,4733,Alan Mahon,42,0,0,for,42
+256827,13754,Lee Morris,67,0,0,against,67
+256827,11180,Traianos Dellas,68,0,0,against,"68, 90"
+256827,11180,Traianos Dellas,90,0,0,against,"68, 90"
+257186,7832,Scott Taylor,10,0,0,for,10
+257186,5912,Liam O'Brien,43,0,0,for,43
+257186,3810,Kenny Irons,53,0,0,for,53
+257513,4100,David Kelly,53,0,0,for,53
+257513,9586,Peter Kennedy,67,0,0,against,67
+257513,14688,Michel Ngonge,87,0,0,against,87
+257512,3810,Kenny Irons,4,1,0,for,"pen 4, pen 24"
+257512,3810,Kenny Irons,24,1,0,for,"pen 4, pen 24"
+257512,10748,Simon Weatherstone,74,0,0,against,74
+257512,2860,Phil Gilchrist,87,0,0,against,87
+257888,3810,Kenny Irons,29,0,0,for,29
+257888,2244,Bruce Dyer,54,0,0,against,54
+258368,4100,David Kelly,9,0,0,for,9
+258368,10720,Clint Hill,75,0,0,for,75
+258368,10692,Craig Bellamy,15,0,0,against,15
+258368,5676,Phil Mulryne,62,0,0,against,62
+258521,4733,Alan Mahon,45,1,0,for,pen 45
+258521,9679,Alan Lee,61,0,0,against,61
+258736,8946,Daryl Clare,34,0,0,against,34
+255014,744,Jason van Blerk,17,0,1,for,og 17
+255014,3810,Kenny Irons,19,1,0,for,pen 19
+255014,4100,David Kelly,86,0,0,for,86
+255014,1993,Fabian De Freitas,75,0,0,against,75
+252514,10722,Andy Parkinson,7,0,0,for,7
+252514,62,Ade Akinbiyi,32,0,0,against,32
+252552,10722,Andy Parkinson,66,0,0,for,66
+252552,13834,Jason Koumas,70,0,0,for,70
+252552,7631,Marcus Stewart,21,0,0,against,21
+252552,122,Wayne Allison,45,0,0,against,"45, 69"
+252552,122,Wayne Allison,69,0,0,against,"45, 69"
+252004,13834,Jason Koumas,33,0,0,for,33
+252004,3990,Lee Jones,63,0,0,for,63
+252004,3810,Kenny Irons,82,1,0,for,pen 82
+252004,4761,Chris Malkin,1,0,0,against,1
+254021,7898,Andy Thompson,66,0,0,for,66
+254021,9611,Matt Jansen,68,0,0,against,68
+253907,9801,Dave Challinor,50,0,0,for,50
+253907,3810,Kenny Irons,68,1,0,for,pen 68
+254166,7832,Scott Taylor,64,0,0,for,64
+254454,736,Robbie Blake,27,0,0,against,27
+254454,5472,Lee Mills,61,0,0,against,61
+254406,5121,John McGreal,46,0,1,against,og 46
+254471,15027,Georges Santos,20,0,0,for,20
+254471,11957,Robbie Keane,1,0,0,against,1
+254471,15073,Fernando Gomez,12,0,0,against,12
+255159,4733,Alan Mahon,8,0,0,for,8
+255159,4576,Adam Locke,25,0,0,against,25
+255685,3990,Lee Jones,31,0,0,for,31
+255685,107,Graham Allen,45,0,0,for,45
+255685,7832,Scott Taylor,69,0,0,for,69
+255685,893,Lee Bradbury,39,0,0,against,39
+255952,7832,Scott Taylor,44,0,0,for,44
+255952,8481,Guy Whittingham,17,0,0,against,17
+255972,9801,Dave Challinor,28,0,0,for,28
+255972,3990,Lee Jones,67,0,0,for,67
+255972,107,Graham Allen,70,0,0,for,70
+255972,4718,Danny Maddix,18,0,0,against,18
+255972,6912,Keith Rowland,47,0,0,against,47
+256367,107,Graham Allen,23,0,0,for,23
+256367,5912,Liam O'Brien,56,0,0,for,56
+256367,7832,Scott Taylor,66,0,0,for,66
+256367,13834,Jason Koumas,79,0,0,for,79
+256421,7832,Scott Taylor,57,0,0,for,57
+256421,4100,David Kelly,78,0,0,for,78
+256421,13834,Jason Koumas,84,0,0,for,84
+256421,6627,Alan Reeves,44,0,0,against,"44, 67"
+256421,6627,Alan Reeves,67,0,0,against,"44, 67"
+256735,15100,Manuel Thetis,78,0,0,against,78
+256790,3943,Michael Johnson,46,0,0,against,46
+253732,3810,Kenny Irons,90,0,0,for,90
+253732,7830,Bob Taylor,11,0,0,against,11
+252490,11957,Robbie Keane,19,0,0,against,19
+252490,1845,Keith Curle,88,1,0,against,pen 88
+251263,3810,Kenny Irons,24,0,0,for,24
+251263,4100,David Kelly,82,0,0,for,"82, 89"
+251263,4100,David Kelly,89,0,0,for,"82, 89"
+252489,5361,Micky Mellon,13,0,0,for,13
+252489,11202,John Aloisi,3,0,0,against,3
+252515,6332,Kevin Phillips,17,0,0,against,17
+252515,2035,Danny Dichio,45,0,0,against,"45, 79"
+252515,2035,Danny Dichio,79,0,0,against,"45, 79"
+252515,5675,John Mullin,48,0,0,against,48
+252515,1194,Paul Butler,84,0,0,against,84
+251489,3810,Kenny Irons,57,1,0,for,pen 57
+251937,10722,Andy Parkinson,16,0,0,for,16
+251937,80,Martin Aldridge,24,0,0,against,"24, 54"
+251937,80,Martin Aldridge,54,0,0,against,"24, 54"
+244635,4100,David Kelly,74,0,0,for,74
+244635,4193,Kevin Kilbane,37,0,0,against,37
+244635,3721,Andy Hunt,39,0,0,against,39
+244645,4100,David Kelly,40,0,0,for,40
+244645,3990,Lee Jones,72,0,0,for,72
+244645,6198,Gavin Peacock,90,0,0,against,90
+244688,5746,Robbie Mustoe,25,0,0,against,25
+244688,9722,Mikkel Beck,54,0,0,against,54
+244677,3691,Bryan Hughes,11,0,0,against,11
+244677,2694,Paul Furlong,44,0,0,against,44
+244677,5786,Peter Ndlovu,65,0,0,against,65
+245275,4100,David Kelly,12,0,0,for,12
+245275,3990,Lee Jones,68,0,0,for,68
+246321,79,John Aldridge,61,0,0,for,61
+246659,3990,Lee Jones,9,0,0,for,9
+246659,79,John Aldridge,66,0,0,for,66
+246659,5912,Liam O'Brien,87,0,0,for,87
+246659,4066,Graham Kavanagh,35,1,0,against,pen 35
+246864,1481,Lee Clark,12,0,0,against,"12, 14"
+246864,1481,Lee Clark,14,0,0,against,"12, 14"
+246864,6332,Kevin Phillips,42,0,0,against,42
+246963,3990,Lee Jones,73,0,0,for,73
+246963,3937,David Johnson,27,0,0,against,27
+247242,79,John Aldridge,33,0,0,for,33
+247242,10690,Chris Byrne,45,0,0,against,45
+247242,1638,Kevin Cooper,47,0,0,against,47
+247242,193,Brett Angell,90,0,0,against,90
+247413,4892,Stuart Massey,54,0,0,against,54
+247413,6820,Les Robinson,87,0,0,against,87
+250904,79,John Aldridge,34,1,0,for,"pen 34, 75"
+250904,79,John Aldridge,75,0,0,for,"pen 34, 75"
+250904,2945,Don Goodman,51,0,0,against,51
+244651,3990,Lee Jones,61,0,0,for,61
+244651,3617,Kevin Horlock,46,0,0,against,46
+245909,5912,Liam O'Brien,45,0,0,for,45
+245909,346,Paul Baker,24,0,0,against,24
+245909,9160,Graeme Lee,75,0,0,against,75
+244691,7746,Peter Swan,42,0,0,against,42
+244165,3990,Lee Jones,43,0,0,for,43
+244165,8274,Mark Walters,14,0,0,against,14
+244165,1351,Chris Casper,64,0,0,against,64
+244233,3982,Gary Jones,31,0,0,for,31
+244233,4100,David Kelly,60,0,0,for,60
+244478,5618,John Morrissey,4,0,0,for,4
+244478,4100,David Kelly,10,0,0,for,"10, 41"
+244478,4100,David Kelly,41,0,0,for,"10, 41"
+244478,3990,Lee Jones,20,0,0,for,20
+244478,3982,Gary Jones,38,0,0,for,38
+244478,7898,Andy Thompson,59,0,0,for,59
+245077,10853,Craig Dudley,43,0,0,against,43
+244990,7606,Gary Stevens,60,0,0,for,60
+244990,206,Steve Anthrobus,27,0,0,against,27
+244990,9579,Kevin Street,89,0,0,against,89
+258411,4100,David Kelly,34,0,0,for,34
+258411,534,Joey Beauchamp,76,0,0,against,76
+245527,3990,Lee Jones,5,0,0,for,5
+245527,7898,Andy Thompson,59,0,0,for,59
+245527,3599,Pierre van Hooijdonk,19,0,0,against,19
+245527,2808,Scot Gemmill,41,0,0,against,41
+245783,3982,Gary Jones,65,0,0,for,65
+245783,9094,Carl Robinson,15,0,0,against,15
+245783,2666,Dougie Freedman,16,0,0,against,16
+245836,917,Graham Branch,13,0,0,for,13
+245836,3990,Lee Jones,66,0,0,for,66
+245836,4218,Mark Kinsella,57,0,0,against,57
+245836,4443,Carl Leaburn,59,0,0,against,59
+246010,4100,David Kelly,69,0,0,for,69
+246010,7961,Carl Tiler,83,0,0,against,83
+246010,7820,Gareth Taylor,85,0,0,against,85
+246169,3810,Kenny Irons,3,0,0,for,3
+246288,3810,Kenny Irons,51,0,0,for,51
+246288,5783,Tony Naylor,14,0,0,against,"14, 67"
+246288,5783,Tony Naylor,67,0,0,against,"14, 67"
+248375,3487,Craig Hignett,31,0,0,against,31
+248375,5392,Paul Merson,38,0,0,against,"38, 65"
+248375,5392,Paul Merson,65,0,0,against,"38, 65"
+248588,3810,Kenny Irons,10,0,0,for,10
+248588,4100,David Kelly,65,0,0,for,65
+248588,917,Graham Branch,72,0,0,for,72
+248588,8546,Martin Williams,75,0,0,against,75
+248622,7898,Andy Thompson,35,0,0,for,35
+248622,917,Graham Branch,39,0,0,for,39
+248622,5618,John Morrissey,70,0,0,for,70
+248873,7218,Alan Shearer,22,0,0,against,22
+249395,11202,John Aloisi,37,0,0,against,37
+249211,4100,David Kelly,47,0,0,for,47
+249736,122,Wayne Allison,10,0,0,against,10
+249736,7631,Marcus Stewart,67,0,0,against,67
+249736,10720,Clint Hill,77,0,1,against,og 77
+247917,3982,Gary Jones,14,0,0,for,"14, 53"
+247917,3982,Gary Jones,53,0,0,for,"14, 53"
+247917,10720,Clint Hill,59,0,0,for,59
+248319,10722,Andy Parkinson,77,0,0,for,77
+248765,5912,Liam O'Brien,66,0,0,for,66
+248765,4100,David Kelly,75,0,0,for,75
+248953,6761,Mark Rivers,45,0,0,against,45
+248953,8964,Colin Little,64,0,0,against,"64, 70"
+248953,8964,Colin Little,70,0,0,against,"64, 70"
+249835,3810,Kenny Irons,56,0,0,for,56
+249835,3982,Gary Jones,65,0,0,for,65
+249835,4100,David Kelly,81,0,0,for,81
+249835,8761,Eddie Youds,20,0,0,against,20
+250190,3982,Gary Jones,26,0,0,for,26
+250190,5361,Micky Mellon,39,0,0,for,39
+250190,4100,David Kelly,60,0,0,for,60
+250016,6332,Kevin Phillips,6,0,0,against,6
+250016,7718,Nicky Summerbee,12,0,0,against,12
+250416,3982,Gary Jones,14,0,0,for,14
+250416,9801,Dave Challinor,53,0,0,for,53
+250416,2234,John Durnin,21,0,0,against,21
+250416,3185,Paul Hall,81,0,0,against,81
+250269,3982,Gary Jones,7,0,0,for,"7, 42"
+250269,3982,Gary Jones,42,0,0,for,"7, 42"
+250269,5361,Micky Mellon,51,0,0,for,51
+250854,4733,Alan Mahon,69,0,0,for,69
+250854,12911,Jamie Cook,22,0,0,against,22
+245892,3990,Lee Jones,57,0,0,for,57
+245892,5618,John Morrissey,70,0,0,for,70
+245892,4100,David Kelly,89,0,0,for,89
+245892,3653,Steve Howard,15,0,0,against,15
+251057,5374,Clive Mendonca,11,1,0,against,"pen 11, pen 63"
+251057,5374,Clive Mendonca,63,1,0,against,"pen 11, pen 63"
+250983,5912,Liam O'Brien,10,0,0,for,10
+250983,3982,Gary Jones,64,0,0,for,64
+250983,10722,Andy Parkinson,66,0,0,for,66
+250983,6536,Wayne Quinn,52,0,0,against,52
+250983,7044,Dean Saunders,78,0,0,against,78
+250983,2023,Paul Devlin,90,0,0,against,90
+240309,5618,John Morrissey,22,0,0,for,22
+240309,6568,Andy Rammell,1,0,0,against,1
+243200,79,John Aldridge,30,0,0,for,30
+243200,805,Ivano Bonetti,56,0,0,for,56
+242383,79,John Aldridge,24,0,0,for,"24, pen 61"
+242383,79,John Aldridge,61,1,0,for,"24, pen 61"
+242383,3810,Kenny Irons,51,0,0,for,51
+242383,5374,Clive Mendonca,8,1,0,against,pen 8
+242383,3233,Peter Handyside,45,0,0,against,45
+240322,4733,Alan Mahon,15,0,0,for,15
+240322,917,Graham Branch,44,0,0,for,44
+240327,2239,Lee Duxbury,73,0,0,against,73
+243498,917,Graham Branch,71,0,0,for,71
+243498,6905,Darren Rowbotham,70,0,0,against,70
+241914,79,John Aldridge,60,0,0,for,60
+240344,79,John Aldridge,36,0,0,for,36
+240357,79,John Aldridge,89,0,0,for,89
+240357,8274,Mark Walters,25,1,0,against,pen 25
+240357,3617,Kevin Horlock,76,0,0,against,76
+243499,79,John Aldridge,13,1,0,for,pen 13
+243499,5618,John Morrissey,33,0,0,for,33
+243499,6617,Steve Redmond,31,0,0,against,31
+243499,6711,Lee Richardson,84,0,0,against,84
+240364,79,John Aldridge,31,0,0,for,31
+240364,917,Graham Branch,75,0,0,for,75
+240364,2857,Dave Gilbert,7,0,0,against,7
+240364,6287,Paul Peschisolido,12,0,0,against,12
+240364,3121,Paul Groves,59,0,0,against,59
+243270,374,Nicky Banger,50,0,0,against,50
+240370,79,John Aldridge,20,0,0,for,20
+240370,2540,Robert Fleck,46,0,0,against,46
+240382,917,Graham Branch,1,0,0,for,"1, 31"
+240382,917,Graham Branch,31,0,0,for,"1, 31"
+240382,3982,Gary Jones,62,0,0,for,62
+240382,805,Ivano Bonetti,90,0,0,for,90
+240382,893,Lee Bradbury,43,0,0,against,43
+240382,5241,Alan McLoughlin,78,1,0,against,pen 78
+240382,8942,Russell Perrett,86,0,0,against,86
+241936,7162,Scott Sellars,51,0,0,against,51
+240411,79,John Aldridge,41,1,0,for,pen 41
+240411,925,Ged Brannan,87,0,0,for,87
+240411,7341,Steve Slade,9,0,0,against,9
+240411,5053,Alan McDonald,67,0,0,against,67
+240411,1420,Lee Charles,85,0,0,against,85
+240413,925,Ged Brannan,32,0,0,for,32
+240413,8123,Tony Vaughan,61,0,1,for,og 61
+243007,5556,Ian Thomas-Moore,16,0,0,for,16
+243007,3982,Gary Jones,24,0,0,for,24
+243007,4733,Alan Mahon,62,0,0,for,62
+243007,79,John Aldridge,85,0,0,for,85
+240434,7940,Andy Thorn,3,0,0,for,3
+240434,2244,Bruce Dyer,15,0,0,against,15
+240434,2666,Dougie Freedman,48,0,0,against,48
+240434,3611,David Hopkin,85,0,0,against,85
+240447,79,John Aldridge,7,0,0,for,7
+240447,6012,Ian Ormondroyd,72,0,0,against,72
+240462,3482,Dave Higgins,49,0,0,for,49
+240462,979,Ian Brightwell,67,0,1,for,og 67
+240462,7718,Nicky Summerbee,53,0,0,against,53
+240475,925,Ged Brannan,43,0,0,for,43
+240475,79,John Aldridge,76,0,0,for,"76, 80"
+240475,79,John Aldridge,80,0,0,for,"76, 80"
+240477,4359,Jamie Lambert,10,0,0,against,10
+240477,5593,Trevor Morley,33,0,0,against,33
+240487,7241,Mike Sheron,27,0,0,against,27
+240487,3482,Dave Higgins,82,0,1,against,og 82
+240488,3421,John Hendrie,17,0,0,against,17
+240488,8514,Paul Wilkinson,65,0,0,against,65
+240488,6612,Neil Redfearn,89,1,0,against,pen 89
+240505,6025,Simon Osborn,5,1,0,against,pen 5
+240505,1112,Steve Bull,76,0,0,against,76
+240514,925,Ged Brannan,90,0,0,for,90
+240514,6192,Andy Payton,21,0,0,against,21
+240531,79,John Aldridge,17,0,0,for,"17, 85"
+240531,79,John Aldridge,85,0,0,for,"17, 85"
+240531,1127,Daryl Burgess,4,0,0,against,4
+252765,5828,Pat Nevin,21,0,0,for,"21, 50"
+252765,5828,Pat Nevin,50,0,0,for,"21, 50"
+252765,3617,Kevin Horlock,64,0,0,against,64
+243112,218,Owen Archdeacon,30,0,0,against,30
+240543,79,John Aldridge,4,0,0,for,4
+240543,80,Martin Aldridge,8,0,0,against,8
+240543,3895,Nigel Jemson,35,1,0,against,pen 35
+240586,5912,Liam O'Brien,71,0,0,for,71
+240607,925,Ged Brannan,4,0,0,for,"4, 58"
+240607,925,Ged Brannan,58,0,0,for,"4, 58"
+240607,374,Nicky Banger,39,0,0,against,39
+240618,3810,Kenny Irons,55,0,0,for,55
+240618,79,John Aldridge,57,0,0,for,57
+240618,1112,Steve Bull,34,0,0,against,"34, 41"
+240618,1112,Steve Bull,41,0,0,against,"34, 41"
+240618,6784,Iwan Roberts,79,0,0,against,79
+240627,3482,Dave Higgins,36,0,0,for,36
+240627,8514,Paul Wilkinson,46,0,0,against,46
+240630,3982,Gary Jones,64,0,0,for,64
+240630,5912,Liam O'Brien,86,0,1,against,og 86
+240641,3810,Kenny Irons,6,0,0,for,6
+240641,3990,Lee Jones,23,0,0,for,23
+240641,79,John Aldridge,35,0,0,for,35
+240651,3810,Kenny Irons,23,0,0,for,23
+240651,5472,Lee Mills,36,0,0,against,"36, 52"
+240651,5472,Lee Mills,52,0,0,against,"36, 52"
+240655,3982,Gary Jones,32,0,0,for,"32, 87"
+240655,3982,Gary Jones,87,0,0,for,"32, 87"
+240655,3990,Lee Jones,80,0,0,for,80
+240665,1622,Paul Cook,16,0,0,for,16
+240665,3982,Gary Jones,23,0,0,for,23
+240665,3990,Lee Jones,83,0,0,for,83
+240665,3510,David Hillier,89,0,0,against,89
+240679,3990,Lee Jones,26,0,0,for,26
+240679,8466,Dane Whitehouse,50,0,0,against,50
+240689,2035,Danny Dichio,55,0,0,against,55
+240689,7521,John Spencer,77,0,0,against,77
+242819,79,John Aldridge,60,1,0,for,pen 60
+242819,3990,Lee Jones,90,0,0,for,90
+242819,5103,John McGinlay,27,0,0,against,27
+242819,6401,Jamie Pollock,77,0,0,against,77
+240557,1622,Paul Cook,9,0,0,for,"9, 65"
+240557,1622,Paul Cook,65,0,0,for,"9, 65"
+240557,5556,Ian Thomas-Moore,45,0,0,for,45
+240557,2253,Darren Eadie,2,0,0,against,2
+240567,917,Graham Branch,14,0,0,for,14
+240567,5556,Ian Thomas-Moore,72,0,0,for,72
+240567,5593,Trevor Morley,21,0,0,against,"21, 47"
+240567,5593,Trevor Morley,47,0,0,against,"21, 47"
+241995,3810,Kenny Irons,35,0,0,for,35
+241995,4218,Mark Kinsella,6,0,0,against,6
+241995,4443,Carl Leaburn,42,0,0,against,42
+241995,6838,Mark Robson,89,1,0,against,pen 89
+859352,58504,Kane Hemmings,51,0,0,for,51
+859352,60997,Jake Reeves,40,0,0,against,40
+859352,63852,Jordan Roberts,84,0,0,against,84
+860658,138595,Riley Harbottle,59,0,0,against,59
+861839,116334,Ryan Astley,90,0,1,for,og 90
+861839,101331,Josh Hawkes,62,0,0,for,62
+861839,122498,Korede Adedoyin,37,0,0,against,37
+861839,116334,Ryan Astley,39,0,0,against,39
+860672,140587,Elliott Nevitt,18,0,0,for,18
+860672,133368,Ethan Bristow,67,0,0,for,67
+860672,103555,Josh Dacres-Cogley,75,0,0,for,75
+860695,96407,Aaron Lewis,23,0,1,for,og 23
+860695,138581,Nathan Moriah-Welsh,29,0,0,against,29
+860695,79428,Omar Bogle,38,1,0,against,pen 38
+869121,140587,Elliott Nevitt,21,0,0,for,21
+869121,60652,Jamaal Lascelles,40,0,0,against,40
+869121,51339,Chris Wood,52,0,0,against,52
+860708,101331,Josh Hawkes,4,0,0,for,4
+860708,128729,Jake Burton,83,0,0,for,83
+860716,103555,Josh Dacres-Cogley,36,0,1,against,og 36
+860716,89636,Paul Smyth,85,0,0,against,85
+860744,58504,Kane Hemmings,49,0,0,for,49
+860744,52497,Andy Cook,3,0,0,against,"3, 75"
+860744,52497,Andy Cook,75,0,0,against,"3, 75"
+860755,101331,Josh Hawkes,34,0,0,for,34
+864060,68138,Kieron Morris,21,0,0,for,21
+864060,71462,Paul Lewis,40,0,0,for,40
+864060,81252,Kieran Sadlier,72,0,0,against,72
+864060,134161,Conor Carty,90,0,0,against,90
+860769,140587,Elliott Nevitt,90,0,0,for,90
+860781,101331,Josh Hawkes,25,0,0,for,25
+860792,58504,Kane Hemmings,19,1,0,for,pen 19
+860792,71462,Paul Lewis,45,0,0,for,45
+860805,125460,Dynel Simeu,22,0,0,for,22
+860805,140587,Elliott Nevitt,56,0,0,for,"56, 89"
+860805,140587,Elliott Nevitt,89,0,0,for,"56, 89"
+860811,76981,Jordan Turnbull,56,0,0,for,56
+860811,119017,Matthew Daly,37,0,0,against,37
+860828,58504,Kane Hemmings,39,0,0,for,39
+860828,29475,Ian Henderson,35,0,0,against,35
+860840,70469,Kristian Dennis,1,0,0,against,"1, pen 54"
+860840,70469,Kristian Dennis,54,1,0,against,"1, pen 54"
+871069,60649,Neill Byrne,82,0,0,for,82
+871069,93316,Jordan Gibson,30,0,0,against,30
+871069,107083,Jayden Harris,66,0,0,against,66
+860853,101331,Josh Hawkes,9,0,0,for,9
+860853,136746,Jacob Wakeling,30,0,0,against,30
+860864,117155,Ethan Chislett,8,0,0,against,8
+860864,122966,Ayoub Assal,82,0,0,against,82
+871310,76981,Jordan Turnbull,7,0,0,for,7
+871310,47034,Mustapha Carayol,90,0,0,against,90
+860882,128729,Jake Burton,66,0,0,for,66
+860882,58322,Brendan Kiernan,7,0,0,against,7
+860882,76789,Niall Maher,58,0,0,against,58
+860913,58504,Kane Hemmings,45,0,0,for,45
+860913,68138,Kieron Morris,59,0,0,for,59
+860913,71462,Paul Lewis,77,0,0,for,77
+860914,76981,Jordan Turnbull,6,0,0,for,6
+860914,58504,Kane Hemmings,82,0,0,for,82
+860914,107498,Jordan Stevens,38,0,0,against,38
+860929,74220,Charlie Colkett,34,0,0,against,34
+860949,101331,Josh Hawkes,39,0,0,for,39
+860949,58504,Kane Hemmings,58,0,0,for,58
+860949,117049,Alistair Smith,11,0,0,against,"11, 61"
+860949,117049,Alistair Smith,61,0,0,against,"11, 61"
+860961,101331,Josh Hawkes,78,0,0,for,78
+860961,78589,Danny Johnson,72,0,0,against,72
+860984,52528,Omar Beckles,82,0,1,for,og 82
+864058,71462,Paul Lewis,12,0,0,for,12
+864058,144033,Rhys Hughes,19,0,0,for,19
+864058,60649,Neill Byrne,45,0,0,for,45
+864058,144992,Sonny Perkins,26,0,0,against,26
+864058,114854,Joe Gelhardt,28,0,0,against,"28, 31"
+864058,114854,Joe Gelhardt,31,0,0,against,"28, 31"
+864058,165965,Mateo Joseph,56,0,0,against,56
+864058,115869,Cody Drameh,64,0,0,against,64
+864061,140587,Elliott Nevitt,71,0,0,for,71
+540022,58792, Jason Demetriou,90,0,0,against,90
