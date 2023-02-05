@@ -112,4 +112,4 @@ def main():
     return df
 
 df = main()
-df.to_csv("./data/goal.csv", index=False)
+df.to_csv("./data/goals.csv", index=False)
