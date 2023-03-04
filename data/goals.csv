@@ -3586,6 +3586,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861032,94073,Davis Kellior-Dunn,54,0,0,against,54
 861044,101331,Josh Hawkes,74,1,0,for,pen 74
 860900,76981,Jordan Turnbull,68,0,0,for,68
+861056,101331,Josh Hawkes,68,1,0,for,pen 68
+861056,95990,Callum Cooke,44,0,0,against,44
 864058,71462,Paul Lewis,12,0,0,for,12
 864058,144033,Rhys Hughes,19,0,0,for,19
 864058,60649,Neill Byrne,45,0,0,for,45
