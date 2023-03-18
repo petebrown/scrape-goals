@@ -3590,6 +3590,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861056,95990,Callum Cooke,44,0,0,against,44
 861063,55139,Shaun Williams,32,0,0,against,32
 861063,89682,Conor Masterson,83,0,0,against,83
+861080,93064,Regan Hendry,90,0,0,for,90
+861080,51976,Aaron Wildig,25,0,0,against,25
+861080,144388,Charlie McNeill,30,0,0,against,30
+861080,154923,Calum Kavanagh,82,0,0,against,82
 864058,71462,Paul Lewis,12,0,0,for,12
 864058,144033,Rhys Hughes,19,0,0,for,19
 864058,60649,Neill Byrne,45,0,0,for,45
