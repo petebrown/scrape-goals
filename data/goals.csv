@@ -3592,7 +3592,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861063,89682,Conor Masterson,83,0,0,against,83
 861080,93064,Regan Hendry,90,0,0,for,90
 861080,51976,Aaron Wildig,25,0,0,against,25
-861080,144388,Charlie McNeill,30,0,0,against,30
+861080,144388,Charlie McNeill,29,0,0,against,29
 861080,154923,Calum Kavanagh,82,0,0,against,82
 861083,100535,Harvey Saunders,13,0,0,for,13
 861083,117332,Noah Chilvers,65,1,0,against,pen 65
