@@ -3598,6 +3598,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861083,117332,Noah Chilvers,65,1,0,against,pen 65
 861104,48359,Mark Oxley,36,0,1,for,og 36
 861104,86107,Luke Armstrong,4,0,0,against,4
+861106,70469,Kristian Dennis,3,0,0,against,"3, 39"
+861106,70469,Kristian Dennis,39,0,0,against,"3, 39"
 864058,71462,Paul Lewis,12,0,0,for,12
 864058,144033,Rhys Hughes,19,0,0,for,19
 864058,60649,Neill Byrne,45,0,0,for,45
