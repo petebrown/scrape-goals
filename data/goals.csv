@@ -26,10 +26,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830178,101331,Josh Hawkes,54,0,0,for,54
 830178,18605,Peter Clarke,71,0,0,for,71
 830181,69100,Rod McDonald,48,0,1,for,og 48
-830196,49806,Jay Spearing,32,1,0,for,pen 32
-830196,68138,Kieron Morris,55,0,0,for,55
-830196,76505,Jack Muldoon,39,1,0,against,pen 39
-830196,86107,Luke Armstrong,51,0,0,against,51
 830214,116571,Kion Etete,52,0,0,against,52
 830214,61899,Sam Hoskins,68,1,0,against,pen 68
 830222,69039,Rhys Oates,18,0,0,against,18
@@ -61,8 +57,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830359,67179,Ryan Watson,89,0,0,for,89
 830343,121903,Paul Glatzel,70,0,0,for,70
 830343,109810,Aramide Oteh,29,0,0,against,29
-830371,120094,Charlie Jolley,3,0,0,for,"3, 16"
-830371,120094,Charlie Jolley,16,0,0,for,"3, 16"
 830373,49806,Jay Spearing,65,0,0,for,65
 830395,77819,Matt Stevens,6,0,0,against,6
 830395,57804,Jamille Matt,42,0,0,against,42
@@ -91,8 +85,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830478,78816,Oli Hawkins,90,0,0,against,90
 830490,144980,Lewis Warrington,49,0,0,for,49
 830490,58504,Kane Hemmings,65,1,0,for,pen 65
-830503,101331,Josh Hawkes,68,0,0,for,68
-830503,94463,Ben Goodliffe,15,0,0,against,15
 830506,136718,Junior Tchamadeu,90,0,0,against,90
 830526,58504,Kane Hemmings,15,0,0,for,15
 830526,140587,Elliott Nevitt,76,0,0,for,76
