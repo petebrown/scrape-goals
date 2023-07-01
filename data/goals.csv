@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Ollie Banks,70,0,0,for,70
 788794,68830,Mo Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,55846,Ollie Banks,90,0,0,for,90
 788806,54992,Stefan Payne,90,0,0,for,90
+788806,55846,Ollie Banks,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -886,8 +886,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,65015,Jake Kirby,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
@@ -2751,11 +2751,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 330643,13834,Jason Koumas,72,0,0,for,72
 330643,409,Stuart Barlow,90,0,0,for,90
 330643,7932,Andy Thomson,89,0,0,against,89
-334541,24138,Alan Navarro,20,0,0,for,20
-334541,9299,Jason Price,64,0,0,for,"64, 77"
-334541,9299,Jason Price,77,0,0,for,"64, 77"
-334541,2564,Sean Flynn,87,0,0,for,87
-334541,29195,Leech,78,0,0,against,78
 314276,9299,Jason Price,77,0,0,for,77
 314276,7427,Neil Smith,25,0,0,against,25
 314276,2610,Nicky Forster,38,0,0,against,"38, 61"
