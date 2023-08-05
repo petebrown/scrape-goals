@@ -3622,4 +3622,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 864058,165965,Mateo Joseph,56,0,0,against,56
 864058,115869,Cody Drameh,64,0,0,against,64
 864061,140587,Elliott Nevitt,71,0,0,for,71
+882324,101331,Josh Hawkes,63,1,0,for,pen 63
+882324,51792,Niall Canavan,19,0,0,against,19
+882324,108090,Kian Spence,70,0,0,against,70
 540022,58792, Jason Demetriou,90,0,0,against,90
