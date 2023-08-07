@@ -753,17 +753,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 733793,36541,Steven Jennings,24,0,0,for,24
 733793,51911,James Norwood,90,0,0,for,90
 733793,45280,Adam Dugdale,30,0,0,against,30
-733796,63609,Connor Jennings,33,0,0,for,33
 733816,52497,Andy Cook,40,0,0,for,40
 733816,52777,Steve McNulty,80,0,0,for,80
 733816,78881,Alex Flisher,61,0,0,against,61
 733828,52497,Andy Cook,47,0,0,for,47
 733828,51974,Louis Almond,62,0,0,against,62
 733840,51911,James Norwood,40,0,0,for,40
-733843,52497,Andy Cook,37,0,0,for,37
-733843,71184,Bernard Mensah,3,0,0,against,3
-733843,36595,Scott Rendell,79,1,0,against,pen 79
-733843,55848,Will Evans,82,0,0,against,82
 733865,73283,Macauley Bonne,67,0,0,against,67
 733888,51741,Dan Fitchett,47,0,0,against,47
 733938,33467,Shwan Jalal,64,0,1,for,og 64
@@ -805,11 +800,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 734119,52497,Andy Cook,33,0,0,for,33
 734119,68072,Inih Effiong,63,0,0,against,63
 734119,89041,Jordan Williams,71,0,0,against,71
-734224,43779,Jay Harris,22,0,0,for,"22, 45, 90"
-734224,43779,Jay Harris,45,0,0,for,"22, 45, 90"
-734224,43779,Jay Harris,90,0,0,for,"22, 45, 90"
-734224,52497,Andy Cook,60,0,0,for,60
-734224,52647,Mark Gray,12,0,0,against,12
 734236,52497,Andy Cook,54,0,0,for,54
 734052,41945,Jeff Hughes,29,1,0,for,pen 29
 734052,42094,Nathan Arnold,3,0,0,against,3
@@ -842,7 +832,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715162,71423,Michael Ihiekwe,44,0,0,for,44
 715162,15314,Matt Hill,66,0,0,for,66
 715162,34368,Jon Shaw,45,0,0,against,45
-715180,38248,Andy Mangan,74,0,0,for,74
 715233,71520,Lois Maynard,46,0,0,for,46
 715233,71566,Same Come,87,0,0,against,87
 715240,62951,Liam Hogan,6,0,0,for,6
@@ -866,7 +855,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715331,50549,Andy Haworth,37,0,0,against,37
 715351,18014,Gary Taylor-Fletcher,5,0,0,for,5
 715351,51911,James Norwood,22,0,0,for,22
-715387,49461,Luke Waterfall,44,0,0,against,44
 715395,51911,James Norwood,45,0,0,for,"45, pen 90"
 715395,51911,James Norwood,90,1,0,for,"45, pen 90"
 715395,19170,Danny Boshell,24,0,0,against,24
@@ -929,17 +917,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 691205,55480,Max Power,53,1,0,for,pen 53
 691205,71250,Jack Payne,16,0,0,against,16
 691205,74874,Will Aimson,23,0,1,against,og 23
-691003,70884,Shamir Fenelon,2,0,0,for,2
-691003,61259,James Rowe,68,0,0,for,68
-691003,55480,Max Power,78,0,0,for,78
-691003,64940,Jed Wallace,57,0,0,against,57
 691167,43701,Reuben Reid,29,0,0,against,29
 691281,55528,Tyrone Barnett,28,0,0,against,28
 691281,47000,Alfie Potter,73,0,0,against,73
-690986,69045,Armand Gnanduillet,20,0,0,for,"20, 65"
-690986,69045,Armand Gnanduillet,65,0,0,for,"20, 65"
-690986,33174,Jack Smith,16,0,0,against,16
-690986,36629,Adebayo Akinfenwa,44,0,0,against,44
 691168,61259,James Rowe,90,0,0,for,90
 691168,38379,Keith Lowe,67,0,0,against,67
 692772,51133,Michail Antonio,12,0,0,against,12
@@ -962,9 +942,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 691015,28934,Daniel Nardiello,87,0,0,against,87
 703943,55480,Max Power,40,0,0,for,40
 703943,66008,Brad Potts,76,0,0,against,76
-704262,55480,Max Power,43,0,0,for,43
-704262,78589,Danny Johnson,45,0,0,for,45
-704262,51998,Nathan Cameron,35,0,0,against,35
 705306,55480,Max Power,70,0,0,for,70
 705306,63703,Cole Stockton,83,0,0,for,83
 705306,41804,Nathan Dyer,34,0,0,against,34
@@ -1010,7 +987,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 691196,1843,Jamie Cureton,40,0,0,against,40
 691196,50069,Ashley Hemmings,50,0,0,against,50
 691196,51982,Billy Bingham,54,0,0,against,54
-690944,46102,Ryan Cresswell,62,0,0,against,62
 691491,55480,Max Power,45,0,0,for,45
 691491,53388,Dan Gardner,68,0,0,for,68
 691491,74807,Sullay Kaikai,63,0,0,against,63
@@ -1019,7 +995,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 691081,46484,Lucas Akins,22,0,0,against,22
 691081,56165,Abdenasser El Khayati,72,0,0,against,72
 691081,45280,Adam Dugdale,89,0,1,against,og 89
-691328,41449,Barry Corr,38,0,0,against,38
 691486,51958,Reggie Lambe,44,0,0,against,44
 690978,61600,Kemar Roofe,51,0,0,against,"51, 68"
 690978,61600,Kemar Roofe,68,0,0,against,"51, 68"
@@ -1057,8 +1032,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 691105,72606,Jordan Hugill,32,0,0,for,32
 691105,30796,Paul Hayes,26,1,0,against,pen 26
 691105,74166,Fred Onyedinma,40,0,0,against,40
-691114,63703,Cole Stockton,19,0,0,for,19
-691114,55480,Max Power,54,0,0,for,54
 691197,60000,Eliot Richards,12,0,0,for,12
 691197,45088,Marc Laird,45,0,0,for,45
 691197,32759,Matt Richards,67,0,0,against,67
@@ -1103,8 +1076,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 683758,21235,Peter Crouch,90,0,0,against,90
 672638,40519,Chris Lines,56,0,0,against,56
 684967,21292,Ryan Lowe,90,0,0,for,90
-672730,55554,Liam Ridehalgh,41,0,0,for,41
-672730,43055,Sam Baldock,14,0,0,against,14
 672552,21292,Ryan Lowe,4,0,0,for,"4, 44, 54"
 672552,21292,Ryan Lowe,44,0,0,for,"4, 44, 54"
 672552,21292,Ryan Lowe,54,0,0,for,"4, 44, 54"
