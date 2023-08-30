@@ -3637,10 +3637,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882360,70469,Kristian Dennis,36,0,0,for,36
 882360,120094,Charlie Jolley,87,0,0,for,87
 882360,59625,Matt Smith,34,0,0,against,34
-882360,106890,Callum Hendry,46,0,0,against,"46, 68, 85"
-882360,106890,Callum Hendry,68,0,0,against,"46, 68, 85"
-882360,106890,Callum Hendry,85,0,0,against,"46, 68, 85"
+882360,106890,Callum Hendry,47,0,0,against,"47, 68, 85"
+882360,106890,Callum Hendry,68,0,0,against,"47, 68, 85"
+882360,106890,Callum Hendry,85,0,0,against,"47, 68, 85"
 882370,101331,Josh Hawkes,88,0,0,for,88
 882370,37797,David McGoldrick,12,0,0,against,12
 882370,50962,Connell Rawlinson,65,0,0,against,65
+894824,80851,Onyinye Ndidi,55,0,0,against,55
+894824,61643,Jamie Vardy,59,0,0,against,59
 540022,58792, Jason Demetriou,90,0,0,against,90
