@@ -3662,4 +3662,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882422,146038,Ali Ibrahim Al-Hamadi,32,0,0,against,"32, 62, 88"
 882422,146038,Ali Ibrahim Al-Hamadi,62,0,0,against,"32, 62, 88"
 882422,146038,Ali Ibrahim Al-Hamadi,88,0,0,against,"32, 62, 88"
+882444,93064,Regan Hendry,24,0,0,for,24
+882444,68138,Kieron Morris,83,0,0,for,83
+882444,52497,Andy Cook,55,0,0,against,55
 540022,58792, Jason Demetriou,90,0,0,against,90
