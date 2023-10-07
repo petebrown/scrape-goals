@@ -760,10 +760,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 733828,52497,Andy Cook,47,0,0,for,47
 733828,51974,Louis Almond,62,0,0,against,62
 733840,51911,James Norwood,40,0,0,for,40
-733843,52497,Andy Cook,37,0,0,for,37
-733843,71184,Bernard Mensah,3,0,0,against,3
-733843,36595,Scott Rendell,79,1,0,against,pen 79
-733843,55848,Will Evans,82,0,0,against,82
 733865,73283,Macauley Bonne,67,0,0,against,67
 733888,51741,Dan Fitchett,47,0,0,against,47
 733938,33467,Shwan Jalal,64,0,1,for,og 64
