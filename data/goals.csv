@@ -760,6 +760,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 733828,52497,Andy Cook,47,0,0,for,47
 733828,51974,Louis Almond,62,0,0,against,62
 733840,51911,James Norwood,40,0,0,for,40
+733843,52497,Andy Cook,37,0,0,for,37
+733843,71184,Bernard Mensah,3,0,0,against,3
+733843,36595,Scott Rendell,79,1,0,against,pen 79
+733843,55848,Will Evans,82,0,0,against,82
 733865,73283,Macauley Bonne,67,0,0,against,67
 733888,51741,Dan Fitchett,47,0,0,against,47
 733938,33467,Shwan Jalal,64,0,1,for,og 64
@@ -2583,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,20585,Alex Hay,90,0,0,for,90
 364799,163,Iain Anderson,90,0,0,for,90
+364799,20585,Alex Hay,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -2624,8 +2628,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,24138,Alan Navarro,90,0,0,for,90
 338630,122,Wayne Allison,90,0,0,for,90
+338630,24138,Alan Navarro,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
 340544,9299,Jason Price,42,0,0,for,42
 340544,9708,Gareth Roberts,66,0,0,for,66
@@ -3629,6 +3633,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882403,111911,Klaidi Lolos,90,0,0,against,90
 882420,101331,Josh Hawkes,14,1,0,for,"pen 14, 49"
 882420,101331,Josh Hawkes,49,0,0,for,"pen 14, 49"
+882457,68138,Kieron Morris,16,0,0,for,16
+882457,63609,Connor Jennings,61,0,0,for,61
+882457,59376,Danny Rose,27,0,0,against,27
+882457,93704,Rekeil Pyke,44,0,0,against,44
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
