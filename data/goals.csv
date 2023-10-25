@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Ollie Banks,70,0,0,for,70
 788794,68830,Mo Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,54992,Stefan Payne,90,0,0,for,90
 788806,55846,Ollie Banks,90,0,0,for,90
+788806,54992,Stefan Payne,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -3643,6 +3643,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882481,63609,Connor Jennings,70,0,0,for,70
 882481,107548,Harrison Biggins,27,0,0,against,27
 882481,133548,Mo Faal,57,0,0,against,57
+882489,76981,Jordan Turnbull,72,0,1,against,og 72
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
