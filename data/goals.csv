@@ -3646,6 +3646,13 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882489,76981,Jordan Turnbull,72,0,1,against,og 72
 882504,114049,Isaac Olaofe,5,0,0,against,5
 882504,56263,Antoni Sarcevic,54,0,0,against,54
+896358,59417,Luke Norris,28,1,0,for,pen 28
+896358,136092,Robert Apter,55,0,0,for,55
+896358,68138,Kieron Morris,90,0,0,for,90
+896358,63852,Jordan Roberts,3,0,0,against,3
+896358,68053,Jamie Reid,58,1,0,against,"pen 58, 90"
+896358,68053,Jamie Reid,90,0,0,against,"pen 58, 90"
+896358,58504,Kane Hemmings,81,0,0,against,81
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
