@@ -886,8 +886,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,65015,Jake Kirby,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
@@ -1495,7 +1495,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 629452,46306,Josh McQuoid,57,0,0,against,"1, 4, 57"
 629452,38008,Marc Pugh,7,0,0,against,7
 629452,46973,Liam Feeney,61,0,0,against,61
-629654,5556,Ian Thomas-Moore,8,0,0,for,8
 617313,55479,Dale Jennings,60,0,0,for,60
 616942,36304,Enoch Showunmi,50,0,0,for,50
 617225,49869,Peter Gulacsi,77,0,1,against,og 77
@@ -3013,9 +3012,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 272377,9708,Gareth Roberts,38,0,1,against,og 38
 272592,122,Wayne Allison,25,0,0,for,25
 272522,10720,Clint Hill,22,0,0,for,22
-273097,3433,Nick Henry,5,0,0,for,5
-273097,4733,Alan Mahon,20,1,0,for,pen 20
-273097,4100,David Kelly,70,0,0,for,70
 273612,122,Wayne Allison,9,0,0,for,9
 273612,4100,David Kelly,70,0,0,for,70
 273612,1545,Chris Coleman,18,0,0,against,18
