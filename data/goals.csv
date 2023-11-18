@@ -3656,6 +3656,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882515,133516,Tyrese Omotoye,8,0,1,for,og 8
 882515,70469,Kristian Dennis,47,0,0,for,47
 882515,136092,Robert Apter,71,0,0,for,71
+882529,94463,Ben Goodliffe,17,0,1,for,og 17
+882529,87398,Louis John,88,0,0,against,88
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
