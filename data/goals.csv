@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Ollie Banks,70,0,0,for,70
 788794,68830,Mo Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,54992,Stefan Payne,90,0,0,for,90
 788806,55846,Ollie Banks,90,0,0,for,90
+788806,54992,Stefan Payne,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -886,8 +886,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,65015,Jake Kirby,90,0,0,for,90
 715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,20585,Alex Hay,90,0,0,for,90
 364799,163,Iain Anderson,90,0,0,for,90
+364799,20585,Alex Hay,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -3658,6 +3658,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882515,136092,Robert Apter,71,0,0,for,71
 882529,94463,Ben Goodliffe,17,0,1,for,og 17
 882529,87398,Louis John,88,0,0,against,88
+882539,136092,Robert Apter,43,0,0,for,"43, 60"
+882539,136092,Robert Apter,60,0,0,for,"43, 60"
+882539,63609,Connor Jennings,53,0,0,for,53
+882539,72094,Connor Mahoney,90,0,0,against,90
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
