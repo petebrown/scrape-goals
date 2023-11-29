@@ -3662,6 +3662,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882539,136092,Robert Apter,60,0,0,for,"43, 60"
 882539,63609,Connor Jennings,53,0,0,for,53
 882539,72094,Connor Mahoney,90,0,0,against,90
+882549,120094,Charlie Jolley,13,0,0,for,13
+882549,136092,Robert Apter,62,0,0,for,62
+882549,69039,Rhys Oates,37,0,0,against,37
+882549,136564,Will Swan,79,0,0,against,79
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
