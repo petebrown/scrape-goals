@@ -1611,9 +1611,6 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 615930,50844,Joss Labadie,59,0,0,for,59
 615930,20578,Gareth Edds,88,0,0,for,88
 615930,35972,Stuart Fleetwood,85,0,0,against,85
-611978,50844,Joss Labadie,62,0,0,for,62
-611978,19213,Kevin O'Connor,49,0,0,against,49
-611978,16173,Ben Strevens,86,0,0,against,86
 599412,40174,Carl Baker,67,1,0,against,pen 67
 600394,20578,Gareth Edds,36,0,0,for,36
 600394,32332,John Welsh,66,0,0,for,66
