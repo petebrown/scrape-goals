@@ -3673,6 +3673,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882588,68138,Kieron Morris,55,0,0,for,55
 882588,76807,Tom Davies,72,0,0,for,72
 882588,96154,Dan Kemp,22,0,0,against,22
+882599,100535,Harvey Saunders,12,0,0,for,12
+882599,68138,Kieron Morris,35,0,0,for,35
+882599,63609,Connor Jennings,50,0,0,for,50
+882599,93064,Regan Hendry,64,0,0,for,64
+882599,101331,Josh Hawkes,90,0,0,for,90
+882599,52136,Matthew Lund,55,0,0,against,55
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
