@@ -3681,6 +3681,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882599,52136,Matthew Lund,55,0,0,against,55
 882606,120094,Charlie Jolley,54,0,0,for,54
 882606,76807,Tom Davies,70,0,0,for,70
+882624,68138,Kieron Morris,5,0,0,for,5
+882624,63609,Connor Jennings,44,0,0,for,"44, pen 90"
+882624,63609,Connor Jennings,90,1,0,for,"44, pen 90"
+882624,100535,Harvey Saunders,56,0,0,for,56
+882624,107402,Aaron Nemane,24,0,0,against,24
+882624,106176,Macaulay Langstaff,29,0,0,against,29
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
