@@ -3377,6 +3377,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 250983,2023,Paul Devlin,90,0,0,against,90
 240309,5618,John Morrissey,22,0,0,for,22
 240309,6568,Andy Rammell,1,0,0,against,1
+243200,79,John Aldridge,30,0,0,for,30
+243200,805,Ivano Bonetti,56,0,0,for,56
 242383,79,John Aldridge,24,0,0,for,"24, pen 61"
 242383,79,John Aldridge,61,1,0,for,"24, pen 61"
 242383,3810,Kenny Irons,51,0,0,for,51
@@ -3717,4 +3719,5 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882444,93064,Regan Hendry,24,0,0,for,24
 882444,68138,Kieron Morris,83,0,0,for,83
 882444,52497,Andy Cook,55,0,0,against,55
+882627,102741,Dean Campbell,80,0,0,against,80
 540022,58792, Jason Demetriou,90,0,0,against,90
