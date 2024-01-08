@@ -496,7 +496,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 781566,40672,Fernando Llorente,48,0,0,against,"48, 71, 72"
 781566,40672,Fernando Llorente,71,0,0,against,"48, 71, 72"
 781566,40672,Fernando Llorente,72,0,0,against,"48, 71, 72"
-781566,57526,Heung-Min Son,57,0,0,against,57
+781566,57526,Son Heung-Min,57,0,0,against,57
 781566,52657,Harry Kane,82,0,0,against,82
 770569,51911,James Norwood,46,0,0,for,46
 770569,41710,Ishmael Miller,61,0,0,for,61
@@ -3611,7 +3611,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861164,101331,Josh Hawkes,33,1,0,for,pen 33
 861164,144033,Rhys Hughes,48,0,0,for,48
 861166,165326,Samuel Taylor,79,0,0,for,79
-861166,146038,Ali Ibrahim Al-Hamadi,68,0,0,against,68
+861166,146038,Ali Ibrahim Ali Al Hamadi,68,0,0,against,68
 861188,61899,Sam Hoskins,5,0,0,against,5
 864058,71462,Paul Lewis,12,0,0,for,12
 864058,144033,Rhys Hughes,19,0,0,for,19
@@ -3713,9 +3713,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882384,86849,Aaron Hayden,56,0,0,against,56
 882422,63609,Connor Jennings,4,0,0,for,4
 882422,107795,Armani Little,21,0,0,against,21
-882422,146038,Ali Ibrahim Al-Hamadi,32,0,0,against,"32, 62, 88"
-882422,146038,Ali Ibrahim Al-Hamadi,62,0,0,against,"32, 62, 88"
-882422,146038,Ali Ibrahim Al-Hamadi,88,0,0,against,"32, 62, 88"
+882422,146038,Ali Ibrahim Ali Al Hamadi,32,0,0,against,"32, 62, 88"
+882422,146038,Ali Ibrahim Ali Al Hamadi,62,0,0,against,"32, 62, 88"
+882422,146038,Ali Ibrahim Ali Al Hamadi,88,0,0,against,"32, 62, 88"
 882444,93064,Regan Hendry,24,0,0,for,24
 882444,68138,Kieron Morris,83,0,0,for,83
 882444,52497,Andy Cook,55,0,0,against,55
