@@ -3687,6 +3687,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882624,100535,Harvey Saunders,56,0,0,for,56
 882624,107402,Aaron Nemane,24,0,0,against,24
 882624,106176,Macaulay Langstaff,29,0,0,against,29
+882648,68138,Kieron Morris,12,0,0,for,12
+882648,66101,Alex Gilbey,9,0,0,against,9
+882648,59293,Ellis Harrison,90,0,0,against,90
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
