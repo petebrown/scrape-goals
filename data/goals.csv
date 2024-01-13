@@ -3647,7 +3647,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882504,114049,Isaac Olaofe,5,0,0,against,5
 882504,56263,Antoni Sarcevic,54,0,0,against,54
 896358,59417,Luke Norris,28,1,0,for,pen 28
-896358,136092,Robert Apter,55,0,0,for,55
+896358,136092,Rob Apter,55,0,0,for,55
 896358,68138,Kieron Morris,90,0,0,for,90
 896358,63852,Jordan Roberts,3,0,0,against,3
 896358,68053,Jamie Reid,58,1,0,against,"pen 58, 90"
@@ -3655,15 +3655,15 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 896358,58504,Kane Hemmings,81,0,0,against,81
 882515,133516,Tyrese Omotoye,8,0,1,for,og 8
 882515,70469,Kristian Dennis,47,0,0,for,47
-882515,136092,Robert Apter,71,0,0,for,71
+882515,136092,Rob Apter,71,0,0,for,71
 882529,94463,Ben Goodliffe,17,0,1,for,og 17
 882529,87398,Louis John,88,0,0,against,88
-882539,136092,Robert Apter,43,0,0,for,"43, 60"
-882539,136092,Robert Apter,60,0,0,for,"43, 60"
+882539,136092,Rob Apter,43,0,0,for,"43, 60"
+882539,136092,Rob Apter,60,0,0,for,"43, 60"
 882539,63609,Connor Jennings,53,0,0,for,53
 882539,72094,Connor Mahoney,90,0,0,against,90
 882549,120094,Charlie Jolley,13,0,0,for,13
-882549,136092,Robert Apter,62,0,0,for,62
+882549,136092,Rob Apter,62,0,0,for,62
 882549,69039,Rhys Oates,37,0,0,against,37
 882549,136564,Will Swan,79,0,0,against,79
 882565,68138,Kieron Morris,57,0,0,for,57
