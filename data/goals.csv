@@ -284,7 +284,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788780,74212,Cameron Brannagan,70,0,0,against,70
 788794,55554,Liam Ridehalgh,65,0,0,for,65
 788794,55846,Ollie Banks,70,0,0,for,70
-788794,68830,Mo Eisa,54,0,0,against,54
+788794,68830,Mohamed Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
 788806,55846,Ollie Banks,90,0,0,for,90
 788806,54992,Stefan Payne,90,0,0,for,90
@@ -3689,6 +3689,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882624,106176,Macaulay Langstaff,29,0,0,against,29
 882648,68138,Kieron Morris,12,0,0,for,12
 882648,66101,Alex Gilbey,9,0,0,against,9
+882648,59293,Ellis Harrison,90,0,0,against,90
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
@@ -3696,7 +3697,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 884352,165326,Samuel Taylor,47,0,0,for,47
 884352,92320,Herbie Kane,45,0,0,against,45
 884352,123219,Aiden Marsh,90,0,0,against,90
-882331,68830,Mo Eisa,7,0,0,against,7
+882331,68830,Mohamed Eisa,7,0,0,against,7
 882348,59417,Luke Norris,24,0,0,for,24
 882348,165326,Samuel Taylor,26,0,0,for,26
 882348,68138,Kieron Morris,89,0,0,for,89
