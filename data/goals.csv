@@ -886,8 +886,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,65015,Jake Kirby,90,0,0,for,90
 715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
@@ -3693,6 +3693,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882666,136092,Rob Apter,35,0,0,for,35
 882666,88369,Toby Mullarkey,54,0,1,for,og 54
 882666,108039,Doug Tharme,39,0,0,against,39
+882688,101331,Josh Hawkes,60,0,0,for,60
+882688,66015,Joe Ironside,15,0,0,against,15
+882688,68679,Hakeeb Adelakun,64,0,0,against,64
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
