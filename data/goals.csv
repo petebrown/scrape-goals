@@ -369,7 +369,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 801787,68556,Anthony Martial,45,0,0,against,45
 801787,113509,Mason Greenwood,56,1,0,against,pen 56
 789046,64314,Charlie Wyke,60,0,0,against,60
-789049,116884,Dennis Politic,2,0,0,against,2
+789049,116884,Dennis-Dorian Politic,2,0,0,against,2
 789049,34857,Chris O'Grady,64,0,0,against,64
 788879,118641,Jacob Ramsey,54,0,0,against,"54, 75"
 788879,118641,Jacob Ramsey,75,0,0,against,"54, 75"
@@ -3701,6 +3701,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882709,108687,Charlie Brown,14,0,0,against,14
 882709,57203,Jordan Slew,82,0,0,against,82
 882709,107008,Jacob Davenport,90,0,0,against,90
+882719,76807,Tom Davies,30,0,0,for,30
+882719,76981,Jordan Turnbull,55,0,0,for,"55, 63"
+882719,76981,Jordan Turnbull,63,0,0,for,"55, 63"
+882719,63609,Connor Jennings,85,0,0,for,85
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
