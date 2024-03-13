@@ -3713,6 +3713,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882743,136092,Rob Apter,87,0,0,for,87
 882750,93064,Regan Hendry,4,0,0,for,4
 882750,89682,Conor Masterson,84,0,0,against,84
+882767,93064,Regan Hendry,12,0,0,for,12
+882767,136092,Rob Apter,56,0,0,for,56
+882767,136564,Will Swan,39,0,0,against,39
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
