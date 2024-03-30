@@ -188,7 +188,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812760,40847,James Vaughan,27,0,0,for,27
 812774,46973,Liam Feeney,31,0,0,for,31
 812774,107086,Elijah Adebayo,19,0,0,against,19
-812774,90132,Wes McDonald,48,0,0,against,48
+812774,90132,Wesley McDonald,48,0,0,against,48
 812774,89051,Dan Scarr,66,0,0,against,66
 812822,51697,Lee Novak,62,0,0,against,62
 812858,71462,Paul Lewis,12,0,0,for,12
@@ -3721,6 +3721,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882792,129529,Jeremy Kelly,2,0,0,against,2
 882792,114844,Jay Williams,10,0,0,against,10
 882792,114256,Danilo Orsi-Dadamo,79,0,0,against,79
+882797,154923,Calum Kavanagh,64,0,0,against,64
+882797,180761,Bobby Pointon,69,0,0,against,69
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
