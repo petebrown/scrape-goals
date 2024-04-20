@@ -886,9 +886,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,71520,Lois Maynard,90,0,0,for,90
 715487,41945,Jeff Hughes,90,0,0,for,90
 715487,65015,Jake Kirby,90,0,0,for,90
+715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
 715487,52497,Andy Cook,87,0,0,against,87
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,20585,Alex Hay,90,0,0,for,90
 364799,163,Iain Anderson,90,0,0,for,90
+364799,20585,Alex Hay,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -3732,6 +3732,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882836,136092,Rob Apter,25,0,0,for,"25, 36"
 882836,136092,Rob Apter,36,0,0,for,"25, 36"
 882836,96472,Will Evans,20,0,0,against,20
+882852,100535,Harvey Saunders,35,0,0,for,35
+882852,136092,Rob Apter,45,0,0,for,45
+882852,63609,Connor Jennings,71,0,0,for,71
+882852,99555,Josh Kelly,56,0,0,against,"56, 90"
+882852,99555,Josh Kelly,90,0,0,against,"56, 90"
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
