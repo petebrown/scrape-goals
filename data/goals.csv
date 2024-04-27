@@ -3737,6 +3737,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882852,63609,Connor Jennings,71,0,0,for,71
 882852,99555,Josh Kelly,56,0,0,against,"56, 90"
 882852,99555,Josh Kelly,90,0,0,against,"56, 90"
+882855,59417,Luke Norris,2,0,0,for,2
+882855,136742,Lewis Shipley,4,0,0,against,4
+882855,107773,Jack Nolan,51,1,0,against,"pen 51, pen 82"
+882855,107773,Jack Nolan,82,1,0,against,"pen 51, pen 82"
+882855,183956,Alex Henderson,53,0,0,against,53
 882324,101331,Josh Hawkes,63,1,0,for,pen 63
 882324,51792,Niall Canavan,19,0,0,against,19
 882324,108090,Kian Spence,70,0,0,against,70
