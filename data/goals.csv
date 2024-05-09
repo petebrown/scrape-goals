@@ -42,7 +42,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830242,67496,Sam Nicholson,22,0,0,against,22
 830263,68138,Kieron Morris,50,0,0,for,50
 830263,121903,Paul Glatzel,56,0,0,for,56
-830263,77906,Jack Levi Sutton,26,0,0,against,26
+830263,77906,Levi Sutton,26,0,0,against,26
 840683,94740,Harry Smith,22,0,0,against,"22, 83"
 840683,94740,Harry Smith,83,0,0,against,"22, 83"
 840683,52528,Omar Beckles,36,0,0,against,36
@@ -88,7 +88,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830478,140587,Elliott Nevitt,76,0,0,for,"76, 90"
 830478,140587,Elliott Nevitt,90,0,0,for,"76, 90"
 830478,115848,Matthew Longstaff,45,0,0,against,45
-830478,78816,Oli Hawkins,90,0,0,against,90
+830478,78816,Oliver Hawkins,90,0,0,against,90
 830490,144980,Lewis Warrington,49,0,0,for,49
 830490,58504,Kane Hemmings,65,1,0,for,pen 65
 830503,101331,Josh Hawkes,68,0,0,for,68
@@ -96,7 +96,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830506,136718,Junior Tchamadeu,90,0,0,against,90
 830526,58504,Kane Hemmings,15,0,0,for,15
 830526,140587,Elliott Nevitt,76,0,0,for,76
-830526,89447,Patrick Omari,55,0,0,against,55
+830526,89447,Omari Patrick,55,0,0,against,55
 830526,74263,Tobi Sho-Silva,90,0,0,against,90
 830539,58504,Kane Hemmings,56,0,0,for,56
 830539,87583,Elliot Anderson,63,0,0,against,63
@@ -214,7 +214,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 821615,68138,Kieron Morris,66,0,0,for,66
 812942,96015,Calum MacDonald,42,0,0,for,42
 812942,70918,Kaiyne Woolery,51,0,0,for,51
-812942,94073,Davis Kellior-Dunn,2,0,0,against,2
+812942,94073,Davis Keillor-Dunn,2,0,0,against,2
 812942,79874,Dylan Bahamboula,78,0,0,against,78
 812946,70918,Kaiyne Woolery,21,0,0,for,21
 812946,40847,James Vaughan,43,0,0,for,"43, 88"
@@ -239,7 +239,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 813038,70918,Kaiyne Woolery,45,0,0,for,45
 813038,41911,Stephen Quinn,76,0,0,against,76
 813043,55832,Conor Thomas,4,0,0,against,4
-813043,76329,Will Boyle,14,0,0,against,14
+813043,76329,William Boyle,14,0,0,against,14
 813043,85708,Alfie May,42,0,0,against,42
 813043,110770,Callum Wright,57,0,0,against,57
 813062,71462,Paul Lewis,11,0,0,for,11
@@ -414,7 +414,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 779187,107017,Rabbi Matondo,49,0,0,against,49
 770254,51911,James Norwood,33,0,0,for,"33, 55"
 770254,51911,James Norwood,55,0,0,for,"33, 55"
-770254,94572,Jimmy Ball,20,0,0,against,20
+770254,94572,James Ball,20,0,0,against,20
 770254,44390,Joel Byrom,27,0,0,against,27
 770266,51911,James Norwood,13,0,0,for,13
 768613,62460,Larnell Cole,80,0,0,for,80
@@ -788,7 +788,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 734027,86076,Ben Tollitt,3,0,0,for,3
 734045,51911,James Norwood,90,0,0,for,90
 734117,95540,Corey Whitely,24,0,0,against,24
-734117,78816,Oli Hawkins,47,0,0,against,47
+734117,78816,Oliver Hawkins,47,0,0,against,47
 734105,52497,Andy Cook,51,0,0,for,51
 734105,86076,Ben Tollitt,53,0,0,for,"53, 78"
 734105,86076,Ben Tollitt,78,0,0,for,"53, 78"
@@ -886,9 +886,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,71520,Lois Maynard,90,0,0,for,90
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,65015,Jake Kirby,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
+715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
 715487,52497,Andy Cook,87,0,0,against,87
@@ -1387,7 +1387,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 636423,49716,Jose Baxter,38,0,0,for,38
 636423,40519,Chris Lines,45,0,0,against,45
 636423,21292,Ryan Lowe,80,0,0,against,80
-636828,50626,Scott Bennett,41,0,0,against,41
+636828,50626,Scot Bennett,41,0,0,against,41
 636828,20583,Daniel Coles,66,0,0,against,66
 636828,15950,Richard Logan,78,0,0,against,78
 636807,19397,Jabo Ibehre,19,0,0,against,19
@@ -3541,7 +3541,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 860805,140587,Elliott Nevitt,56,0,0,for,"56, 89"
 860805,140587,Elliott Nevitt,89,0,0,for,"56, 89"
 860811,76981,Jordan Turnbull,56,0,0,for,56
-860811,119017,Matthew Daly,37,0,0,against,37
+860811,119017,Matty Daly,37,0,0,against,37
 860828,58504,Kane Hemmings,39,0,0,for,39
 860828,29475,Ian Henderson,35,0,0,against,35
 860840,70469,Kristian Dennis,1,0,0,against,"1, pen 54"
@@ -3583,7 +3583,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861010,63586,Jamie Walker,43,0,0,against,43
 861010,52497,Andy Cook,74,0,0,against,74
 861032,138595,Riley Harbottle,34,0,0,against,34
-861032,94073,Davis Kellior-Dunn,54,0,0,against,54
+861032,94073,Davis Keillor-Dunn,54,0,0,against,54
 861044,101331,Josh Hawkes,74,1,0,for,pen 74
 860900,76981,Jordan Turnbull,68,0,0,for,68
 861056,101331,Josh Hawkes,68,1,0,for,pen 68
@@ -3629,7 +3629,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882403,120094,Charlie Jolley,21,0,0,for,21
 882403,165326,Samuel Taylor,66,0,0,for,66
 882403,120093,Ronan Darcy,61,0,0,against,61
-882403,114320,Nick Tsaroulla,68,0,0,against,68
+882403,114320,Nicholas Tsaroulla,68,0,0,against,68
 882403,111911,Klaidi Lolos,90,0,0,against,90
 882420,101331,Josh Hawkes,14,1,0,for,"pen 14, 49"
 882420,101331,Josh Hawkes,49,0,0,for,"pen 14, 49"
@@ -3720,7 +3720,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882792,59417,Luke Norris,21,0,0,for,21
 882792,129529,Jeremy Kelly,2,0,0,against,2
 882792,114844,Jay Williams,10,0,0,against,10
-882792,114256,Danilo Orsi-Dadamo,79,0,0,against,79
+882792,114256,Danilo Orsi,79,0,0,against,79
 882797,154923,Calum Kavanagh,64,0,0,against,64
 882797,180761,Bobby Pointon,69,0,0,against,69
 882816,68138,Kieron Morris,7,0,0,for,7
