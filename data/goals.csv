@@ -414,7 +414,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 779187,107017,Rabbi Matondo,49,0,0,against,49
 770254,51911,James Norwood,33,0,0,for,"33, 55"
 770254,51911,James Norwood,55,0,0,for,"33, 55"
-770254,94572,Jimmy Ball,20,0,0,against,20
+770254,94572,James Ball,20,0,0,against,20
 770254,44390,Joel Byrom,27,0,0,against,27
 770266,51911,James Norwood,13,0,0,for,13
 768613,62460,Larnell Cole,80,0,0,for,80
@@ -3619,7 +3619,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 864058,144992,Sonny Perkins,26,0,0,against,26
 864058,114854,Joe Gelhardt,28,0,0,against,"28, 31"
 864058,114854,Joe Gelhardt,31,0,0,against,"28, 31"
-864058,165965,Mateo Joseph Fernandez,56,0,0,against,56
+864058,165965,Mateo Joseph,56,0,0,against,56
 864058,115869,Cody Drameh,64,0,0,against,64
 864061,140587,Elliott Nevitt,71,0,0,for,71
 893870,52400,Jayden Stockley,73,1,0,against,pen 73
@@ -3629,7 +3629,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882403,120094,Charlie Jolley,21,0,0,for,21
 882403,165326,Samuel Taylor,66,0,0,for,66
 882403,120093,Ronan Darcy,61,0,0,against,61
-882403,114320,Nick Tsaroulla,68,0,0,against,68
+882403,114320,Nicholas Tsaroulla,68,0,0,against,68
 882403,111911,Klaidi Lolos,90,0,0,against,90
 882420,101331,Josh Hawkes,14,1,0,for,"pen 14, 49"
 882420,101331,Josh Hawkes,49,0,0,for,"pen 14, 49"
@@ -3672,7 +3672,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882576,57804,Jamille Matt,64,0,0,against,64
 882588,68138,Kieron Morris,55,0,0,for,55
 882588,76807,Tom Davies,72,0,0,for,72
-882588,96154,Dan Kemp,22,0,0,against,22
+882588,96154,Daniel Kemp,22,0,0,against,22
 882599,100535,Harvey Saunders,12,0,0,for,12
 882599,68138,Kieron Morris,35,0,0,for,35
 882599,63609,Connor Jennings,50,0,0,for,50
