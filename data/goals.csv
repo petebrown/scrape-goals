@@ -251,7 +251,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 813115,126162,Josh Davison,50,0,0,against,50
 813115,78063,Aaron Collins,81,1,0,against,pen 81
 824585,18605,Peter Clarke,19,0,0,for,19
-824585,42622,Nat Knight-Percival,15,0,0,against,15
+824585,42622,Nathaniel Knight-Percival,15,0,0,against,15
 824585,69864,Liam McAlinden,45,0,0,against,45
 824587,40847,James Vaughan,53,0,0,for,53
 824587,51976,Aaron Wildig,9,0,0,against,9
@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Oliver Banks,70,0,0,for,70
 788794,68830,Mohamed Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,54992,Stefan Payne,90,0,0,for,90
 788806,55846,Oliver Banks,90,0,0,for,90
+788806,54992,Stefan Payne,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -844,7 +844,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715162,34368,Jon Shaw,45,0,0,against,45
 715180,38248,Andy Mangan,74,0,0,for,74
 715233,71520,Lois Maynard,46,0,0,for,46
-715233,71566,Same Come,87,0,0,against,87
+715233,71566,Sam Corne,87,0,0,against,87
 715240,62951,Liam Hogan,6,0,0,for,6
 715240,51911,James Norwood,37,0,0,for,37
 715257,43779,Jay Harris,46,0,0,for,46
@@ -886,8 +886,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,65015,Jake Kirby,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
@@ -1023,7 +1023,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 691486,51958,Reggie Lambe,44,0,0,against,44
 690978,61600,Kemar Roofe,51,0,0,against,"51, 68"
 690978,61600,Kemar Roofe,68,0,0,against,"51, 68"
-690978,45192,Daniel Rose,52,0,0,against,52
+690978,45192,Danny Rose,52,0,0,against,52
 690955,55480,Max Power,34,0,0,for,34
 690955,19157,Kayode Odejayi,89,0,0,for,89
 690955,43701,Reuben Reid,7,1,0,against,pen 7
@@ -1373,8 +1373,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 636348,57630,Mustafa Tiryaki,4,0,0,for,"4, 32"
 636348,57630,Mustafa Tiryaki,32,0,0,for,"4, 32"
 636348,51537,Shane Duffy,20,0,0,against,20
-636348,46503,Robert Grant,44,0,0,against,"44, pen 67"
-636348,46503,Robert Grant,67,1,0,against,"44, pen 67"
+636348,46503,Bobby Grant,44,0,0,against,"44, pen 67"
+636348,46503,Bobby Grant,67,1,0,against,"44, pen 67"
 636348,36344,Chris Dagnall,52,0,0,against,52
 646769,55851,Adam McGurk,9,0,0,for,9
 646769,36304,Enoch Showunmi,70,0,0,for,70
@@ -1572,7 +1572,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 617244,5556,Ian Thomas-Moore,81,1,0,for,pen 81
 617244,10897,Gary Jones,26,1,0,against,"pen 26, 44"
 617244,10897,Gary Jones,44,0,0,against,"pen 26, 44"
-617244,46503,Robert Grant,84,0,0,against,84
+617244,46503,Bobby Grant,84,0,0,against,84
 617036,46306,Josh McQuoid,8,0,0,against,8
 617036,38101,Michael Symes,18,1,0,against,pen 18
 617036,38008,Marc Pugh,61,0,0,against,61
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,163,Iain Anderson,90,0,0,for,90
 364799,20585,Alex Hay,90,0,0,for,90
+364799,163,Iain Anderson,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -2628,8 +2628,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,122,Wayne Allison,90,0,0,for,90
 338630,24138,Alan Navarro,90,0,0,for,90
+338630,122,Wayne Allison,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
 340544,9299,Jason Price,42,0,0,for,42
 340544,9708,Gareth Roberts,66,0,0,for,66
