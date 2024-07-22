@@ -2231,7 +2231,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 434832,24126,Pawel Abbott,33,0,0,against,33
 435686,36344,Chris Dagnall,29,0,0,for,29
 435686,35556,Calvin Zola,81,0,0,for,81
-435686,33472,Greg Halford,83,0,0,against,83
+435686,33472,Gregory Halford,83,0,0,against,83
 436233,15076,Ian Sharps,53,0,0,for,53
 436547,35556,Calvin Zola,6,0,0,for,6
 436547,18869,Iain Hume,40,0,0,for,40
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,163,Iain Anderson,90,0,0,for,90
 364799,20585,Alex Hay,90,0,0,for,90
+364799,163,Iain Anderson,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
