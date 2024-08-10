@@ -64,7 +64,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830371,120094,Charlie Jolley,3,0,0,for,"3, 16"
 830371,120094,Charlie Jolley,16,0,0,for,"3, 16"
 830373,49806,Jay Spearing,65,0,0,for,65
-830395,77819,Matt Stevens,6,0,0,against,6
+830395,77819,Matty Stevens,6,0,0,against,6
 830395,57804,Jamille Matt,42,0,0,against,42
 830395,66505,Jordan Moore-Taylor,53,0,0,against,53
 830395,93064,Regan Hendry,70,0,0,against,70
@@ -3624,12 +3624,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 864061,140587,Elliott Nevitt,71,0,0,for,71
 893870,52400,Jayden Stockley,73,1,0,against,pen 73
 893870,117318,Phoenix Patterson,82,0,0,against,82
-882390,145236,Joseph Taylor,11,0,0,against,11
+882390,145236,Joe Taylor,11,0,0,against,11
 882390,160468,Bradley Ihionvien,87,0,0,against,87
 882403,120094,Charlie Jolley,21,0,0,for,21
 882403,165326,Samuel Taylor,66,0,0,for,66
 882403,120093,Ronan Darcy,61,0,0,against,61
-882403,114320,Nicholas Tsaroulla,68,0,0,against,68
+882403,114320,Nick Tsaroulla,68,0,0,against,68
 882403,111911,Klaidi Lolos,90,0,0,against,90
 882420,101331,Josh Hawkes,14,1,0,for,"pen 14, 49"
 882420,101331,Josh Hawkes,49,0,0,for,"pen 14, 49"
@@ -3637,7 +3637,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882457,63609,Connor Jennings,61,0,0,for,61
 882457,59376,Danny Rose,27,0,0,against,27
 882457,93704,Rekeil Pyke,44,0,0,against,44
-893911,144398,Silko Thomas,9,0,0,against,9
+893911,144398,Silko-Amari Thomas,9,0,0,against,9
 882459,58275,Mickey Demetriou,11,0,0,against,11
 882459,70732,Chris Long,52,0,0,against,52
 882481,63609,Connor Jennings,70,0,0,for,70
@@ -3678,7 +3678,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882599,63609,Connor Jennings,50,0,0,for,50
 882599,93064,Regan Hendry,64,0,0,for,64
 882599,101331,Josh Hawkes,90,0,0,for,90
-882599,52136,Matthew Lund,55,0,0,against,55
+882599,52136,Matty Lund,55,0,0,against,55
 882606,120094,Charlie Jolley,54,0,0,for,54
 882606,76807,Tom Davies,70,0,0,for,70
 882624,68138,Kieron Morris,5,0,0,for,5
