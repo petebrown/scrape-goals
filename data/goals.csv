@@ -2628,8 +2628,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,24138,Alan Navarro,90,0,0,for,90
 338630,122,Wayne Allison,90,0,0,for,90
+338630,24138,Alan Navarro,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
 340544,9299,Jason Price,42,0,0,for,42
 340544,9708,Gareth Roberts,66,0,0,for,66
@@ -3779,7 +3779,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 913645,144159,Josh Williams,45,0,0,for,45
 913645,89447,Omari Patrick,71,0,0,for,71
 913660,126162,Josh Davison,11,0,0,for,11
-913660,121804,Beto,86,0,0,against,"86, 90"
-913660,121804,Beto,90,0,0,against,"86, 90"
+913660,121804,Beto,86,0,0,against,"86, 90, 90"
+913660,121804,Beto,90,0,0,against,"86, 90, 90"
 913660,171215,Martin Sherif,90,0,0,against,90
 540022,58792, Jason Demetriou,90,0,0,against,90
