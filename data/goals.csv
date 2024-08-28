@@ -3782,5 +3782,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 913660,121804,Beto,86,0,0,against,"86, 90, 90"
 913660,121804,Beto,90,0,0,against,"86, 90, 90"
 913660,171215,Martin Sherif,90,0,0,against,90
+921182,56636,Jordan Ayew,38,0,0,against,38
+921182,96855,Stephy Mavididi,51,1,0,against,pen 51
+921182,80851,Wilfred Ndidi,71,0,0,against,71
+921182,75114,Harry Winks,90,0,0,against,90
 911892,89447,Omari Patrick,13,0,0,for,13
 540022,58792, Jason Demetriou,90,0,0,against,90
