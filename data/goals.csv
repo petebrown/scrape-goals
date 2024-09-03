@@ -886,9 +886,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,65015,Jake Kirby,90,0,0,for,90
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
 715487,52497,Andy Cook,87,0,0,against,87
@@ -3786,7 +3786,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 921182,96855,Stephy Mavididi,51,1,0,against,pen 51
 921182,80851,Wilfred Ndidi,71,0,0,against,71
 921182,75114,Harry Winks,90,0,0,against,90
-911896,89447,Omari Patrick,6,0,0,for,"6, 37"
-911896,89447,Omari Patrick,37,0,0,for,"6, 37"
+911896,89447,Omari Patrick,6,0,0,for,"6, 37, 37"
+911896,89447,Omari Patrick,37,0,0,for,"6, 37, 37"
+911896,100649,Archie Davies,7,0,0,against,7
 911892,89447,Omari Patrick,13,0,0,for,13
 540022,58792, Jason Demetriou,90,0,0,against,90
