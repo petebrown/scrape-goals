@@ -3,7 +3,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 830464,58504,Kane Hemmings,88,1,0,for,pen 88
 830464,100515,Fraser Horsfall,29,0,0,against,"29, 37"
 830464,100515,Fraser Horsfall,37,0,0,against,"29, 37"
-830464,69850,Mitchell Pinnock,66,0,0,against,66
+830464,69850,Mitch Pinnock,66,0,0,against,66
 830059,51474,Callum McManaman,73,0,0,for,73
 830627,44029,Sam Foley,40,0,0,for,40
 830627,140587,Elliott Nevitt,51,0,0,for,51
@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Oliver Banks,70,0,0,for,70
 788794,68830,Mohamed Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,54992,Stefan Payne,90,0,0,for,90
 788806,55846,Oliver Banks,90,0,0,for,90
+788806,54992,Stefan Payne,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,20585,Alex Hay,90,0,0,for,90
 364799,163,Iain Anderson,90,0,0,for,90
+364799,20585,Alex Hay,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -2628,8 +2628,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,24138,Alan Navarro,90,0,0,for,90
 338630,122,Wayne Allison,90,0,0,for,90
+338630,24138,Alan Navarro,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
 340544,9299,Jason Price,42,0,0,for,42
 340544,9708,Gareth Roberts,66,0,0,for,66
@@ -3797,5 +3797,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 911933,133806,Samson Tovide,78,0,0,against,78
 911963,70469,Kristian Dennis,17,0,0,for,17
 911963,104921,Chris Merrie,54,0,1,against,og 54
+911973,93064,Regan Hendry,90,0,0,for,90
+911973,125112,Joe White,23,0,0,against,23
 911892,89447,Omari Patrick,13,0,0,for,13
 540022,58792, Jason Demetriou,90,0,0,against,90
