@@ -349,9 +349,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788974,88451,Morgan Ferrier,43,0,0,for,43
 788974,77222,Ben Heneghan,9,0,0,against,9
 788986,63609,Connor Jennings,34,0,0,for,34
-788986,51791,Matt Godden,3,0,0,against,"3, 67, pen 90"
-788986,51791,Matt Godden,67,0,0,against,"3, 67, pen 90"
-788986,51791,Matt Godden,90,1,0,against,"3, 67, pen 90"
+788986,51791,Matty Godden,3,0,0,against,"3, 67, pen 90"
+788986,51791,Matty Godden,67,0,0,against,"3, 67, pen 90"
+788986,51791,Matty Godden,90,1,0,against,"3, 67, pen 90"
 788986,94503,Jordan Shipley,17,0,0,against,17
 801153,63609,Connor Jennings,65,0,0,for,65
 801153,75406,Emmanuel Monthe,78,0,0,for,78
@@ -3510,7 +3510,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 860658,138595,Riley Harbottle,59,0,0,against,59
 861839,116334,Ryan Astley,90,0,1,for,og 90
 861839,101331,Josh Hawkes,62,0,0,for,62
-861839,122498,Korede Adedoyin,37,0,0,against,37
+861839,122498,Cody David,37,0,0,against,37
 861839,116334,Ryan Astley,39,0,0,against,39
 860672,140587,Elliott Nevitt,18,0,0,for,18
 860672,133368,Ethan Bristow,67,0,0,for,67
