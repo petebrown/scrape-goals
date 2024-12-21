@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Ollie Banks,70,0,0,for,70
 788794,68830,Mohamed Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,55846,Ollie Banks,90,0,0,for,90
 788806,54992,Stefan Payne,90,0,0,for,90
+788806,55846,Ollie Banks,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,20585,Alex Hay,90,0,0,for,90
 364799,163,Iain Anderson,90,0,0,for,90
+364799,20585,Alex Hay,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -3835,6 +3835,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912095,70469,Kristian Dennis,25,0,0,for,25
 912095,89447,Omari Patrick,67,0,0,for,67
 912095,111605,James Daly,14,0,0,against,14
+912101,171213,Sol Solomon,83,0,0,for,83
+912101,116147,Joseph Olowu,38,0,0,against,38
+912101,140780,Patrick Kelly,66,0,0,against,66
+912101,133387,Kyle Hurst,77,0,0,against,77
 912071,76981,Jordan Turnbull,48,0,0,for,48
 912071,63609,Connor Jennings,75,0,0,for,75
 912071,86076,Ben Tollitt,12,0,0,against,12
