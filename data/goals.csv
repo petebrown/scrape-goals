@@ -3872,6 +3872,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912263,88877,Ronan Curtis,29,0,0,against,29
 912239,59417,Luke Norris,79,1,0,for,pen 79
 912239,114256,Danilo Orsi,32,0,0,against,32
+912271,81221,Sam Finley,10,0,0,for,10
+912271,59376,Danny Rose,68,1,0,against,pen 68
 912071,76981,Jordan Turnbull,48,0,0,for,48
 912071,63609,Connor Jennings,75,0,0,for,75
 912071,86076,Ben Tollitt,12,0,0,against,12
