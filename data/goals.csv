@@ -173,8 +173,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812710,75196,Otis Khan,79,0,0,for,79
 812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
 812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
-812725,68138,Kieron Morris,90,0,0,for,90
 812725,70918,Kaiyne Woolery,90,0,0,for,90
+812725,68138,Kieron Morris,90,0,0,for,90
 812725,72740,Tom Conlon,16,1,0,against,pen 16
 812725,55423,David Amoo,24,0,0,against,24
 812725,100505,Devante Rodney,75,0,0,against,75
@@ -3856,6 +3856,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912347,93064,Regan Hendry,54,0,0,for,54
 912347,126162,Josh Davison,85,0,0,for,85
 912347,81221,Sam Finley,89,0,0,for,89
+912349,89447,Omari Patrick,78,0,0,for,"78, 90"
+912349,89447,Omari Patrick,90,0,0,for,"78, 90"
+912349,70469,Kristian Dennis,87,0,0,for,87
+912349,172833,Ben Woods,1,0,0,against,1
+912349,94182,Tyler Walton,24,0,0,against,24
+912349,143308,Josh Woods,42,0,0,against,42
 911892,89447,Omari Patrick,13,0,0,for,13
 912011,181845,Justin Obikwu,59,0,0,against,59
 922313,63609,Connor Jennings,9,0,0,for,9
