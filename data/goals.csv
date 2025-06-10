@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Ollie Banks,70,0,0,for,70
 788794,68830,Mohamed Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,54992,Stefan Payne,90,0,0,for,90
 788806,55846,Ollie Banks,90,0,0,for,90
+788806,54992,Stefan Payne,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -3838,8 +3838,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912169,77819,Matty Stevens,81,1,0,against,pen 81
 912204,126162,Josh Davison,7,0,0,for,7
 912204,121903,Paul Glatzel,87,0,0,against,87
-912204,78913,Kabongo Tshimanga,90,1,0,against,pen 90
 912204,94740,Harry Smith,90,0,0,against,90
+912204,78913,Kabongo Tshimanga,90,1,0,against,pen 90
 912215,70469,Kristian Dennis,50,0,0,for,50
 912215,50091,Lyle Taylor,9,1,0,against,"pen 9, 33"
 912215,50091,Lyle Taylor,33,0,0,against,"pen 9, 33"
