@@ -886,9 +886,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,65015,Jake Kirby,90,0,0,for,90
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
 715487,52497,Andy Cook,87,0,0,against,87
@@ -3838,8 +3838,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912169,77819,Matty Stevens,81,1,0,against,pen 81
 912204,126162,Josh Davison,7,0,0,for,7
 912204,121903,Paul Glatzel,87,0,0,against,87
-912204,94740,Harry Smith,90,0,0,against,90
 912204,78913,Kabongo Tshimanga,90,1,0,against,pen 90
+912204,94740,Harry Smith,90,0,0,against,90
 912215,70469,Kristian Dennis,50,0,0,for,50
 912215,50091,Lyle Taylor,9,1,0,against,"pen 9, 33"
 912215,50091,Lyle Taylor,33,0,0,against,"pen 9, 33"
