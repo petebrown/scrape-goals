@@ -173,8 +173,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812710,75196,Otis Khan,79,0,0,for,79
 812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
 812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
-812725,68138,Kieron Morris,90,0,0,for,90
 812725,70918,Kaiyne Woolery,90,0,0,for,90
+812725,68138,Kieron Morris,90,0,0,for,90
 812725,72740,Tom Conlon,16,1,0,against,pen 16
 812725,55423,David Amoo,24,0,0,against,24
 812725,100505,Devante Rodney,75,0,0,against,75
@@ -2587,8 +2587,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 388316,3343,Simon Haworth,65,0,0,for,65
 364799,5857,Shane Nicholson,59,1,0,for,pen 59
 364799,3343,Simon Haworth,60,0,0,for,60
-364799,163,Iain Anderson,90,0,0,for,90
 364799,20585,Alex Hay,90,0,0,for,90
+364799,163,Iain Anderson,90,0,0,for,90
 388924,3982,Gary Jones,15,0,0,for,15
 388924,3343,Simon Haworth,81,0,0,for,81
 388924,9299,Jason Price,90,0,0,for,90
@@ -2628,8 +2628,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,24138,Alan Navarro,90,0,0,for,90
 338630,122,Wayne Allison,90,0,0,for,90
+338630,24138,Alan Navarro,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
 340544,9299,Jason Price,42,0,0,for,42
 340544,9708,Gareth Roberts,66,0,0,for,66
@@ -3611,7 +3611,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 861164,101331,Josh Hawkes,33,1,0,for,pen 33
 861164,144033,Rhys Hughes,48,0,0,for,48
 861166,165326,Samuel Taylor,79,0,0,for,79
-861166,146038,Ali Al-Hamadi,68,0,0,against,68
+861166,146038,Ali Al Hamadi,68,0,0,against,68
 861188,61899,Sam Hoskins,5,0,0,against,5
 864058,71462,Paul Lewis,12,0,0,for,12
 864058,144033,Rhys Hughes,19,0,0,for,19
@@ -3768,9 +3768,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 882384,86849,Aaron Hayden,56,0,0,against,56
 882422,63609,Connor Jennings,4,0,0,for,4
 882422,107795,Armani Little,21,0,0,against,21
-882422,146038,Ali Al-Hamadi,32,0,0,against,"32, 62, 88"
-882422,146038,Ali Al-Hamadi,62,0,0,against,"32, 62, 88"
-882422,146038,Ali Al-Hamadi,88,0,0,against,"32, 62, 88"
+882422,146038,Ali Al Hamadi,32,0,0,against,"32, 62, 88"
+882422,146038,Ali Al Hamadi,62,0,0,against,"32, 62, 88"
+882422,146038,Ali Al Hamadi,88,0,0,against,"32, 62, 88"
 882444,93064,Regan Hendry,24,0,0,for,24
 882444,68138,Kieron Morris,83,0,0,for,83
 882444,52497,Andy Cook,55,0,0,against,55
@@ -3838,8 +3838,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912169,77819,Matty Stevens,81,1,0,against,pen 81
 912204,126162,Josh Davison,7,0,0,for,7
 912204,121903,Paul Glatzel,87,0,0,against,87
-912204,78913,Kabongo Tshimanga,90,1,0,against,pen 90
 912204,94740,Harry Smith,90,0,0,against,90
+912204,78913,Kabongo Tshimanga,90,1,0,against,pen 90
 912215,70469,Kristian Dennis,50,0,0,for,50
 912215,50091,Lyle Taylor,9,1,0,against,"pen 9, 33"
 912215,50091,Lyle Taylor,33,0,0,against,"pen 9, 33"
