@@ -3918,6 +3918,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 937317,89447,Omari Patrick,45,0,0,for,45
 937317,133520,Matthew Dennis,49,0,0,against,49
 937317,96018,Kellan Gordon,62,0,0,against,62
+937347,89447,Omari Patrick,64,0,0,for,64
+937347,53091,Luke Garbutt,56,1,0,against,pen 56
+937347,63703,Cole Stockton,81,0,0,against,81
+937347,109594,Ossama Ashley,86,0,0,against,86
 937218,89447,Omari Patrick,63,0,0,for,63
 937218,146693,Joseph Gbode,90,0,0,against,90
 937263,75652,Nathan Smith,56,0,0,for,56
