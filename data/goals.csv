@@ -1582,6 +1582,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 617346,46277,Dale Stephens,81,0,0,against,"27, 81"
 617307,53268,Lateef Elford Alliyu,4,0,0,for,4
 617307,10897,Gary Jones,90,0,0,against,90
+607006,21776,Chris Shuker,11,0,0,for,11
+607006,4733,Alan Mahon,61,0,0,for,61
+607006,1203,Darren Byfield,45,0,0,against,45
+607006,46441,Troy Deeney,47,0,0,against,"47, 83"
+607006,46441,Troy Deeney,83,0,0,against,"47, 83"
 597891,9303,Michael Ricketts,63,0,0,for,63
 597891,29089,Adam Stansfield,25,0,0,against,"25, 54"
 597891,29089,Adam Stansfield,54,0,0,against,"25, 54"
