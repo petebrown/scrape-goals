@@ -3920,6 +3920,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 948524,107538,Jack Diamond,55,0,0,against,55
 948524,56994,Oliver Norwood,74,0,0,against,74
 948524,174802,Nathan Lowe,90,0,0,against,90
+946577,71332,Patrick Brough,24,0,0,for,24
+946577,66015,Joe Ironside,75,0,0,for,75
+946577,115004,Scott Banks,18,0,0,against,18
 937185,182818,Taylan Harris,19,0,0,for,19
 937185,126162,Josh Davison,22,0,0,for,22
 937185,89447,Omari Patrick,74,0,0,for,74
