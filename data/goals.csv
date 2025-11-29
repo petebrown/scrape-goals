@@ -3962,6 +3962,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 937680,142753,Charlie Whitaker,27,0,0,for,"9, 27"
 937680,102623,Jon Mellish,78,0,0,against,78
 937680,165913,Kane Thompson-Sommers,82,0,0,against,82
+937705,142753,Charlie Whitaker,19,0,0,for,19
+937705,70469,Kristian Dennis,90,0,0,for,90
+937705,129458,Darragh Burns,67,0,0,against,67
 937218,89447,Omari Patrick,63,0,0,for,63
 937218,146693,Joseph Gbode,90,0,0,against,90
 937263,75652,Nathan Smith,56,0,0,for,56
