@@ -3923,6 +3923,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 946577,71332,Patrick Brough,24,0,0,for,24
 946577,66015,Joe Ironside,75,0,0,for,75
 946577,115004,Scott Banks,18,0,0,against,18
+949139,71332,Patrick Brough,56,0,1,against,og 56
+949139,111602,Ronan Coughlan,71,0,0,against,71
+949139,125651,Mark Helm,88,0,0,against,88
 937185,182818,Taylan Harris,19,0,0,for,19
 937185,126162,Josh Davison,22,0,0,for,22
 937185,89447,Omari Patrick,74,0,0,for,74
