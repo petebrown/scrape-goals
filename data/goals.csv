@@ -173,8 +173,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812710,75196,Otis Khan,79,0,0,for,79
 812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
 812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
-812725,68138,Kieron Morris,90,0,0,for,90
 812725,70918,Kaiyne Woolery,90,0,0,for,90
+812725,68138,Kieron Morris,90,0,0,for,90
 812725,72740,Tom Conlon,16,1,0,against,pen 16
 812725,55423,David Amoo,24,0,0,against,24
 812725,100505,Devante Rodney,75,0,0,against,75
@@ -286,8 +286,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 788794,55846,Ollie Banks,70,0,0,for,70
 788794,68830,Mohamed Eisa,54,0,0,against,54
 788794,68329,Ivan Toney,56,0,0,against,56
-788806,55846,Ollie Banks,90,0,0,for,90
 788806,54992,Stefan Payne,90,0,0,for,90
+788806,55846,Ollie Banks,90,0,0,for,90
 788806,46484,Lucas Akins,66,1,0,against,pen 66
 788812,54992,Stefan Payne,39,0,0,for,39
 788812,53091,Luke Garbutt,35,0,0,against,35
@@ -886,9 +886,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,65015,Jake Kirby,90,0,0,for,90
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
 715487,52497,Andy Cook,87,0,0,against,87
@@ -3838,8 +3838,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 912169,77819,Matty Stevens,81,1,0,against,pen 81
 912204,126162,Josh Davison,7,0,0,for,7
 912204,121903,Paul Glatzel,87,0,0,against,87
-912204,94740,Harry Smith,90,0,0,against,90
 912204,78913,Kabongo Tshimanga,90,1,0,against,pen 90
+912204,94740,Harry Smith,90,0,0,against,90
 912215,70469,Kristian Dennis,50,0,0,for,50
 912215,50091,Lyle Taylor,9,1,0,against,"pen 9, 33"
 912215,50091,Lyle Taylor,33,0,0,against,"pen 9, 33"
@@ -3971,6 +3971,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 937733,142753,Charlie Whitaker,53,0,0,for,53
 937733,66015,Joe Ironside,67,1,0,for,pen 67
 937733,70469,Kristian Dennis,86,1,0,for,pen 86
+937789,149130,James Connolly,82,0,1,for,og 82
+937789,100071,Max Sanders,17,0,0,against,"17, 45"
+937789,100071,Max Sanders,45,0,0,against,"17, 45"
+937789,149144,Emre Tezgel,59,1,0,against,pen 59
+937789,144562,Tommi O'Reilly,71,0,0,against,71
 937218,89447,Omari Patrick,63,0,0,for,63
 937218,146693,Joseph Gbode,90,0,0,against,90
 937263,75652,Nathan Smith,56,0,0,for,56
