@@ -173,8 +173,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812710,75196,Otis Khan,79,0,0,for,79
 812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
 812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
-812725,68138,Kieron Morris,90,0,0,for,90
 812725,70918,Kaiyne Woolery,90,0,0,for,90
+812725,68138,Kieron Morris,90,0,0,for,90
 812725,72740,Tom Conlon,16,1,0,against,pen 16
 812725,55423,David Amoo,24,0,0,against,24
 812725,100505,Devante Rodney,75,0,0,against,75
@@ -1869,7 +1869,13 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 526755,9758,Chris Greenacre,78,0,0,for,78
 526755,21776,Chris Shuker,90,0,0,for,90
 528148,45355,Craig Carl Curran,42,0,0,for,42
+530962,45355,Craig Carl Curran,83,0,0,for,83
+530962,21689,Antony Kay,86,0,0,for,86
+530962,2694,Paul Furlong,5,0,0,against,5
 532861,41449,Barry Corr,88,0,0,against,88
+532851,5204,Paul McLaren,29,0,0,for,29
+532851,27015,Shane Cansdell-Sherriff,53,0,0,for,53
+532851,7820,Gareth Taylor,83,0,0,for,83
 534083,39282,Craig Davies,90,0,0,against,90
 534419,9758,Chris Greenacre,37,1,0,for,pen 37
 534419,21689,Antony Kay,84,0,0,for,84
@@ -1878,10 +1884,24 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 536199,36541,Steven Jennings,7,0,0,for,7
 536199,9758,Chris Greenacre,37,0,0,for,"37, 68"
 536199,9758,Chris Greenacre,68,0,0,for,"37, 68"
+520165,27015,Shane Cansdell-Sherriff,54,0,0,for,54
+520165,44489,Gary Liddle,3,0,0,against,3
+520165,41204,James Brown,11,0,0,against,11
+520165,37201,Joel Porter,58,0,0,against,58
 536829,35556,Calvin Zola,23,0,0,for,23
 536829,9758,Chris Greenacre,28,1,0,for,pen 28
 536829,36541,Steven Jennings,63,0,0,for,63
 536829,45720,Sam Vokes,76,0,0,against,76
+538726,5204,Paul McLaren,16,0,0,for,16
+538726,21689,Antony Kay,45,0,0,for,45
+540046,35556,Calvin Zola,59,0,0,for,59
+540029,41203,Andy Taylor,8,0,0,for,8
+540029,9758,Chris Greenacre,31,0,0,for,31
+540029,5204,Paul McLaren,74,0,0,for,74
+540029,41174,Gary Roberts,30,1,0,against,"pen 30, 48"
+540029,41174,Gary Roberts,48,0,0,against,"pen 30, 48"
+540029,41443,Nicky Maynard,67,0,0,against,67
+540029,43104,Danny O'Donnell,89,0,0,against,89
 540017,36541,Steven Jennings,75,0,0,for,75
 540017,7820,Gareth Taylor,78,0,0,for,78
 540017,44374,Ben Smith,65,0,0,against,65
@@ -1889,6 +1909,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 540022,18901,Wayne Gray,11,0,0,against,11
 540022,26299,Sean Thornton,84,0,0,against,84
 541010,32708,Simon Johnson,72,0,0,against,72
+540996,21689,Antony Kay,87,0,0,for,87
+542241,35556,Calvin Zola,4,0,0,for,4
+542241,44584,Jennison Myrie-Williams,62,1,0,for,pen 62
+542241,16412,Andy Kirk,51,0,0,against,51
 542236,5204,Paul McLaren,7,0,0,for,7
 542236,35556,Calvin Zola,14,0,0,for,14
 542926,44584,Jennison Myrie-Williams,61,0,0,for,61
@@ -1918,6 +1942,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 549797,20399,Nathan Tyson,34,0,0,against,34
 549797,34659,Wes Morgan,51,0,0,against,51
 550934,824,Andy Booth,61,0,0,against,61
+550941,21689,Antony Kay,53,0,0,for,53
+551258,9758,Chris Greenacre,43,0,0,for,43
+551258,36629,Adebayo Akinfenwa,3,0,0,against,3
+551258,44085,Poul Hubertz,68,0,0,against,68
 540317,13433,Andy Williams,12,0,0,against,12
 540317,16995,Rickie Lambert,58,0,0,against,58
 498225,21776,Chris Shuker,22,0,0,for,22
@@ -1932,7 +1960,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 509493,9758,Chris Greenacre,6,0,0,for,6
 511858,21776,Chris Shuker,53,0,0,for,"53, 83"
 511858,21776,Chris Shuker,83,0,0,for,"53, 83"
+494216,9758,Chris Greenacre,24,0,0,for,24
 492476,19157,Kayode Odejayi,8,0,0,against,8
+492978,17470,Kevin Ellison,35,0,0,for,35
+492978,5675,John Mullin,54,0,0,for,54
+492978,37000,Chris Cohen,44,0,0,against,44
 489953,27015,Shane Cansdell-Sherriff,31,0,0,for,31
 489953,20396,Ben Burgess,56,0,0,against,56
 489953,36689,Darryl Duffy,110,0,0,against,110
@@ -1941,6 +1973,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 494092,8286,Gavin Ward,9,0,0,for,9
 494092,9758,Chris Greenacre,12,0,0,for,"12, 80"
 494092,9758,Chris Greenacre,80,0,0,for,"12, 80"
+494208,5675,John Mullin,85,0,0,for,85
 495198,17470,Kevin Ellison,28,0,0,for,28
 495198,17857,Lee Williamson,18,0,0,against,18
 495198,33422,Will Hoskins,38,0,0,against,38
@@ -1959,6 +1992,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 500415,21233,Chris McCready,22,0,0,for,22
 500415,21776,Chris Shuker,89,0,0,for,89
 500415,20168,Chris Hackett,41,0,0,against,41
+501026,7820,Gareth Taylor,19,0,0,for,"19, 48"
+501026,7820,Gareth Taylor,48,0,0,for,"19, 48"
+501026,9758,Chris Greenacre,37,0,0,for,"37, 83"
+501026,9758,Chris Greenacre,83,0,0,for,"37, 83"
+501026,39467,Simon Jackson,63,0,0,against,63
+501026,38411,Craig McAllister,69,0,0,against,69
 502094,9758,Chris Greenacre,20,0,0,for,20
 502794,9758,Chris Greenacre,2,0,0,for,2
 502794,41795,Steve Davies,67,0,0,for,67
@@ -1967,9 +2006,23 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 503383,40586,Danny Crow,70,0,0,against,"45, 70"
 503909,27015,Shane Cansdell-Sherriff,53,0,0,for,53
 503909,39039,Andy Keogh,42,0,0,against,42
+504302,21776,Chris Shuker,45,0,0,for,45
+504302,41201,Charlie Ide,38,0,0,against,38
+505324,9758,Chris Greenacre,2,0,0,for,2
+505324,21776,Chris Shuker,5,0,0,for,5
+505324,39155,Gary Mulligan,11,0,0,against,"11, 19"
+505324,39155,Gary Mulligan,19,0,0,against,"11, 19"
+505324,28928,Ben Chorley,42,0,0,against,42
 505967,27015,Shane Cansdell-Sherriff,28,0,0,for,28
 505967,7820,Gareth Taylor,43,0,0,for,43
 505967,10608,Delroy Facey,82,0,0,against,82
+506827,5675,John Mullin,87,0,0,for,87
+506827,5108,Scott McGleish,11,0,0,against,11
+507157,28841,Jamie McCombe,25,0,1,for,og 25
+507157,5204,Paul McLaren,44,0,0,for,44
+507157,36304,Enoch Showunmi,48,0,0,against,48
+507157,10585,Phil Jevons,59,0,0,against,59
+507157,44584,Jennison Myrie-Williams,68,0,0,against,68
 507700,7820,Gareth Taylor,19,0,0,for,19
 507698,7820,Gareth Taylor,9,0,0,for,9
 507698,36702,Steven Schumacher,34,0,0,against,34
@@ -1979,14 +2032,31 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 511847,9758,Chris Greenacre,90,0,0,for,90
 511847,38379,Keith Lowe,18,0,0,against,18
 511847,19157,Kayode Odejayi,26,0,0,against,26
+511833,9758,Chris Greenacre,34,0,0,for,34
+511833,21282,Justin Miller,18,0,0,against,18
+511833,34916,Ryan Jarvis,29,0,0,against,"29, 39"
+511833,34916,Ryan Jarvis,39,0,0,against,"29, 39"
 511821,5675,John Mullin,21,0,0,for,21
 511821,9758,Chris Greenacre,73,0,0,for,73
 511805,34287,Andy Robinson,6,0,0,against,6
 511805,12919,Lee Trundle,52,0,0,against,52
+512917,9758,Chris Greenacre,3,0,0,for,"3, pen 35"
+512917,9758,Chris Greenacre,35,1,0,for,"3, pen 35"
+512917,17470,Kevin Ellison,83,0,0,for,83
+512917,7481,Danny Sonner,36,0,0,against,36
+512917,22031,Leon Constantine,73,0,0,against,73
 512896,37797,David McGoldrick,13,0,0,against,13
 512896,10613,James Hayter,57,1,0,against,pen 57
 513428,38086,Danny Graham,10,0,0,against,10
 513428,24436,Kevin Gall,67,0,0,against,67
+514815,35556,Calvin Zola,29,0,0,for,"29, 46"
+514815,35556,Calvin Zola,46,0,0,for,"29, 46"
+514815,16752,Keigan Parker,9,0,0,against,9
+514815,43134,Wes Hoolahan,36,0,0,against,36
+514815,16011,Andy Morrell,73,0,0,against,73
+514813,45355,Craig Carl Curran,76,0,0,for,76
+514813,9758,Chris Greenacre,90,1,0,for,pen 90
+514813,14177,Ian Goodison,11,0,1,against,og 11
 514798,27015,Shane Cansdell-Sherriff,9,0,0,for,9
 514798,35556,Calvin Zola,69,0,0,for,69
 514798,21674,Alan Dunne,49,0,0,against,"49, 67"
@@ -1999,6 +2069,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 515527,45355,Craig Carl Curran,7,0,0,for,"5, 7, 36"
 515527,45355,Craig Carl Curran,36,0,0,for,"5, 7, 36"
 515527,22470,Callum Willock,35,0,0,against,35
+495184,35556,Calvin Zola,14,0,0,for,14
+495184,7820,Gareth Taylor,35,0,0,for,35
+495184,5675,John Mullin,58,1,0,for,pen 58
+495184,5108,Scott McGleish,74,0,0,against,74
+509223,42467,Chris Hall,90,0,0,against,90
 463895,36629,Adebayo Akinfenwa,30,0,0,against,30
 460973,18869,Iain Hume,38,0,0,for,38
 460973,9758,Chris Greenacre,45,0,0,for,45
@@ -2013,6 +2088,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 462110,15076,Ian Sharps,61,0,0,for,61
 462110,34927,Richie Ryan,56,0,0,against,56
 462110,14771,Richard Hinds,82,0,0,against,82
+463220,3855,Mike Jackson,76,0,0,for,76
+463220,9708,Gareth Roberts,90,0,0,for,90
+463215,9758,Chris Greenacre,58,0,0,for,58
 464381,10608,Delroy Facey,24,0,0,for,24
 464381,9758,Chris Greenacre,72,0,0,for,72
 464381,2268,Richard Edghill,21,0,0,against,21
@@ -2044,6 +2122,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 471010,9758,Chris Greenacre,58,1,0,for,pen 58
 471010,10608,Delroy Facey,76,0,0,for,76
 471010,38747,Billy Sharp,68,1,0,against,pen 68
+471235,10608,Delroy Facey,6,0,0,for,6
+471235,26297,Daniel Robert Harrison,67,0,0,for,67
+471235,9758,Chris Greenacre,74,1,0,for,pen 74
+471235,7785,Paul Tait,9,0,0,against,"9, 40"
+471235,7785,Paul Tait,40,0,0,against,"9, 40"
 471555,33766,Simon Francis,18,0,0,for,18
 471555,10608,Delroy Facey,45,0,0,for,45
 471555,41733,Owain Tudur Jones,45,0,0,against,45
@@ -2056,6 +2139,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 473598,24695,Jay Tabb,14,0,0,against,14
 473598,19213,Kevin O'Connor,32,1,0,against,pen 32
 473598,11391,Lloyd Owusu,53,0,0,against,53
+474066,9758,Chris Greenacre,50,0,0,for,"50, 74, 86"
+474066,9758,Chris Greenacre,74,0,0,for,"50, 74, 86"
+474066,9758,Chris Greenacre,86,0,0,for,"50, 74, 86"
+474066,35556,Calvin Zola,72,0,0,for,72
+474066,10585,Phil Jevons,32,1,0,against,pen 32
 474374,26297,Daniel Robert Harrison,8,0,0,for,8
 474374,9758,Chris Greenacre,90,0,0,for,90
 474368,9758,Chris Greenacre,45,0,0,for,45
@@ -2069,6 +2157,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 477737,28848,Steven O'Leary,48,0,0,for,48
 477737,1203,Darren Byfield,73,0,0,against,73
 478358,10750,Paul Heckingbottom,16,0,0,against,16
+479791,9758,Chris Greenacre,21,0,0,for,21
+479791,8943,Sam Aiston,33,0,0,for,33
+479791,1843,Jamie Cureton,69,0,0,against,69
 480259,8943,Sam Aiston,36,0,0,for,"36, 39"
 480259,8943,Sam Aiston,39,0,0,for,"36, 39"
 480259,9758,Chris Greenacre,45,0,0,for,45
@@ -2083,9 +2174,14 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 482745,1191,Martin Butler,73,0,0,against,73
 482745,7214,Paul Shaw,78,0,0,against,78
 484288,17954,Grant Holt,17,0,0,against,17
+484272,9531,Wayne Brown,63,0,0,against,63
+472862,10608,Delroy Facey,81,0,0,for,81
+472862,18605,Peter Clarke,90,0,0,against,90
 484265,17203,Steve Brooker,17,0,0,against,17
 484265,13540,Mark McCammon,34,0,0,against,34
 484265,21237,Craig Woodman,90,1,0,against,pen 90
+484763,40526,Lewis Guy,12,0,0,against,12
+484763,9568,Neil Roberts,43,0,0,against,43
 478862,18124,Ritchie Wellens,35,0,0,against,35
 481820,14177,Ian Goodison,39,0,0,for,39
 481820,9758,Chris Greenacre,77,0,0,for,77
@@ -2099,6 +2195,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 427809,36344,Chris Dagnall,68,0,0,for,68
 427809,6804,Hugh Robertson,23,0,0,against,23
 428584,27359,Eugene Dadi,42,0,0,for,42
+429097,35556,Calvin Zola,49,0,0,for,49
+429097,4961,Jason McAteer,80,0,0,for,80
+429097,17230,Luke Rodgers,67,0,0,against,67
 430153,35556,Calvin Zola,12,0,0,for,12
 430153,3855,Mike Jackson,18,0,0,for,18
 430153,32156,Ryan Taylor,30,1,0,for,pen 30
@@ -2109,7 +2208,12 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 430139,17127,Warren Feeney,81,0,0,against,81
 431410,27359,Eugene Dadi,65,0,0,for,65
 431410,18869,Iain Hume,73,0,0,for,73
+431698,9708,Gareth Roberts,59,0,0,for,59
+431698,235,Chris Armstrong,38,0,0,against,38
 431902,32030,Diomansy Kamara,65,0,0,against,65
+433636,18869,Iain Hume,2,0,0,for,"2, 87"
+433636,18869,Iain Hume,87,0,0,for,"2, 87"
+433636,6945,Alex Russell,55,0,0,against,55
 433625,32156,Ryan Taylor,32,0,0,for,32
 433625,12397,Chris Coyne,76,0,0,against,76
 434848,32156,Ryan Taylor,45,1,0,for,pen 45
@@ -2121,9 +2225,14 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 434848,8627,Dean Windass,70,0,0,against,70
 434848,33561,Ben Muirhead,81,0,0,against,81
 434848,8423,David Wetherall,90,0,0,against,90
+434832,14207,Theodore Whitmore,15,0,0,for,"15, 61"
+434832,14207,Theodore Whitmore,61,0,0,for,"15, 61"
+434832,36344,Chris Dagnall,65,0,0,for,65
+434832,24126,Pawel Abbott,33,0,0,against,33
 435686,36344,Chris Dagnall,29,0,0,for,29
 435686,35556,Calvin Zola,81,0,0,for,81
 435686,33472,Gregory Halford,83,0,0,against,83
+436233,15076,Ian Sharps,53,0,0,for,53
 436547,35556,Calvin Zola,6,0,0,for,6
 436547,18869,Iain Hume,40,0,0,for,40
 436547,28004,Chris Birchall,68,0,0,against,68
@@ -2141,17 +2250,34 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 439225,3185,Paul Hall,53,0,0,for,53
 439225,14207,Theodore Whitmore,84,0,0,for,84
 439488,9708,Gareth Roberts,18,0,0,for,18
+440155,3855,Mike Jackson,73,0,0,for,73
+440155,28004,Chris Birchall,9,0,0,against,"9, 52"
+440155,28004,Chris Birchall,52,0,0,against,"9, 52"
+440155,24697,Billy Paynter,17,0,0,against,17
 440653,18869,Iain Hume,45,0,0,for,45
 440653,3185,Paul Hall,89,0,0,for,89
+441029,27359,Eugene Dadi,55,0,0,for,55
+441029,254,Ian Ashbee,34,0,0,against,34
+441029,21146,Stuart Elliott,54,0,0,against,"54, 68, pen 75"
+441029,21146,Stuart Elliott,68,0,0,against,"54, 68, pen 75"
+441029,21146,Stuart Elliott,75,1,0,against,"54, 68, pen 75"
+441029,410,Nick Barmby,56,0,0,against,56
+441029,15053,Danny Allsopp,88,0,0,against,88
 443606,27359,Eugene Dadi,5,0,0,for,5
 443606,9745,Kevin Nicholls,54,1,0,against,pen 54
 444124,18869,Iain Hume,1,0,0,for,1
 444124,8627,Dean Windass,77,0,0,against,77
+444862,27359,Eugene Dadi,8,0,0,for,8
+444862,14637,Joe Keith,65,0,0,against,65
 445630,27359,Eugene Dadi,16,0,0,for,16
 445630,18869,Iain Hume,24,0,0,for,24
 445630,9708,Gareth Roberts,90,0,0,for,90
 446017,3185,Paul Hall,22,0,0,for,22
 446017,38732,Matt Mills,43,0,0,against,43
+446584,32156,Ryan Taylor,7,0,0,for,7
+446584,17470,Kevin Ellison,43,0,0,against,43
+446584,9299,Jason Price,63,0,0,against,63
+446584,33429,Craig Fagan,69,0,0,against,69
 447083,36344,Chris Dagnall,53,0,0,for,53
 448738,3185,Paul Hall,16,0,0,for,"16, 80"
 448738,3185,Paul Hall,80,0,0,for,"16, 80"
@@ -2162,11 +2288,21 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 448717,27359,Eugene Dadi,86,0,0,for,86
 448717,742,Steve Blatherwick,45,0,0,against,45
 448717,40954,Carlos Logan,90,0,0,against,90
+448716,27359,Eugene Dadi,11,0,0,for,11
+448716,3185,Paul Hall,44,0,0,for,44
+448716,14950,Michael McIndoe,3,0,0,against,3
+448716,9803,Gregg Blundell,5,0,0,against,5
+448716,29960,Ricky Ravenhill,52,0,0,against,52
+448716,9568,Neil Roberts,81,0,0,against,81
+449167,3855,Mike Jackson,42,0,0,for,42
+449167,18869,Iain Hume,60,0,0,for,60
+449167,38011,Chris Brunt,31,1,0,against,pen 31
 449671,4961,Jason McAteer,66,0,0,for,66
 450033,34640,Michael Turner,69,0,0,against,69
 450994,32156,Ryan Taylor,20,0,0,for,20
 450994,21860,Grant Smith,57,0,0,against,"57, 59"
 450994,21860,Grant Smith,59,0,0,against,"57, 59"
+451295,3185,Paul Hall,40,0,0,for,40
 451736,626,David Beresford,65,0,0,for,65
 451736,20578,Gareth Edds,6,0,0,against,"6, 84"
 451736,20578,Gareth Edds,84,0,0,against,"6, 84"
@@ -2212,6 +2348,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 406876,9511,Luke Beckett,90,0,0,against,90
 399208,3982,Gary Jones,14,0,0,for,14
 399208,8950,Wayne Andrews,30,0,0,against,30
+399828,7432,Paul Smith,57,0,0,against,57
+399828,1627,Terry Cooke,61,0,0,against,61
 400766,15336,Aaron Brown,23,0,0,against,23
 400766,6199,Lee Peacock,76,0,0,against,76
 401317,3343,Simon Haworth,7,0,0,for,"7, 56"
@@ -2234,9 +2372,15 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 403446,9392,Marino Keith,49,0,0,against,49
 403446,2371,Micky Evans,56,0,0,against,56
 403446,19144,David Norris,79,0,0,against,79
+405395,5857,Shane Nicholson,78,0,0,for,78
+405395,18869,Iain Hume,80,0,0,for,80
+405395,5706,John Murphy,19,0,0,against,"19, 35, 43"
+405395,5706,John Murphy,35,0,0,against,"19, 35, 43"
+405395,5706,John Murphy,43,0,0,against,"19, 35, 43"
 404299,18869,Iain Hume,70,0,0,for,70
 404299,9708,Gareth Roberts,79,0,0,for,79
 404299,2395,John Eyre,30,0,0,against,30
+404687,3982,Gary Jones,90,0,0,for,90
 404891,3343,Simon Haworth,5,0,0,for,5
 404891,2735,Kevin Gallen,47,0,0,against,47
 405713,107,Graham Allen,32,0,0,for,32
@@ -2250,6 +2394,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 407029,15844,Dean Gorre,64,1,0,against,pen 64
 407778,18869,Iain Hume,68,0,0,for,68
 408230,3982,Gary Jones,71,0,0,for,71
+408720,3982,Gary Jones,26,0,0,for,26
 409730,27359,Eugene Dadi,1,0,0,for,"1, 54"
 409730,27359,Eugene Dadi,54,0,0,for,"1, 54"
 409730,13156,Glynn Hurst,2,0,0,against,2
@@ -2277,26 +2422,39 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 412655,20715,Jim Goodwin,65,0,1,for,og 65
 412655,11195,Danny Griffin,34,0,0,against,34
 412655,26822,Fraser McLachlan,73,0,0,against,73
+413031,27359,Eugene Dadi,27,0,0,for,27
+413031,16867,Kem Izzet,89,0,0,against,89
 413819,18869,Iain Hume,74,0,0,for,74
 413819,7832,Scott Taylor,36,0,0,against,36
 413845,32156,Ryan Taylor,24,1,0,for,pen 24
 413845,18869,Iain Hume,59,0,0,for,59
 413845,34287,Andy Robinson,16,0,0,against,16
+414303,27359,Eugene Dadi,19,0,0,for,"19, 52"
+414303,27359,Eugene Dadi,52,0,0,for,"19, 52"
+414303,18869,Iain Hume,23,0,0,for,23
 414905,27359,Eugene Dadi,87,0,0,for,87
 414905,33620,Scott Vernon,60,0,0,against,60
 414898,26297,Daniel Robert Harrison,55,0,0,for,55
 414898,24036,Onandi Lowe,50,0,0,against,50
 414898,17291,Gary Mills,71,0,0,against,71
+416291,15067,Gary Hart,7,0,0,against,7
+416291,9124,Trevor Benjamin,18,0,0,against,18
+416291,18787,Leon Knight,31,0,0,against,31
 416287,18869,Iain Hume,63,0,0,for,"63, 73"
 416287,18869,Iain Hume,73,0,0,for,"63, 73"
 416287,13156,Glynn Hurst,21,0,0,against,"21, 86"
 416287,13156,Glynn Hurst,86,0,0,against,"21, 86"
 416287,3982,Gary Jones,83,0,1,against,og 83
+416379,3982,Gary Jones,41,0,0,for,41
+416379,10738,Tim Cahill,11,0,0,against,11
+416379,14022,Neil Harris,16,0,0,against,16
+417274,27359,Eugene Dadi,82,0,0,for,82
 417899,27359,Eugene Dadi,7,0,0,for,"7, pen 15"
 417899,27359,Eugene Dadi,15,1,0,for,"7, pen 15"
 417899,18869,Iain Hume,69,0,0,for,"69, 74"
 417899,18869,Iain Hume,74,0,0,for,"69, 74"
 418490,15076,Ian Sharps,78,0,0,for,78
+419011,3982,Gary Jones,30,0,0,for,30
 418997,27359,Eugene Dadi,11,0,0,for,"11, 45"
 418997,27359,Eugene Dadi,45,0,0,for,"11, 45"
 418997,21466,Roger Johnson,88,0,0,against,88
@@ -2336,6 +2494,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 362893,16401,Nathan Ellington,54,1,0,against,"pen 54, 67"
 362893,16401,Nathan Ellington,67,0,0,against,"pen 54, 67"
 373099,30153,Stuart Howson,85,0,0,against,85
+373602,107,Graham Allen,3,0,0,for,3
 374962,26297,Daniel Robert Harrison,32,0,0,for,32
 374962,3982,Gary Jones,45,0,0,for,"45, 75"
 374962,3982,Gary Jones,75,0,0,for,"45, 75"
@@ -2345,6 +2504,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 374449,7942,Peter Thorne,82,0,0,against,"29, 82"
 374449,13570,Robert Earnshaw,40,1,0,against,pen 40
 374449,18784,Rhys Weston,90,0,0,against,90
+375266,18869,Iain Hume,53,0,0,for,53
+375266,2428,David Farrell,88,0,0,against,88
 375144,9708,Gareth Roberts,87,0,0,for,87
 375144,8701,Paul Wotton,90,0,1,for,og 90
 375144,15645,Steve Adams,6,0,0,against,6
@@ -2353,9 +2514,23 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 377064,409,Stuart Barlow,67,0,0,for,"67, 116"
 377064,409,Stuart Barlow,116,0,0,for,"67, 116"
 377064,13569,Matthew Tipton,4,0,0,against,4
+376589,409,Stuart Barlow,7,0,0,for,7
+376589,3343,Simon Haworth,62,0,0,for,62
+376589,23583,James Collins,34,0,0,against,34
+376589,4066,Graham Kavanagh,44,0,0,against,44
+376938,409,Stuart Barlow,63,0,0,for,"63, 90"
+376938,409,Stuart Barlow,90,0,0,for,"63, 90"
+376938,3343,Simon Haworth,67,0,0,for,67
+376938,7301,Michael Simpson,71,0,0,against,71
 377497,5361,Micky Mellon,45,0,0,for,45
 377497,9175,Andy Campbell,60,0,0,against,60
 377497,23583,James Collins,68,0,0,against,68
+378241,9708,Gareth Roberts,24,0,0,for,24
+378241,12593,Matthew Spring,70,0,0,against,70
+378241,18155,Ahmet Brkovic,79,0,0,against,79
+378241,3653,Steve Howard,89,0,0,against,89
+379540,17829,Jon Newby,15,0,0,against,15
+379540,30552,Dave Nugent,54,0,0,against,54
 379687,3343,Simon Haworth,10,0,0,for,"10, 66"
 379687,3343,Simon Haworth,66,0,0,for,"10, 66"
 379687,32156,Ryan Taylor,71,0,0,for,71
@@ -2364,14 +2539,34 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 380290,3343,Simon Haworth,11,0,0,for,11
 380290,7545,Mark Stallard,27,1,0,against,"pen 27, 90"
 380290,7545,Mark Stallard,90,0,0,against,"pen 27, 90"
+380445,5857,Shane Nicholson,58,1,0,for,pen 58
+380445,9708,Gareth Roberts,77,0,0,for,77
+380445,7422,Martin Smith,78,0,0,against,78
 380566,3343,Simon Haworth,54,0,0,for,54
 380566,3982,Gary Jones,60,0,0,for,"60, 71"
 380566,3982,Gary Jones,71,0,0,for,"60, 71"
 363843,3343,Simon Haworth,59,0,0,for,59
 363843,2396,David Eyres,37,1,0,against,pen 37
 363843,28759,Julian Baudet,76,0,0,against,76
+381035,3343,Simon Haworth,38,0,0,for,38
+381035,5361,Micky Mellon,60,0,0,for,60
+381035,5108,Scott McGleish,12,0,0,against,12
+381035,14637,Joe Keith,69,1,0,against,pen 69
+382155,3343,Simon Haworth,61,0,0,for,61
+382155,578,Mickey Bell,10,0,0,against,10
+382613,16511,Marvin Robinson,80,0,0,for,80
+382613,3343,Simon Haworth,90,0,0,for,90
+382613,6087,Steve Palmer,60,0,0,against,60
 382990,9978,Sean McClare,31,0,1,for,og 31
+381979,15076,Ian Sharps,50,0,0,for,50
+381979,17651,Marvin Brown,8,0,0,against,8
+381979,5783,Tony Naylor,64,0,0,against,64
+381979,15091,Martin Devaney,72,0,0,against,72
+383589,3147,Andy Gurney,50,0,0,against,50
 384229,3343,Simon Haworth,57,0,0,for,57
+384701,18869,Iain Hume,14,0,0,for,"14, 70"
+384701,18869,Iain Hume,70,0,0,for,"14, 70"
+384701,2374,Paul Evans,59,0,0,against,59
 385147,18869,Iain Hume,20,0,0,for,20
 385147,15076,Ian Sharps,48,0,0,for,48
 385147,32618,Ibrahima Sonko,90,0,0,against,90
@@ -2410,6 +2605,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 367035,17203,Steve Brooker,26,0,0,against,26
 362493,13834,Jason Koumas,15,0,0,for,15
 362493,14637,Joe Keith,53,0,0,against,53
+367423,409,Stuart Barlow,60,0,0,for,60
 371236,1860,Tom Curtis,57,0,1,against,og 57
 371236,17994,Rob Hulse,73,0,0,against,73
 371712,3343,Simon Haworth,17,0,0,for,17
@@ -2432,9 +2628,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,122,Wayne Allison,90,0,0,for,90
 338630,24138,Alan Navarro,90,0,0,for,90
+338630,122,Wayne Allison,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
+340544,9299,Jason Price,42,0,0,for,42
+340544,9708,Gareth Roberts,66,0,0,for,66
 348495,9299,Jason Price,9,0,0,for,9
 348495,13834,Jason Koumas,17,0,0,for,"17, 18, 45"
 348495,13834,Jason Koumas,18,0,0,for,"17, 18, 45"
@@ -2450,13 +2648,21 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 349884,9299,Jason Price,72,0,0,for,"42, 72"
 349884,1625,Andy Cooke,19,0,0,against,19
 349884,19518,Rikhardur Dadason,90,1,0,against,pen 90
+350447,13834,Jason Koumas,61,0,0,for,61
 351166,122,Wayne Allison,64,0,0,for,64
 351166,9299,Jason Price,74,0,0,for,74
 351166,2564,Sean Flynn,80,0,0,for,80
 351166,14739,Barrington Belgrave,76,0,0,against,76
 352161,13834,Jason Koumas,28,0,0,for,28
 352050,6723,Paul Rideout,14,0,0,for,14
+352759,6723,Paul Rideout,23,0,0,for,23
+352759,2564,Sean Flynn,53,0,0,for,53
+352759,13834,Jason Koumas,79,0,0,for,79
+352759,4066,Graham Kavanagh,21,1,0,against,pen 21
 350187,15067,Gary Hart,61,0,0,against,61
+354199,6723,Paul Rideout,23,0,0,for,23
+354199,234,Craig Armstrong,78,0,0,against,78
+354199,14650,Clyde Wijnhard,81,0,0,against,81
 353954,9299,Jason Price,65,0,0,for,65
 353954,122,Wayne Allison,87,0,0,for,87
 354862,9015,Christian Ziege,9,0,0,against,9
@@ -2470,6 +2676,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 355839,15053,Danny Allsopp,14,0,0,against,"14, 32, 39"
 355839,15053,Danny Allsopp,32,0,0,against,"14, 32, 39"
 355839,15053,Danny Allsopp,39,0,0,against,"14, 32, 39"
+313957,3343,Simon Haworth,14,0,0,for,14
 356360,3343,Simon Haworth,10,0,0,for,10
 356360,13733,Marc Bridge-Wilkinson,23,0,0,against,23
 357672,3343,Simon Haworth,57,0,0,for,57
@@ -2487,10 +2694,17 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 358348,7932,Andy Thomson,14,0,0,against,"14, 90"
 358348,7932,Andy Thomson,90,0,0,against,"14, 90"
 358348,10619,Richard Langley,77,0,0,against,77
+312737,3343,Simon Haworth,61,0,0,for,61
+312737,6568,Andy Rammell,29,0,0,against,29
+312737,1066,Steve Brown,51,1,0,against,pen 51
 358798,409,Stuart Barlow,41,0,0,for,41
 358798,3343,Simon Haworth,48,0,0,for,48
 358798,9268,Tony Rougier,50,0,0,against,50
 358798,6979,John Salako,72,0,0,against,72
+319374,11391,Lloyd Owusu,30,0,0,against,30
+319374,20396,Ben Burgess,58,0,0,against,58
+319374,2374,Paul Evans,76,0,0,against,76
+319374,21531,Mark Williams,89,0,0,against,89
 318301,2564,Sean Flynn,8,0,0,for,8
 318301,13834,Jason Koumas,15,0,0,for,15
 318301,409,Stuart Barlow,83,0,0,for,83
@@ -2511,6 +2725,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 314795,409,Stuart Barlow,55,0,0,for,"54, 55, 78"
 314795,409,Stuart Barlow,78,0,0,for,"54, 55, 78"
 314795,8750,Steve Yates,64,0,0,for,64
+314850,3997,Steve Jones,21,0,0,against,21
+314850,7949,Tony Thorpe,45,0,0,against,45
 324134,8750,Steve Yates,2,0,0,for,2
 324134,2564,Sean Flynn,21,0,0,for,"21, 69"
 324134,2564,Sean Flynn,69,0,0,for,"21, 69"
@@ -2530,6 +2746,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 314522,3343,Simon Haworth,74,0,0,against,"67, 74"
 327690,6723,Paul Rideout,90,0,0,for,90
 327690,857,Jason Bowen,39,0,0,against,39
+328871,2564,Sean Flynn,12,0,0,for,12
+328871,1856,Darren Currie,16,0,0,against,16
 330643,13834,Jason Koumas,72,0,0,for,72
 330643,409,Stuart Barlow,90,0,0,for,90
 330643,7932,Andy Thomson,89,0,0,against,89
@@ -2556,15 +2774,32 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 318170,10720,Clint Hill,13,0,0,for,13
 318170,2564,Sean Flynn,90,0,0,for,90
 318170,7942,Peter Thorne,90,1,0,against,pen 90
+318542,409,Stuart Barlow,36,0,0,for,36
+318542,5361,Micky Mellon,88,0,0,for,88
+318542,7236,Darren Sheridan,12,0,0,against,12
+318542,2395,John Eyre,33,0,0,against,33
+322924,409,Stuart Barlow,39,0,0,for,39
+322924,24422,Seyni N'Diaye,61,0,0,for,61
 326792,2395,John Eyre,18,0,0,against,18
 326792,23150,Marc Richards,90,0,0,against,90
 359521,9708,Gareth Roberts,30,0,0,for,30
 359521,30243,David Bridges,50,0,0,against,50
 359521,12615,Tom Youngs,71,0,0,against,71
 360037,1767,Gary Croft,72,0,0,against,72
+290559,2866,Wayne Gill,4,0,0,for,4
+290559,2564,Sean Flynn,9,0,0,for,9
+290559,10720,Clint Hill,45,0,0,for,45
+290559,252,Carl Asaba,10,0,0,against,10
+290559,7496,Nicky Southall,66,1,0,against,pen 66
+289613,122,Wayne Allison,16,0,0,for,16
+289613,6723,Paul Rideout,38,0,0,for,38
+289613,2866,Wayne Gill,62,0,0,for,62
 290547,619,Marcus Bent,19,0,0,against,"19, 57"
 290547,619,Marcus Bent,57,0,0,against,"19, 57"
 290536,8473,Mike Whitlow,53,0,0,against,53
+291000,122,Wayne Allison,27,0,0,for,27
+291000,2866,Wayne Gill,32,1,0,for,pen 32
+291000,5556,Ian Thomas-Moore,12,0,0,against,12
 290474,6723,Paul Rideout,44,0,0,for,44
 290474,409,Stuart Barlow,87,0,0,for,87
 290474,17954,Grant Holt,23,0,0,against,23
@@ -2575,17 +2810,29 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 291690,893,Lee Bradbury,86,0,0,against,86
 291854,7832,Scott Taylor,15,0,0,for,"15, 90"
 291854,7832,Scott Taylor,90,0,0,for,"15, 90"
+293590,10720,Clint Hill,49,0,0,for,49
+293590,15022,Reuben Hazell,54,0,1,against,og 54
 292648,3015,Martin Grainger,73,0,0,against,73
 292648,11233,Geoff Horsfield,90,0,0,against,90
 292068,7832,Scott Taylor,13,0,0,for,13
+292744,10722,Andy Parkinson,82,0,0,for,82
+292744,17994,Rob Hulse,28,0,0,against,"28, 46"
+292744,17994,Rob Hulse,46,0,0,against,"28, 46"
+292744,8964,Colin Little,40,0,0,against,40
 293172,13834,Jason Koumas,57,0,0,for,57
 293172,10720,Clint Hill,64,0,0,for,64
 293172,1961,Steve Davis,45,0,0,against,"45, 55"
 293172,1961,Steve Davis,55,0,0,against,"45, 55"
 293172,6192,Andy Payton,90,0,0,against,90
 297944,10722,Andy Parkinson,11,0,0,for,11
+298159,8750,Steve Yates,44,0,0,for,44
+298159,10722,Andy Parkinson,69,0,0,for,69
+298159,893,Lee Bradbury,8,0,0,against,8
 298706,15628,Bo Hansen,16,0,0,against,16
 298706,10720,Clint Hill,20,0,1,against,og 20
+299550,8750,Steve Yates,22,0,0,for,"22, 62"
+299550,8750,Steve Yates,62,0,0,for,"22, 62"
+299550,13834,Jason Koumas,35,0,0,for,35
 300269,6723,Paul Rideout,90,0,0,for,90
 300269,14050,Aaron Wilbraham,39,0,0,against,39
 300967,2564,Sean Flynn,21,0,1,against,og 21
@@ -2600,6 +2847,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 301603,6698,Dean Richards,45,0,0,against,45
 302607,122,Wayne Allison,1,0,0,for,1
 302607,8750,Steve Yates,38,0,0,for,38
+302597,10722,Andy Parkinson,45,0,0,for,45
+302597,4680,Steve Macauley,61,0,0,against,61
+302597,17994,Rob Hulse,63,0,0,against,63
+302597,8964,Colin Little,81,0,0,against,81
 302594,122,Wayne Allison,59,0,0,for,59
 302594,10775,Jon Macken,8,0,0,against,8
 302528,8750,Steve Yates,47,0,0,for,47
@@ -2610,6 +2861,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 302528,2634,Robbie Fowler,82,1,0,against,pen 82
 302964,122,Wayne Allison,28,0,0,for,28
 302964,9192,Kevin Harper,57,0,0,against,57
+303270,7832,Scott Taylor,1,0,0,for,1
+303270,13834,Jason Koumas,20,0,0,for,20
+303270,2244,Bruce Dyer,65,0,0,against,65
+303270,7252,Neil Shipperley,82,0,0,against,82
+303270,10491,Isaiah Rankin,90,0,0,against,90
 303272,13834,Jason Koumas,10,0,0,for,10
 303272,15062,Marlon King,42,1,0,against,pen 42
 303272,5998,Iffy Onuora,47,0,0,against,47
@@ -2627,12 +2883,17 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 299016,1481,Lee Clark,21,0,0,against,21
 299016,10497,Luis Boa Morte,28,0,0,against,"28, 50"
 299016,10497,Luis Boa Morte,50,0,0,against,"28, 50"
+293193,9728,Steve Basham,57,0,0,against,57
 296058,10720,Clint Hill,3,0,0,for,3
 296058,460,Chris Bart-Williams,37,1,0,against,pen 37
 296058,18871,Keith Foy,42,0,0,against,42
 296058,7105,Riccy Scimeca,63,0,0,against,63
 299038,10722,Andy Parkinson,52,0,0,for,52
 299038,13834,Jason Koumas,68,0,0,for,68
+299006,17247,Trond Andersen,40,0,0,against,40
+299006,8545,Mark Williams,54,0,0,against,54
+299006,2353,Jason Euell,77,0,0,against,"77, 85"
+299006,2353,Jason Euell,85,0,0,against,"77, 85"
 298993,10608,Delroy Facey,44,0,0,against,44
 298993,2247,Jon Dyson,65,0,0,against,65
 298993,2735,Kevin Gallen,71,0,0,against,71
@@ -2641,6 +2902,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 303964,16124,Louis Saha,84,0,0,against,"3, 84"
 303964,10659,Barry Hayles,28,0,0,against,28
 303964,1481,Lee Clark,65,0,0,against,65
+304602,24422,Seyni N'Diaye,70,0,0,for,70
 305012,18785,Brian McGovern,87,0,0,against,87
 305016,7932,Andy Thomson,14,0,0,against,14
 305016,21235,Peter Crouch,63,0,0,against,63
@@ -2655,6 +2917,11 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 294046,3702,Mark Hughes,26,0,0,against,"26, 31"
 294046,3702,Mark Hughes,31,0,0,against,"26, 31"
 294046,9725,Egil Ostenstad,36,0,0,against,36
+293797,10722,Andy Parkinson,52,0,0,for,"52, 120"
+293797,10722,Andy Parkinson,120,0,0,for,"52, 120"
+293797,8750,Steve Yates,76,0,0,for,76
+293797,3683,Darren Huckerby,25,0,0,against,"25, 34"
+293797,3683,Darren Huckerby,34,0,0,against,"25, 34"
 294582,6784,Iwan Roberts,52,0,0,against,52
 299051,10720,Clint Hill,19,0,0,for,19
 299051,7832,Scott Taylor,60,0,0,for,60
@@ -2667,6 +2934,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 296594,15115,David Dunn,47,0,0,against,47
 294056,13834,Jason Koumas,58,0,0,for,58
 294056,1603,Karl Connolly,83,0,0,against,83
+305840,10722,Andy Parkinson,47,0,0,for,47
+305840,3611,David Hopkin,25,0,0,against,25
 306720,24422,Seyni N'Diaye,61,0,0,for,61
 306720,9734,Allan Nielsen,90,0,0,against,90
 307087,6723,Paul Rideout,14,0,0,for,14
@@ -2676,6 +2945,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 261488,12903,Philip Thompson,21,0,1,for,og 21
 261488,3697,Ian Hughes,26,0,0,against,26
 261488,1501,Phil Clarkson,65,0,0,against,65
+272875,3433,Nick Henry,30,0,0,for,30
+272875,1600,Sean Connelly,79,0,0,against,79
+272875,2061,Tony Dinning,85,1,0,against,pen 85
 267153,13834,Jason Koumas,8,0,0,for,8
 265426,7832,Scott Taylor,26,0,0,for,26
 265426,4100,David Kelly,45,0,0,for,"45, 55"
@@ -2691,6 +2963,18 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 267122,9978,Sean McClare,86,0,0,against,86
 272876,8284,Ashley Ward,82,0,0,against,82
 272876,734,Nathan Blake,87,0,0,against,87
+272877,7832,Scott Taylor,50,0,0,for,"50, 90"
+272877,7832,Scott Taylor,90,0,0,for,"50, 90"
+272877,4100,David Kelly,58,0,0,for,"58, 63, 80"
+272877,4100,David Kelly,63,0,0,for,"58, 63, 80"
+272877,4100,David Kelly,80,0,0,for,"58, 63, 80"
+272877,4946,Gary McAllister,7,0,0,against,7
+272878,4100,David Kelly,82,0,0,for,82
+272878,9801,Dave Challinor,90,0,0,for,90
+272878,12157,Jeff Peron,2,0,0,against,"2, 17"
+272878,12157,Jeff Peron,17,0,0,against,"2, 17"
+272878,8481,Guy Whittingham,39,0,0,against,39
+272878,13793,Mihalis Vlachos,48,0,0,against,48
 272879,7832,Scott Taylor,22,0,0,for,22
 272879,4946,Gary McAllister,21,0,0,against,21
 272879,14399,Youssef Chippo,44,0,0,against,"44, 45"
@@ -2701,6 +2985,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 272880,4218,Mark Kinsella,70,0,0,against,70
 272881,122,Wayne Allison,74,0,0,for,"74, 85"
 272881,122,Wayne Allison,85,0,0,for,"74, 85"
+272882,10720,Clint Hill,54,0,0,for,54
+272882,9882,Robert Steiner,3,0,0,against,3
+272882,6198,Gavin Peacock,62,0,0,against,62
 272888,3982,Gary Jones,82,0,0,for,82
 272888,10722,Andy Parkinson,90,0,0,for,90
 272888,9935,Mathias Svensson,34,0,0,against,34
@@ -2710,6 +2997,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 270674,12702,Marcelo,27,0,0,against,27
 270674,3772,Graham Hyde,45,0,0,against,45
 270889,122,Wayne Allison,50,0,0,for,50
+271842,4100,David Kelly,39,0,0,for,39
+271842,10722,Andy Parkinson,71,0,0,for,71
+271842,9015,Christian Ziege,79,0,0,against,79
 272047,122,Wayne Allison,14,0,0,for,14
 272047,6784,Iwan Roberts,63,0,0,against,"63, 89"
 272047,6784,Iwan Roberts,89,0,0,against,"63, 89"
@@ -2741,6 +3031,13 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 275830,62,Ade Akinbiyi,88,0,0,against,"35, 88"
 275830,12941,Lee Naylor,45,0,0,against,45
 275830,515,Darren Bazeley,69,0,0,against,69
+279835,7728,Daryl Sutch,38,0,1,for,og 38
+279835,10695,Lee Marshall,15,0,0,against,15
+277370,4100,David Kelly,60,0,0,for,"60, 89"
+277370,4100,David Kelly,89,0,0,for,"60, 89"
+277370,18122,David Healy,41,0,0,against,41
+281586,4733,Alan Mahon,52,0,0,for,52
+281586,6198,Gavin Peacock,26,1,0,against,pen 26
 282427,9801,Dave Challinor,12,0,0,for,12
 282427,122,Wayne Allison,82,0,0,for,82
 282427,8946,Daryl Clare,37,0,0,against,37
@@ -2804,6 +3101,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 279226,3937,David Johnson,57,0,0,against,57
 279428,122,Wayne Allison,4,0,0,for,4
 279428,9303,Michael Ricketts,67,1,0,against,pen 67
+272883,8750,Steve Yates,57,0,0,for,57
+272883,3021,Tony Grant,63,0,0,for,63
 270199,10722,Andy Parkinson,3,0,0,for,3
 270199,5578,Alan Morgan,45,0,0,for,45
 270199,10720,Clint Hill,56,0,0,for,56
@@ -2811,6 +3110,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 276696,4100,David Kelly,77,0,0,for,77
 276696,2314,Matt Elliott,29,0,0,against,"29, 81"
 276696,2314,Matt Elliott,81,0,0,against,"29, 81"
+252813,7646,Mick Stockwell,43,0,0,against,43
+252813,7461,James Scowcroft,78,0,0,against,78
 252832,3810,Kenny Irons,31,0,0,for,31
 252832,3982,Gary Jones,89,0,0,for,89
 252832,3943,Michael Johnson,40,0,0,against,40
@@ -2823,11 +3124,15 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 252834,4733,Alan Mahon,73,0,0,for,73
 252834,7360,Allan Smart,15,0,0,against,15
 252834,9856,Gifton Noel-Williams,80,0,0,against,80
+252719,4733,Alan Mahon,5,0,0,for,5
+252719,3982,Gary Jones,39,0,0,for,39
+252719,7832,Scott Taylor,79,0,0,for,79
 253001,3810,Kenny Irons,5,0,0,for,5
 253001,3982,Gary Jones,6,0,0,for,6
 253001,7832,Scott Taylor,12,0,0,for,12
 253001,4733,Alan Mahon,14,0,0,for,14
 253001,8964,Colin Little,82,0,0,against,82
+252940,13452,Paul Dalglish,31,0,0,against,31
 253161,7832,Scott Taylor,88,0,0,for,88
 253161,193,Brett Angell,87,0,0,against,87
 253290,3982,Gary Jones,26,0,0,for,26
@@ -2839,6 +3144,14 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 253353,3810,Kenny Irons,67,1,0,for,"pen 32, pen 67"
 253353,9523,Michael Johansen,53,0,0,against,53
 253353,3564,Dean Holdsworth,56,1,0,against,pen 56
+253567,3810,Kenny Irons,50,0,0,for,50
+253567,5936,Keith O'Neill,10,0,0,against,10
+253567,10692,Craig Bellamy,39,0,0,against,39
+253567,6784,Iwan Roberts,83,0,0,against,83
+253678,107,Graham Allen,57,0,0,for,57
+253678,3810,Kenny Irons,79,0,0,for,79
+253678,2640,Martin Foyle,30,0,0,against,"30, 63"
+253678,2640,Martin Foyle,63,0,0,against,"30, 63"
 254015,10720,Clint Hill,18,0,0,for,18
 254015,3121,Paul Groves,23,1,0,against,pen 23
 254015,256,Lee Ashcroft,46,0,0,against,46
@@ -2847,6 +3160,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 256827,13754,Lee Morris,67,0,0,against,67
 256827,11180,Traianos Dellas,68,0,0,against,"68, 90"
 256827,11180,Traianos Dellas,90,0,0,against,"68, 90"
+257186,7832,Scott Taylor,10,0,0,for,10
+257186,5912,Liam O'Brien,43,0,0,for,43
+257186,3810,Kenny Irons,53,0,0,for,53
 257513,4100,David Kelly,53,0,0,for,53
 257513,9586,Peter Kennedy,67,0,0,against,67
 257513,14688,Michel Ngonge,87,0,0,against,87
@@ -2867,6 +3183,13 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 255014,3810,Kenny Irons,19,1,0,for,pen 19
 255014,4100,David Kelly,86,0,0,for,86
 255014,1993,Fabian De Freitas,75,0,0,against,75
+252514,10722,Andy Parkinson,7,0,0,for,7
+252514,62,Ade Akinbiyi,32,0,0,against,32
+252552,10722,Andy Parkinson,66,0,0,for,66
+252552,13834,Jason Koumas,70,0,0,for,70
+252552,7631,Marcus Stewart,21,0,0,against,21
+252552,122,Wayne Allison,45,0,0,against,"45, 69"
+252552,122,Wayne Allison,69,0,0,against,"45, 69"
 252004,13834,Jason Koumas,33,0,0,for,33
 252004,3990,Lee Jones,63,0,0,for,63
 252004,3810,Kenny Irons,82,1,0,for,pen 82
