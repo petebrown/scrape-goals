@@ -3980,6 +3980,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 937815,171864,Michael Mellon,31,0,0,against,"31, 47, 61"
 937815,171864,Michael Mellon,47,0,0,against,"31, 47, 61"
 937815,171864,Michael Mellon,61,0,0,against,"31, 47, 61"
+937860,142753,Charlie Whitaker,23,0,0,for,23
 937218,89447,Omari Patrick,63,0,0,for,63
 937218,146693,Joseph Gbode,90,0,0,against,90
 937263,75652,Nathan Smith,56,0,0,for,56
