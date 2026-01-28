@@ -173,8 +173,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812710,75196,Otis Khan,79,0,0,for,79
 812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
 812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
-812725,70918,Kaiyne Woolery,90,0,0,for,90
 812725,68138,Kieron Morris,90,0,0,for,90
+812725,70918,Kaiyne Woolery,90,0,0,for,90
 812725,72740,Tom Conlon,16,1,0,against,pen 16
 812725,55423,David Amoo,24,0,0,against,24
 812725,100505,Devante Rodney,75,0,0,against,75
@@ -3999,6 +3999,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 938060,115858,Kelland Watts,67,0,0,against,"67, 77"
 938060,115858,Kelland Watts,77,0,0,against,"67, 77"
 938060,116340,Ben Knight,90,0,0,against,90
+938083,81267,Mark Shelton,90,0,0,against,90
 937218,89447,Omari Patrick,63,0,0,for,63
 937218,146693,Joseph Gbode,90,0,0,against,90
 937263,75652,Nathan Smith,56,0,0,for,56
