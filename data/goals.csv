@@ -2628,8 +2628,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 338630,9299,Jason Price,39,0,0,for,"39, 88"
 338630,9299,Jason Price,88,0,0,for,"39, 88"
 338630,13834,Jason Koumas,61,0,0,for,61
-338630,122,Wayne Allison,90,0,0,for,90
 338630,24138,Alan Navarro,90,0,0,for,90
+338630,122,Wayne Allison,90,0,0,for,90
 338630,12615,Tom Youngs,83,1,0,against,pen 83
 340544,9299,Jason Price,42,0,0,for,42
 340544,9708,Gareth Roberts,66,0,0,for,66
@@ -4019,4 +4019,7 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 937608,70469,Kristian Dennis,88,0,0,for,88
 937608,57862,Ollie Palmer,74,0,0,against,74
 937608,180653,Finley Munroe,90,0,0,against,90
+938205,142753,Charlie Whitaker,78,0,0,for,78
+938205,111222,Ronan Hale,25,0,0,against,"25, 65"
+938205,111222,Ronan Hale,65,0,0,against,"25, 65"
 540022,58792, Jason Demetriou,90,0,0,against,90
