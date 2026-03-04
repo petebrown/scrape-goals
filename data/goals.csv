@@ -4033,4 +4033,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 938330,164631,James Plant,44,0,0,for,44
 938330,55832,Conor Thomas,77,0,0,against,77
 938330,123635,Josh March,90,0,0,against,90
+937982,81221,Sam Finley,2,0,0,for,2
+937982,163601,Michael Spellman,35,0,0,against,"35, 90"
+937982,163601,Michael Spellman,90,0,0,against,"35, 90"
+937982,115468,Cameron Evans,88,0,0,against,88
 540022,58792, Jason Demetriou,90,0,0,against,90
