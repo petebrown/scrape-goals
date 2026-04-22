@@ -173,8 +173,8 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 812710,75196,Otis Khan,79,0,0,for,79
 812725,40847,James Vaughan,58,0,0,for,"58, pen 71"
 812725,40847,James Vaughan,71,1,0,for,"58, pen 71"
-812725,70918,Kaiyne Woolery,90,0,0,for,90
 812725,68138,Kieron Morris,90,0,0,for,90
+812725,70918,Kaiyne Woolery,90,0,0,for,90
 812725,72740,Tom Conlon,16,1,0,against,pen 16
 812725,55423,David Amoo,24,0,0,against,24
 812725,100505,Devante Rodney,75,0,0,against,75
@@ -886,9 +886,9 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 715454,51911,James Norwood,28,0,0,for,28
 715473,63601,Jack Sampson,31,0,0,against,31
 715487,52480,Adam Mekki,18,1,0,for,pen 18
-715487,65015,Jake Kirby,90,0,0,for,90
-715487,41945,Jeff Hughes,90,0,0,for,90
 715487,71520,Lois Maynard,90,0,0,for,90
+715487,41945,Jeff Hughes,90,0,0,for,90
+715487,65015,Jake Kirby,90,0,0,for,90
 715487,38998,Jason Walker,67,1,0,against,pen 67
 715487,28648,Simon Grand,82,0,0,against,82
 715487,52497,Andy Cook,87,0,0,against,87
@@ -4017,6 +4017,10 @@ game_id,player_id,player_name,minute,penalty,own_goal,goal_type,goal_details
 938688,171217,Jayden Joseph,71,0,0,for,71
 938688,117184,Promise Omochere,65,0,0,against,65
 938688,166982,Yusuf Akhamrich,84,0,0,against,84
+938541,75652,Nathan Smith,47,0,0,for,47
+938541,171217,Jayden Joseph,64,0,0,for,64
+938541,89447,Omari Patrick,85,0,0,for,85
+938541,89639,George Miller,40,0,0,against,40
 937140,63609,Connor Jennings,15,0,0,for,15
 937140,204014,Kyreece Lisbie,87,0,0,against,87
 937384,171217,Jayden Joseph,33,0,0,for,33
